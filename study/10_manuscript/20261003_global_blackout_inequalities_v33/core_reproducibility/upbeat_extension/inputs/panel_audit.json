@@ -1,0 +1,63 @@
+{
+  "source_files": [
+    {
+      "path": "08_database_expansion/20260927_v13/processed/upbeat_all_indicators.parquet",
+      "bytes": 2459258,
+      "sha256": "f53f7bf93929a3cf28b0d67fd30cb7131455857551beaa40e69022b08c9f3789"
+    },
+    {
+      "path": "07_analysis/hazard_cause_country_panel_20260929/data/country_year_electricity_context.parquet",
+      "bytes": 167199,
+      "sha256": "5cd0886e7c4d20a00d1512b5e07ec476d9eeb6dce33509de740856a57f824f41"
+    }
+  ],
+  "replication_snapshot_role": "Public author snapshot; not independent outage observations",
+  "license_note": "Native workbook states CC BY 3.0; authors replication README states CC BY 4.0. Preserve each source-specific statement and attribution.",
+  "native_selected_rows": 4709,
+  "publication_selected_rows": 3852,
+  "snapshot_status_counts": {
+    "matching": 2582,
+    "discrepant": 1156,
+    "native_only": 971,
+    "publication_only": 114
+  },
+  "paired_positive_utility_years_before_screen": 482,
+  "admission_reason_counts": {
+    "unpaired_or_nonpositive_reliability": 1413,
+    "paired_eligible_before_minimum_years": 383,
+    "trajectory_or_source_snapshot_flag": 98,
+    "missing_positive_gdp": 1
+  },
+  "known_quality_flag_utilities": [
+    "CEB",
+    "DSO",
+    "ENA",
+    "EPBiH",
+    "EPCG",
+    "EVN",
+    "Khark.",
+    "MEC",
+    "OSHEE",
+    "SEC",
+    "TANESCO",
+    "WZPDCL"
+  ],
+  "new_source_duration_flag_utilities": [
+    "CEB",
+    "DSO",
+    "DTEK",
+    "ENA",
+    "EPBiH",
+    "EPCG",
+    "Khark.",
+    "OSHEE",
+    "SEC",
+    "UK REN"
+  ],
+  "units": {
+    "frequency": "interruptions/customer/year",
+    "burden": "hours/customer/year",
+    "duration": "hours/interruption"
+  },
+  "interpretation": "Selected utility distribution metrics; planned and major-event inclusions are not uniform; no cause attribution."
+}

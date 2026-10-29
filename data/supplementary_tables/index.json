@@ -1,0 +1,152 @@
+[
+  {
+    "file": "data/supplementary_tables/Evidence_map.csv",
+    "caption": "The table below shows where the supporting evidence for each main result can be found. Table S1 lists all data sources, and Section S13 records analysis decisions taken after inspecting the data.",
+    "rows": 6
+  },
+  {
+    "file": "data/supplementary_tables/Table_S01.csv",
+    "caption": "Table S1. Samples, measured quantities and principal data sources. Registered customers are supply accounts. The Brazilian secondary archives identify their original data sources. The source-address table lists individual annual reports. Abbreviations: GDP, gross domestic product; PPP, purchasing power parity; EIA, Energy Information Administration; SAIFI, system average interruption frequency index; SAIDI, system average interruption duration index; CAIDI, customer average interruption duration index; ACS, American Community Survey; SAIPE, Small Area Income and Poverty Estimates; CEER, Council of European Energy Regulators; ECRB, Energy Community Regulatory Board; ANEEL, Brazilian Electricity Regulatory Agency; IBGE, Brazilian Institute of Geography and Statistics; ENTSO-E, European Network of Transmission System Operators for Electricity; OUR, Jamaica’s Office of Utilities Regulation; REG, Rwanda Energy Group; kV, kilovolts; ERA5, European Centre for Medium-Range Weather Forecasts fifth-generation reanalysis; PNNL, Pacific Northwest National Laboratory; MTF, Multi-Tier Framework; NEA, National Energy Administration of China; NERC, North American Electric Reliability Corporation; E.C., Ethiopian calendar.",
+    "rows": 60
+  },
+  {
+    "file": "data/supplementary_tables/Table_S02.csv",
+    "caption": "Table S2. Differences associated with GDP doubling in logarithmic models using matched observations. Values are percentage differences with 95% HC3 Student’s t intervals. The frequency-minus-duration contrast is 100expβfrequency-βdurationlog2-1. Subscripts identify the frequency and duration regressions. Within each source, all outcomes use the same positive observations. Enterprise models with continent indicators also include centred survey year. Annual hours are interruption hours per customer-year; duration is hours per interruption. GDP denotes gross domestic product; HC3, leverage-adjusted heteroskedasticity-consistent covariance; n, observation count.",
+    "rows": 15
+  },
+  {
+    "file": "data/supplementary_tables/Table_S03.csv",
+    "caption": "Table S3. Reporting populations, periods, measures and aggregation rules for the cause atlas. Time and energy measures retain their source-specific units. Asterisks identify profiles without cause-specific time or energy data; these are excluded from paired summaries. Daggers identify short Japanese and Indian snapshots. Excluding both snapshots leaves 19 changes in the leading category among 34 paired profiles. Published shares may not sum exactly to 100% because of rounding. Source Data retain the original categories, source addresses and leading categories for both measures. ENS, energy not supplied; MWh, megawatt-hours; JPS, Jamaica Public Service Company.",
+    "rows": 41
+  },
+  {
+    "file": "data/supplementary_tables/Table_S04.csv",
+    "caption": "Table S4. Comparisons under different reporting definitions, retaining the original GDP quartiles. Annual gaps are arithmetic differences in hours per customer-year, with equal weights for benchmarks. Percentages give frequency’s contribution to the absolute-hour or logarithmic gap. GDP denotes gross domestic product; n, benchmark count; Q1/Q4, numbers in the lowest/highest quartiles.",
+    "rows": 6
+  },
+  {
+    "file": "data/supplementary_tables/Table_S05.csv",
+    "caption": "Table S5. Initial screening decisions and definition checks for the recent source, before resolving duplicate publication identities.",
+    "rows": 10
+  },
+  {
+    "file": "data/supplementary_tables/Table_S06.csv",
+    "caption": "Table S6. Recent annual interruption-hour gaps and their symmetric components after source screening. Values are hours per customer-year. Brackets give 95% intervals from bootstrap resampling of whole countries, and counts identify reporting countries and utilities.",
+    "rows": 7
+  },
+  {
+    "file": "data/supplementary_tables/Table_S07.csv",
+    "caption": "Table S7. GDP associations in the same 21 utilities across 15 countries. Country-clustered intervals use 14 degrees of freedom, and percentage changes correspond to GDP doubling. The frequency–duration contrast subtracts the log-duration coefficient from the log-frequency coefficient. Annual hours are interruption hours per customer-year, and GDP denotes gross domestic product.",
+    "rows": 9
+  },
+  {
+    "file": "data/supplementary_tables/Table_S08.csv",
+    "caption": "Table S8. Recent annual interruption-hour gaps and their symmetric components at country level. Comparisons use the lowest minus highest quartile of corresponding-year GDP per person at purchasing power parity. Values and 95% country-bootstrap percentile intervals are hours per customer-year. Countries receive equal weight after aggregation of frequency and hours from identical reporting areas in each year. Q1/Q4 give low/high quartile counts. The final column compares the two components directly, with its interval calculated from their paired difference in each bootstrap draw.",
+    "rows": 4
+  },
+  {
+    "file": "data/supplementary_tables/Table_S09.csv",
+    "caption": "Table S9. Regional samples and annual interruption-hour gaps calculated as the lowest minus highest economic group. Values and 95% geographical-bootstrap intervals are hours per customer-year. Economic groups follow the source-specific definitions explained in the text.",
+    "rows": 5
+  },
+  {
+    "file": "data/supplementary_tables/Table_S10.csv",
+    "caption": "Table S10. Category contributions to economic differences in annual interruption hours. Values are hours per customer-year with 95% intervals. Frequency and duration point estimates sum to each category’s gap. European exceptional-category intervals use 3,856 defined draws, while the other displayed intervals use 4,000. Table S11 and the main text report 10,000-draw intervals for the same net category gaps, which differ only in the second decimal place.",
+    "rows": 12
+  },
+  {
+    "file": "data/supplementary_tables/Table_S11.csv",
+    "caption": "Table S11. Matched category shares and contributions to economic differences in annual interruption hours. Frequency and annual-hour shares give the two compared economic groups equal weight. Gaps are low minus high, in hours per customer-year. Intervals are 95% bounds from 10,000 bootstrap draws that resample geographical clusters and keep all categories together. Negative category contributions reduce the lower group’s excess hours. US gap percentages are omitted because the net-gap interval includes zero. Brazil uses the 2021 municipal-GDP sample of 814 areas, which differs from the 2024–2025 resident-poverty sample in Section S8. Administrative and cause categories retain their source definitions.",
+    "rows": 10
+  },
+  {
+    "file": "data/supplementary_tables/Table_S12.csv",
+    "caption": "Table S12. Within-category, composition and net duration gaps, with 95% intervals from geographical resampling. Units are hours per source record or customer interruption, as specified. Brazil, the United States and New Zealand compare the lowest minus highest economic quartiles (Q1−Q4). Türkiye compares rural minus urban administrative totals (Fig. S11).",
+    "rows": 13
+  },
+  {
+    "file": "data/supplementary_tables/Table_S13.csv",
+    "caption": "Table S13. Rural–urban duration comparisons for incidents with shared onset times, and the contribution of customer allocation. Paired ratios weight incidents equally. The last three rows use group-specific customer-interruption weights for the same 254 weather incidents. Intervals resample whole onset dates within the observed year, and h denotes hours.",
+    "rows": 8
+  },
+  {
+    "file": "data/supplementary_tables/Table_S14.csv",
+    "caption": "Table S14. Rural–urban differences in unannounced sustained interruptions during 2025. Frequency and duration columns give rural/urban ratios. Annual interruption hours are per registered supply account, and the final column gives frequency’s contribution to the absolute-hour gap.",
+    "rows": 5
+  },
+  {
+    "file": "data/supplementary_tables/Table_S15.csv",
+    "caption": "Table S15. Checks of stage records against published annual indices. Frequency is customer interruptions per customer-year. Initial-stage frequency divides initial customer counts by registered accounts. Both hour columns show annual interruption hours per customer. Stage-derived hours sum interrupted customer-hours across stages and divide by the same accounts. Published indices define the primary comparison.",
+    "rows": 10
+  },
+  {
+    "file": "data/supplementary_tables/Table_S16.csv",
+    "caption": "Table S16. Leading categories for average service interruption and rural–urban inequality in four Turkish regions, 2025. Overall frequency and annual hours weight rural and urban means equally. Gaps are rural minus urban annual hours. The final column gives weather’s shares of frequency, average annual hours and the signed hour gap, in that order. Rows describe regions within one country. Southern Marmara does not separately identify weather initiation, and administrative population totals have no sampling confidence intervals.",
+    "rows": 5
+  },
+  {
+    "file": "data/supplementary_tables/Table_S17.csv",
+    "caption": "Table S17. Mean duration of recorded weather and lightning interruptions relative to human-error interruptions in the same region. Ratios are geometric means with equal weight for each region. The 95% intervals use paired log ratios and Student’s t distribution; n is the number of paired regions.",
+    "rows": 5
+  },
+  {
+    "file": "data/supplementary_tables/Table_S18.csv",
+    "caption": "Table S18. Associations across the GDP interquartile range for Brazilian record rates, cumulative record-hours and mean record duration. Values are percentage changes with 95% intervals. Record counts and record-hours are divided by customer-years. Mean duration is record-hours divided by record counts. GDP denotes gross domestic product.",
+    "rows": 22
+  },
+  {
+    "file": "data/supplementary_tables/Table_S19.csv",
+    "caption": "Table S19. Brazilian customer interruption measures per ten-percentage-point increase in the share of low-income residents. Values are percentage changes with 95% intervals. Annual hours are interruption hours per customer-year; mean duration is hours per customer interruption.",
+    "rows": 13
+  },
+  {
+    "file": "data/supplementary_tables/Table_S20.csv",
+    "caption": "Table S20. Annual interruption-hour gaps in Brazil by resident poverty share and outage class, 2024–2025. The sample contains 703 service areas in 275 municipalities; Q1 and Q4 are the lowest and highest quartiles of municipal poverty share (living on at most half the monthly minimum wage per household member, 2022 Census). Balanced class shares give Q1 and Q4 equal weight. Gaps and their frequency and duration components are in hours per customer-year, with 95% intervals from 4,000 municipality-cluster bootstrap draws. Ordinary unplanned interruptions are class IND; emergency/critical interruptions combine classes INE and INC. Class gaps sum to the covered gap, but class-specific frequency and duration components need not sum to the aggregate components. ‘Municipal means’ average areas within municipalities before weighting municipalities equally.",
+    "rows": 7
+  },
+  {
+    "file": "data/supplementary_tables/Table_S21.csv",
+    "caption": "Table S21. Cause-specific associations with low-income share in 540 Brazilian areas, 193 municipalities and 17 states, 2024–2025. Values are percentage changes per ten-percentage-point increase in low-income share, adjusted for customer density and state. Brackets give pointwise 95% confidence intervals. Record counts and record-hours are divided by customer-years. Mean duration is record-hours divided by record counts.",
+    "rows": 7
+  },
+  {
+    "file": "data/supplementary_tables/Table_S22.csv",
+    "caption": "Table S22. Density-adjusted associations with poverty across eight New York regions. Values are percentage changes per five-percentage-point increase in poverty share, with 95% intervals. Causes with fewer than four regions reporting positive values lack sufficient support. Annual hours are interruption hours per customer-year; mean duration is hours per customer interruption.",
+    "rows": 11
+  },
+  {
+    "file": "data/supplementary_tables/Table_S23.csv",
+    "caption": "Table S23. US county episode-duration associations per five-percentage-point increase in 2018 poverty, with 95% state-clustered intervals. Primary county–year models use 8,812 observations; requiring ≥5 episodes per class leaves 3,921. Event models use 20,726 county–event observations and 627 intercepts. Duration refers to published county episodes. pp denotes percentage points, and h denotes hours.",
+    "rows": 17
+  },
+  {
+    "file": "data/supplementary_tables/Table_S24.csv",
+    "caption": "Table S24. Mean episode-duration differences between the highest and lowest poverty quartiles across 2,460 equally weighted counties. The 95% intervals use 999 state-bootstrap resamples with fixed quartiles. Within-class duration and composition components sum to the total duration gap. Weather shares describe recorded episodes.",
+    "rows": 9
+  },
+  {
+    "file": "data/supplementary_tables/Table_S25.csv",
+    "caption": "Table S25. Sample support and household service gaps between groups with no and high lived poverty. Conditional reliability describes connected respondents; reliable service also includes unconnected respondents in its denominator. Components separate the product of connection probability and reliability after connection. Gaps subtract high poverty from no poverty. pp denotes percentage points; n is the number of connected respondents.",
+    "rows": 24
+  },
+  {
+    "file": "data/supplementary_tables/Table_S26.csv",
+    "caption": "Table S26. No-minus-high-lived-poverty gaps in areas with broad local grid access. Values are country point estimates in percentage points (pp); n counts respondents with valid service-state information.",
+    "rows": 24
+  },
+  {
+    "file": "data/supplementary_tables/Table_S27.csv",
+    "caption": "Table S27. Cambodian household samples and paired typical-week outcomes by quintile of income per household member. Frequency is interruptions per household-week; interruption hours are total hours per household-week. Mean duration is minutes per interruption. Q1–Q5 run from the lowest to highest quintile; n denotes household count.",
+    "rows": 6
+  },
+  {
+    "file": "data/supplementary_tables/Table_S28.csv",
+    "caption": "Table S28. Kenyan and Ethiopian household samples, connection and paired typical-week outcomes by quintile of food-consumption value per household member. Frequency is interruptions per household-week; interruption hours are total hours per household-week. Mean duration is hours per interruption. Q1–Q5 run from the lowest to highest quintile; n denotes household count.",
+    "rows": 11
+  },
+  {
+    "file": "data/supplementary_tables/Table_S29.csv",
+    "caption": "Table S29. Reported barriers contributing to the connection gap between the lowest and highest living-standard quintiles. Components compare Q1-minus-Q5 proportions in each unconnected state; the total compares Q5-minus-Q1 connection proportions. Values and 95% geographical-block bootstrap intervals are in percentage points (pp).",
+    "rows": 13
+  }
+]

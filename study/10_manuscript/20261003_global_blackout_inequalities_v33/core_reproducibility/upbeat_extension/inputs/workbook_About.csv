@@ -1,0 +1,46 @@
+,,
+,,
+,,
+,,
+,UPBEAT,
+,"UPBEAT (Utility Performance and Behavior Today) is a data platform that tracks and compares performance data for selected electric utilities from around the world.
+
+",
+,"UPBEAT is financed by the World Bank’s Energy Sector Management Assistance Program (ESMAP), a partnership between the World Bank and 22 partners to help low and middle-income countries reduce poverty and boost growth through sustainable energy solutions, and the Public-Private Infrastructure Advisory Facility (PPIAF). ",
+,,
+,UPBEAT data is provided under a Creative Commons Attribution 3.0 license. ,
+,Energydata.info terms and conditions apply.,
+,,
+,Indicator Definitions,
+,Indicator,Definition
+,,
+,Cost of debt,Interest expense relative to debt held (effective interest rate)
+,Debt to assets ratio,Debt held relative to total assets
+,Debt to equity ratio,Debt held relative to equity
+,Maturity matching,Degree to which long-term assets are financed by long-term liabilities and equity. Value >1 implies a utility is using short-term capital to finance long-term assets and vice-versa for value <1
+,Net Debt to EBITDA,"Ability of utility to cover debt held (net of cash held) from earnings before interest, taxes, depreciation and amortization"
+,Net debt to sales ratio,Ability of utility to cover debt held (net of cash held) from revenues
+,Operating and debt service cost recovery (cash basis) excluding subsidies,Share of operating expenses and debt service covered by cash collected from sales
+,Operating and debt service cost recovery (cash basis) including subsidies,Share of operating expenses and debt service covered by subsidies and cash collected from sales
+,Operating cost recovery (cash basis) excluding subsidies,Share of operating expenses covered by cash collected from sales
+,Operating cost recovery (cash basis) including subsidies,Share of operating expenses covered by subsidies and cash collected from sales
+,Collection Rate,Cash collected as a share of revenue billed
+,Age of payables,Invoiced but unpaid expenses to suppliers expressed as number of days of cost
+,Current Ratio,"Ability of utility to cover short-term obligations (e.g., outstanding payments to suppliers) with short-term assets (e.g., cash)."
+,Debt Service Coverage Ratio (DSCR),Ability of utility to meet total debt service (principal and interest) from cash flow
+,Age of receivables,Billed but uncollected revenues from customers expressed as number of days of revenues equivalent
+,Interest Coverage Ratio,Ability of earnings before interest and taxation to cover interest expense
+,EBIT Margin,Earnings before interest and taxation as a share of revenue
+,EBITDA Margin,"Earnings before interest, taxation, depreciation and amortization as a share of revenue"
+,Net Profit Margin,Net profit as a share of revenue
+,Capital expenditure covered by subsidies,Share of capital expenditure covered by capital subsidies reported in financial statements
+,Dividend distributed to government,Share of dividends paid to public shareholders
+,Effective taxation rate,Share of earnings paid as tax (may differ from nominal taxation rate)
+,Operating costs covered by subsidies,Share of operating expenditure covered by operating subsidies reported in financial statements
+,SAIDI-D,System average interruption duration index for distribution
+,SAIDI-T,System average interruption duration index for transmission
+,SAIFI-D,System average interruption frequency index for distribution
+,SAIFI-T,System average interruption frequency index for transmission
+,System Losses,Share of energy lost in transmission and distribution combined (technical and commercial)
+,Distribution Losses,Share of energy lost in distribution (technical and commercial)
+,Transmission Losses,Share of energy lost in transmission

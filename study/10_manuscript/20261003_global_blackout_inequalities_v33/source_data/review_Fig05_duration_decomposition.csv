@@ -1,0 +1,13 @@
+region,component,value,lower,upper,unit,interval
+Brazil,Within class,-0.5087547358109071,-1.3914765421399982,0.758473151838953,record-hours per record,Existing municipality bootstrap
+Brazil,Composition,0.5916071583486829,-0.3314229193571684,1.5651385017444763,record-hours per record,Existing municipality bootstrap
+Brazil,Net,0.0828524225377753,-1.327079015724808,1.547416514945103,record-hours per record,Existing municipality bootstrap
+United States,Within class,0.3940572731528686,-0.9433084363863624,1.5725231675970197,hours per customer interruption,Fixed-quartile whole-region percentile bootstrap
+United States,Composition,-0.2980884577008177,-0.792611476023407,0.4382988637826485,hours per customer interruption,Fixed-quartile whole-region percentile bootstrap
+United States,Net,0.0959688154520517,-1.2473096801683334,1.3359147315279456,hours per customer interruption,Fixed-quartile whole-region percentile bootstrap
+New Zealand,Within class,0.0688337095297462,-0.7469359429522893,1.019339501812205,hours per customer interruption,Fixed-quartile whole-region percentile bootstrap
+New Zealand,Composition,0.4418777542631305,0.1539630799991309,0.7142758095134054,hours per customer interruption,Fixed-quartile whole-region percentile bootstrap
+New Zealand,Net,0.5107114637928769,-0.2890330920841149,1.3221032751112662,hours per customer interruption,Fixed-quartile whole-region percentile bootstrap
+Türkiye,Within class,-0.0193978116861405,,,hours per customer interruption,Observed annual administrative accounting; no sampling interval
+Türkiye,Composition,0.0540026018698346,,,hours per customer interruption,Observed annual administrative accounting; no sampling interval
+Türkiye,Net,0.0346047901836941,,,hours per customer interruption,Observed annual administrative accounting; no sampling interval

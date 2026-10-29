@@ -1,0 +1,15 @@
+{
+  "utility": "MEPCO",
+  "source_year": 2023,
+  "native_SAIDI_hours_label_value": 3633.73,
+  "regulator_value": 3633.73,
+  "regulator_unit": "minutes/customer/year",
+  "regulator_scope": "without low-tension interruptions",
+  "regulator_including_low_tension_minutes": 4723.73,
+  "pdf_file": "inputs/nepra2023.pdf",
+  "pdf_page": 17,
+  "printed_page": 16,
+  "table": 7,
+  "status": "entire trajectory quarantined; no inferred correction",
+  "note": "2021 historical table also contains inconsistent-looking 39.73 versus archived 662.2167 hours; no unsupported resolution attempted"
+}

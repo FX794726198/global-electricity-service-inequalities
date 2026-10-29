@@ -1,0 +1,4 @@
+cause_native,station_frequency_index,ens_mwh,equivalent_interruption_h,country_iso3,year,source_url,source_locator,frequency_share,ens_share,frequency_is_event_count,cause_group
+Incidents,24.4,23121.442,166.3,GIN,2016,https://www.sieguinee-dne.org/images/RAPPORT_ANNUEL_EDG_2016_partie1.pdf,PDF/printed pp25-27; source annual totals,0.15885416666666663,0.24874400449492834,False,Other / unresolved
+Works,80.5,25672.244,184.6,GIN,2016,https://www.sieguinee-dne.org/images/RAPPORT_ANNUEL_EDG_2016_partie1.pdf,PDF/printed pp25-27; source annual totals,0.5240885416666666,0.27618592200827685,False,Planned
+Load shedding,48.7,44159.075,317.5,GIN,2016,https://www.sieguinee-dne.org/images/RAPPORT_ANNUEL_EDG_2016_partie1.pdf,PDF/printed pp25-27; source annual totals,0.31705729166666663,0.47507007349679475,False,Supply constraint

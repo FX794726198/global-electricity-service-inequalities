@@ -1,0 +1,11 @@
+Country / quintile,All n,Connected n,Paired n,Connection (%),Frequency (week⁻¹),Interruption hours/week,Mean duration (h)
+Ethiopia Q1,507,182,162,14.2,3.67,5.53,1.51
+Ethiopia Q2,568,272,249,25.8,3.64,9.51,2.61
+Ethiopia Q3,662,381,355,31.0,3.58,9.04,2.52
+Ethiopia Q4,897,688,628,48.2,4.71,7.43,1.58
+Ethiopia Q5,1115,985,914,66.6,4.46,8.89,1.99
+Kenya Q1,624,120,70,17.3,7.54,12.57,1.67
+Kenya Q2,625,198,112,28.7,4.46,4.64,1.04
+Kenya Q3,651,281,141,39.7,1.90,4.80,2.53
+Kenya Q4,610,335,156,50.1,1.85,5.82,3.15
+Kenya Q5,688,482,273,64.5,1.82,3.95,2.17

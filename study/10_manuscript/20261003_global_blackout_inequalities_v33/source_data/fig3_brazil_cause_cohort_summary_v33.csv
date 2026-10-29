@@ -1,0 +1,4 @@
+cohort,occurrence_total,time_total,composition_shift_pct,leading_occurrence,leading_time,leading_occurrence_share_pct,leading_time_share_pct,leader_changed,areas
+Brazil2623 mapped complete-year,6429288,1087917084.5691667,15.17667389390757,Equipment / electrical,Other environment,44.69026741374783,40.21297806082609,True,2623
+Brazil2706 complete-year,6776506,1156859224.9463887,14.834486450108018,Equipment / electrical,Other environment,46.328476651536945,39.26826711857097,True,2706
+Brazil689 historical economic subset,1309130,198066387.8166667,22.285047008572633,Equipment / electrical,Equipment / electrical,55.38349896496146,38.61246590318919,False,689

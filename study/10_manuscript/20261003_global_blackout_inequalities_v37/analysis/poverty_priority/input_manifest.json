@@ -1,0 +1,63 @@
+{
+  "source_files": [
+    {
+      "path": "07_analysis/social_cause_gradient_20261002/data/analysis_context.csv",
+      "sha256": "1e39cb995a88c65f965121203c717ca9d3a640d87b058878bff2c1f28231056d"
+    },
+    {
+      "path": "07_analysis/social_cause_gradient_20261002/data/regulatory_stages.csv",
+      "sha256": "cb8080bc3a20ba9ebded6cff74b25c9f088f1b4fa4c8c173c554dd8776a39b82"
+    },
+    {
+      "path": "07_analysis/social_cause_gradient_20261002/data/cause_stages.parquet",
+      "sha256": "2603872969546d12249ddcd60381fbd1f4ce0b96ff859fa68c110fbd4f3042ae"
+    },
+    {
+      "path": "07_analysis/brazil_detailed_cause_extension_20261002/data/native_monthly_support.parquet",
+      "sha256": "697302bd0361519b34a7ec6819c2a4ee8ac807cb5508aba62284f7114045735d"
+    },
+    {
+      "path": "07_analysis/social_cause_gradient_20261002/src/prepare.py",
+      "sha256": "07db6defb2bf443a4ce58e213fb1d3c0293fc9a579652a3f60f27d3255288db0"
+    },
+    {
+      "path": "07_analysis/brazil_detailed_cause_extension_20261002/src/link_geography.py",
+      "sha256": "49279925dd4d423bc4755009211169988324ce5e0c7471256416469195a667ee"
+    },
+    {
+      "path": "07_analysis/brazil_detailed_cause_extension_20261002/src/analyse.py",
+      "sha256": "fbc332a03fef1b41e3cb67435e54ac51dc29abf5d6e961d93102bae346826d40"
+    },
+    {
+      "path": "07_analysis/brazil_detailed_cause_extension_20261002/data/economic_geographic_cohort.geoparquet",
+      "sha256": "85fc9aff13a3b342a4d5558975a265c45c0bf998ab2306fb9bc042ee42b83654"
+    }
+  ],
+  "snapshot_files": [
+    {
+      "path": "analysis/poverty_priority/inputs/native_monthly_703.csv",
+      "sha256": "7ecbd0360710d6903d9447654e94b7626c3e7c1c08b74c1ad2feb1218b621084"
+    },
+    {
+      "path": "analysis/poverty_priority/inputs/fine_cause_stages_703.csv",
+      "sha256": "34cdf1fee374a4383338995ce162bf30e72ce8299c847c4c60e19e3d093aecf9"
+    },
+    {
+      "path": "analysis/poverty_priority/inputs/context_703.csv",
+      "sha256": "1e39cb995a88c65f965121203c717ca9d3a640d87b058878bff2c1f28231056d"
+    },
+    {
+      "path": "analysis/poverty_priority/inputs/previous_regulatory_stages.csv",
+      "sha256": "cb8080bc3a20ba9ebded6cff74b25c9f088f1b4fa4c8c173c554dd8776a39b82"
+    }
+  ],
+  "official_source_urls": {
+    "reliability": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+    "income": "https://sidra.ibge.gov.br/tabela/10296",
+    "income_summary": "https://sidra.ibge.gov.br/tabela/10295",
+    "geography": "https://dadosabertos.aneel.gov.br/dataset/base-de-dados-geografica-da-distribuidora-bdgd",
+    "fine_causes": "https://dadosabertos.aneel.gov.br/dataset/interrupcoes-de-energia-eletrica-nas-redes-de-distribuicao"
+  },
+  "fine_cause_transport": "https://github.com/vsvilela39-oss/projeto-aneel/releases/tag/v1.0-dados",
+  "snapshot_note": "Native monthly parquet and existing cause parquet converted losslessly to CSV with pyarrow-enabled analysis environment; all new calculations can run with pandas/numpy in the primary runtime."
+}

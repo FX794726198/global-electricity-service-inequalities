@@ -1,0 +1,10 @@
+region,category,component,value_h,lower_h,upper_h,defined_draws,n_Q1,clusters_Q1,n_Q4,clusters_Q4,total_units,period,social,population,cluster
+Brazil,Critical day,gap,0.4767243064186099,-0.3360544792492332,1.4464825150410707,4000,138,84,283,84,814,2021,municipal GDP per person,four internal interruption classes in regulatory service areas,municipality
+Brazil,Emergency,gap,1.012364729449054,-1.1143348479114676,3.2512349923098687,4000,138,84,283,84,814,2021,municipal GDP per person,four internal interruption classes in regulatory service areas,municipality
+Brazil,Ordinary unplanned,gap,8.792876422142294,4.055465040312623,14.69534299438432,4000,138,84,283,84,814,2021,municipal GDP per person,four internal interruption classes in regulatory service areas,municipality
+Brazil,Planned,gap,-0.1564743744250598,-0.4991034706030494,0.3362309992643313,4000,138,84,283,84,814,2021,municipal GDP per person,four internal interruption classes in regulatory service areas,municipality
+United States,Exceptional / major,gap,1.4115712715044513,-0.8239762296926342,3.9483766808976273,4000,13,13,12,12,49,2013–2024,state household income,matched reported state-level customer indices,state
+United States,Routine / non-major,gap,0.7863967078828145,-0.2821081259288366,1.995833390544332,4000,13,13,12,12,49,2013–2024,state household income,matched reported state-level customer indices,state
+New Zealand,Human activity,gap,0.199545446718458,-0.0695405753360714,0.426302668849459,4000,6,6,5,5,21,2023–2025,geographically allocated personal income,Class C interruption indices in geographical supply regions,region
+New Zealand,Remaining causes,gap,3.051336928094434,0.3038530728857442,6.043191319755818,4000,6,6,5,5,21,2023–2025,geographically allocated personal income,Class C interruption indices in geographical supply regions,region
+New Zealand,Weather,gap,1.8866743923729972,0.7850966160098043,3.0808969497603766,4000,6,6,5,5,21,2023–2025,geographically allocated personal income,Class C interruption indices in geographical supply regions,region

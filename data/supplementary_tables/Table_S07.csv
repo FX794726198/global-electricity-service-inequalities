@@ -1,0 +1,9 @@
+Specification,Outcome,Log coefficient [95% interval],Change (%) [95% interval]
+GDP only,Frequency,"-0.921 [-1.778, -0.064]","-47.2 [-70.8, -4.3]"
+GDP only,Mean duration,"0.100 [-0.291, 0.492]","7.2 [-18.3, 40.6]"
+GDP only,Annual interruption hours,"-0.820 [-1.640, -0.001]","-43.4 [-67.9, -0.1]"
+GDP only,Frequency–duration contrast,"-1.021 [-2.072, 0.030]","-50.7 [-76.2, 2.1]"
+Region adjusted,Frequency,"-0.812 [-1.500, -0.124]","-43.0 [-64.6, -8.2]"
+Region adjusted,Mean duration,"-0.202 [-0.853, 0.448]","-13.1 [-44.6, 36.4]"
+Region adjusted,Annual interruption hours,"-1.014 [-2.026, -0.002]","-50.5 [-75.4, -0.1]"
+Region adjusted,Frequency–duration contrast,"-0.610 [-1.486, 0.267]","-34.5 [-64.3, 20.3]"

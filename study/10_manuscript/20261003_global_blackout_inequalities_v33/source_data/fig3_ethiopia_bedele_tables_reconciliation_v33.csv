@@ -1,0 +1,5 @@
+system,period_native,interruption_count,total_feeder_interruption_hours,component_count_total,component_hours_total,fine_minus_broad_hours
+Beer factory,2006 E.C.,172,142.62,172,142.57,0.05000000000001137
+Beer factory,2007 E.C.,372,497.3,372,497.15000000000003,0.14999999999997726
+Bedele city,2006 E.C.,527,644.57,527,644.5699999999999,1.1368683772161603e-13
+Bedele city,2007 E.C.,707,774.23,707,774.58,-0.35000000000002274

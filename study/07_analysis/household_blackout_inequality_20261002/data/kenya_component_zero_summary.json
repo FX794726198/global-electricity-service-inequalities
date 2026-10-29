@@ -1,0 +1,74 @@
+{
+  "country": "kenya",
+  "variant": "component_zero",
+  "eligible_n": 3198,
+  "paired_n": 1269,
+  "contrasts": {
+    "connection": {
+      "ratio": 0.26749225187391834,
+      "ratio_lo": 0.18837558241592037,
+      "ratio_hi": 0.35937313492761597,
+      "difference": -0.4728237275385849,
+      "difference_lo": -0.5808298302822054,
+      "difference_hi": -0.3614232333123704
+    },
+    "frequency_week": {
+      "ratio": 2.9209953235265784,
+      "ratio_lo": 0.9939109274469383,
+      "ratio_hi": 6.892152042823821,
+      "difference": 3.3256351286087718,
+      "difference_lo": -0.011243480375907321,
+      "difference_hi": 9.82974965838014
+    },
+    "hours_week": {
+      "ratio": 2.086153378450342,
+      "ratio_lo": 0.6172675961588705,
+      "ratio_hi": 4.567677388244419,
+      "difference": 7.082284330389251,
+      "difference_lo": -2.6668986713787617,
+      "difference_hi": 21.029202883209486
+    },
+    "duration_hours": {
+      "ratio": 0.7141926457902322,
+      "ratio_lo": 0.1818859924217605,
+      "ratio_hi": 2.8525163758009033,
+      "difference": -1.0764833305020183,
+      "difference_lo": -3.5664550498383947,
+      "difference_hi": 6.048610979722161
+    },
+    "frequency_week_all_valid": {
+      "ratio": 2.886259935608813,
+      "ratio_lo": 1.0036305161911272,
+      "ratio_hi": 6.615802128860274,
+      "difference": 3.2459955450551154,
+      "difference_lo": 0.006034104600791358,
+      "difference_hi": 9.539442643399989
+    }
+  },
+  "settlement_standardization": {
+    "admitted": true,
+    "min_extreme_cell_n": 44,
+    "urban_weight": 0.6807347835257539,
+    "frequency_week": {
+      "ratio": 3.4879965424488364,
+      "lo": 0.8859256495473931,
+      "hi": 9.169984851475204
+    },
+    "hours_week": {
+      "ratio": 2.051238398877329,
+      "lo": 0.6338545620701548,
+      "hi": 4.765804086305429
+    },
+    "duration_hours": {
+      "ratio": 0.5880849862990991,
+      "lo": 0.1298602420358989,
+      "hi": 3.314365036114744
+    }
+  },
+  "bootstrap_replicates": 2000,
+  "seed": 20261002,
+  "blocks": 352,
+  "bootstrap_strata": 8,
+  "singleton_strata": 0,
+  "identity_error_max": 1.7763568394002505e-15
+}

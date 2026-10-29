@@ -1,0 +1,10 @@
+year,cause_rows,outage_count,asset_hours,published_hour_share_sum,duration_bin_count_sum,counts_reconcile,source_values_verified,table,pdf_pages,source_url,source_sha256
+2016,12,498.0,5644.763000000001,99.99,498.0,True,True,4-64,111;112,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,75d81ca6d293f7091dd02d1b9fdd2f166c18814a833850ae22bebfaeae942325
+2017,12,486.0,4544.449,99.99999999999999,486.0,True,True,4-74,128,https://prpq.nea.gov.cn/uploads/1.pdf,9d2ac8a438aa071fbc5d3f9c5e81d0cd4cdbd70ae0a8d436bbf2892d5ddc56b4
+2018,12,585.0,10880.966,99.99000000000001,585.0,True,True,4-53,114,https://prpq.nea.gov.cn/9152.pdf,472ef647c5c02e0ff0077ba5b58bb5043544ea0fa277195a64a8e0cf1bfc4425
+2019,12,694.0,6102.668,98.19399999999999,694.0,True,True,4-55,111,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,14e1e7c18fb2c858b171e86698c6f031a79e2cbd464266ddea957f5dea564c7e
+2020,13,490.0,4990.59,100.01,490.0,True,True,4-55,112;113,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,86303ff20fc2c3729b79dabb9a8d3c619955b7790f97cc1cea9c72490a26ca99
+2021,12,436.0,3125.09,100.01000000000002,436.0,True,True,3-54,110;111,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,caf8930e9032f048df4d87aa1805a0fe8de70287e5bee50a0e128a5686f8908a
+2022,11,397.0,14194.132999999998,100.0,397.0,True,True,3-54,115;116,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3d8245cf1be7743a7e5702df5d6ab2b3ba88180f7c8f714e56677b461923ff39
+2023,14,521.0,6747.271,100.0,521.0,True,True,3-56,110,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,eccf6c6a63eb9d93f1c4b1f55da9873c915ba1ac6f77ddf758c581104ca4c0d0
+2024,15,994.0,16449.24,100.002,994.0,True,True,3-52,114,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,06d6ae9e14e9268613de4bf1fd91525b9494ce02e4f9a471c78a56c1caacb81c

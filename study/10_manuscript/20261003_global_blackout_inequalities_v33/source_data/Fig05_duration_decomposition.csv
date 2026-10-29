@@ -1,0 +1,5 @@
+region,n,q1_n,q4_n,scope,duration_low_h,duration_high_h,gap_low_minus_high_h,within_category_h,composition_h,within_pct_of_high,composition_pct_of_high,gap_pct_of_high,identity_error_h
+Brazil,,,,,,,,,,-6.910563802899797,8.03597239739575,1.125408594495946,
+United States,49.0,13.0,12.0,Paired annual-index components; equal reporting systems,4.216553197618452,4.1205843821664,0.0959688154520517,0.3940572731528691,-0.2980884577008177,9.563140482168532,-7.234130648820678,2.3290098333478624,-3.3306690738754696e-16
+New Zealand,21.0,6.0,5.0,"All Class C causes, including residual; equal networks",2.432673708409148,1.9219622446162707,0.5107114637928774,0.0688337095297466,0.4418777542631307,3.5814288091538264,22.990969541722382,26.57239835087621,0.0
+Türkiye,,,,Direct rural minus urban customer groups; 2025 detailed cause records,,,,,,-2.5799721197357393,7.182521898431887,4.602549778696152,

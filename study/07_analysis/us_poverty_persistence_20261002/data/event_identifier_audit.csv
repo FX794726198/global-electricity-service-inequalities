@@ -1,0 +1,873 @@
+event_key,starts,ends,types,n,consistent
+2019|Alabama|Alabama-0,1,1,1,109,True
+2019|Alabama|Alabama-1,1,1,1,69,True
+2019|Arkansas|Arkansas-0,1,1,1,29,True
+2019|Arkansas|Arkansas-2,1,1,1,40,True
+2019|Arkansas|Arkansas-3,1,1,1,86,True
+2019|Arkansas|Arkansas-5,1,1,1,44,True
+2019|California|California-0,1,1,1,225,True
+2019|California|California-10,1,1,1,280,True
+2019|California|California-12,1,1,1,1194,True
+2019|California|California-14,1,1,1,178,True
+2019|California|California-16,1,1,1,138,True
+2019|California|California-18,1,1,1,144,True
+2019|California|California-3,1,1,1,114,True
+2019|California|California-31,1,1,1,352,True
+2019|California|California-36,1,1,1,172,True
+2019|California|California-4,1,1,1,239,True
+2019|California|California-5,1,1,1,79,True
+2019|California|California-6,1,1,1,117,True
+2019|California|California-9,1,1,1,512,True
+2019|Colorado|Colorado-1,1,1,1,42,True
+2019|Connecticut|Connecticut-0,1,1,1,24,True
+2019|Connecticut|Connecticut-1,1,1,1,24,True
+2019|Connecticut|Connecticut-2,1,1,1,17,True
+2019|Florida|Florida-0,1,1,1,211,True
+2019|Georgia|Georgia-0,1,1,1,131,True
+2019|Georgia|Georgia-1,1,1,1,192,True
+2019|Illinois|Illinois-2,1,1,1,99,True
+2019|Illinois|Illinois-3,1,1,1,69,True
+2019|Indiana|Indiana-1,1,1,1,67,True
+2019|Kansas|Kansas-0,1,1,1,39,True
+2019|Kansas|Kansas-1,1,1,1,13,True
+2019|Kentucky|Kentucky-0,1,1,1,150,True
+2019|Louisiana|Louisiana-10,1,1,1,72,True
+2019|Louisiana|Louisiana-2,1,1,1,123,True
+2019|Louisiana|Louisiana-3,1,1,1,207,True
+2019|Louisiana|Louisiana-5,1,1,1,179,True
+2019|Louisiana|Louisiana-6,1,1,1,118,True
+2019|Louisiana|Louisiana-7,1,1,1,187,True
+2019|Maine|Maine-1,1,1,1,44,True
+2019|Maine|Maine-7,1,1,1,18,True
+2019|Maine|Maine-8,1,1,1,23,True
+2019|Massachusetts|Massachusetts-2,1,1,1,39,True
+2019|Massachusetts|Massachusetts-3,1,1,1,1,True
+2019|Massachusetts|Massachusetts-4,1,1,1,38,True
+2019|Massachusetts|Massachusetts-5,1,1,1,40,True
+2019|Massachusetts|Massachusetts-6,1,1,1,2,True
+2019|Michigan|Michigan-11,1,1,1,153,True
+2019|Michigan|Michigan-12,1,1,1,98,True
+2019|Michigan|Michigan-13,1,1,1,196,True
+2019|Michigan|Michigan-2,1,1,1,41,True
+2019|Michigan|Michigan-3,1,1,1,104,True
+2019|Michigan|Michigan-4,1,1,1,95,True
+2019|Michigan|Michigan-5,1,1,1,144,True
+2019|Michigan|Michigan-6,1,1,1,126,True
+2019|Mississippi|Mississippi-0,1,1,1,97,True
+2019|Mississippi|Mississippi-1,1,1,1,70,True
+2019|Missouri|Missouri-0,1,2,1,45,False
+2019|Nebraska|Nebraska-0,1,1,1,1,True
+2019|New Hampshire|New Hampshire-0,1,1,1,25,True
+2019|New Hampshire|New Hampshire-1,1,1,1,21,True
+2019|New Hampshire|New Hampshire-2,1,1,1,14,True
+2019|New Jersey|New Jersey-2,1,1,1,102,True
+2019|New York|New York-0,1,1,1,133,True
+2019|New York|New York-1,1,1,1,82,True
+2019|New York|New York-4,1,1,1,81,True
+2019|New York|New York-7,1,1,1,63,True
+2019|North Carolina|North Carolina-0,1,1,1,74,True
+2019|North Carolina|North Carolina-1,1,1,1,113,True
+2019|North Carolina|North Carolina-2,1,1,1,100,True
+2019|North Carolina|North Carolina-3,1,1,1,101,True
+2019|North Carolina|North Carolina-4,1,1,1,49,True
+2019|Ohio|Ohio-1,1,1,1,177,True
+2019|Ohio|Ohio-2,1,1,1,153,True
+2019|Ohio|Ohio-4,1,1,1,60,True
+2019|Ohio|Ohio-8,1,1,1,119,True
+2019|Oklahoma|Oklahoma-2,1,1,1,52,True
+2019|Oklahoma|Oklahoma-4,1,1,1,52,True
+2019|Oklahoma|Oklahoma-6,1,2,2,99,False
+2019|Pennsylvania|Pennsylvania-2,1,1,1,147,True
+2019|Pennsylvania|Pennsylvania-3,1,1,1,156,True
+2019|Pennsylvania|Pennsylvania-4,1,1,1,148,True
+2019|Pennsylvania|Pennsylvania-7,1,1,1,138,True
+2019|Pennsylvania|Pennsylvania-8,1,1,1,100,True
+2019|Rhode Island|Rhode Island-0,1,1,1,11,True
+2019|Rhode Island|Rhode Island-1,1,1,1,16,True
+2019|Rhode Island|Rhode Island-2,1,1,1,5,True
+2019|South Carolina|South Carolina-0,1,1,1,26,True
+2019|South Carolina|South Carolina-2,1,1,1,39,True
+2019|South Carolina|South Carolina-4,1,1,1,44,True
+2019|South Carolina|South Carolina-5,1,1,1,25,True
+2019|Tennessee|Tennessee-0,1,1,1,139,True
+2019|Tennessee|Tennessee-2,1,1,1,69,True
+2019|Texas|Texas-1,1,1,1,174,True
+2019|Texas|Texas-11,1,1,1,182,True
+2019|Texas|Texas-16,1,1,1,291,True
+2019|Texas|Texas-17,1,1,1,173,True
+2019|Texas|Texas-18,1,1,1,223,True
+2019|Texas|Texas-2,1,1,1,223,True
+2019|Texas|Texas-20,1,1,1,338,True
+2019|Texas|Texas-21,1,1,1,308,True
+2019|Texas|Texas-22,1,1,1,392,True
+2019|Texas|Texas-23,1,1,1,345,True
+2019|Texas|Texas-24,1,1,1,306,True
+2019|Texas|Texas-27,1,1,1,229,True
+2019|Texas|Texas-28,1,1,1,166,True
+2019|Texas|Texas-3,1,1,1,190,True
+2019|Texas|Texas-36,1,1,1,174,True
+2019|Texas|Texas-4,1,1,1,155,True
+2019|Texas|Texas-5,1,1,1,379,True
+2019|Texas|Texas-6,1,1,1,152,True
+2019|Texas|Texas-8,1,1,1,108,True
+2019|Vermont|Vermont-0,1,1,1,14,True
+2019|Vermont|Vermont-1,1,1,1,26,True
+2019|Vermont|Vermont-2,1,1,1,33,True
+2019|Virginia|Virginia-0,1,1,1,111,True
+2019|Virginia|Virginia-1,1,1,1,128,True
+2019|Virginia|Virginia-3,1,1,1,91,True
+2019|Virginia|Virginia-4,1,1,1,81,True
+2019|Virginia|Virginia-5,1,1,1,66,True
+2019|Washington|Washington-1,1,1,1,21,True
+2019|Washington|Washington-3,1,1,1,35,True
+2019|Washington|Washington-9,1,1,1,15,True
+2019|West Virginia|West Virginia-0,1,1,1,117,True
+2019|Wisconsin|Wisconsin-1,1,1,1,135,True
+2020|Alabama|Alabama-0,1,1,1,202,True
+2020|Alabama|Alabama-10,1,1,1,228,True
+2020|Alabama|Alabama-2,1,1,1,47,True
+2020|Alabama|Alabama-3,1,1,1,148,True
+2020|Alabama|Alabama-4,1,1,1,61,True
+2020|Alabama|Alabama-5,1,1,1,112,True
+2020|Alabama|Alabama-6,1,1,1,53,True
+2020|Alabama|Alabama-7,1,1,1,144,True
+2020|Alabama|Alabama-8,1,1,1,278,True
+2020|Alabama|Alabama-9,1,1,1,148,True
+2020|Arizona|Arizona-0,1,1,1,30,True
+2020|Arizona|Arizona-2,1,1,1,27,True
+2020|Arkansas|Arkansas-0,1,1,1,105,True
+2020|Arkansas|Arkansas-1,1,1,1,108,True
+2020|Arkansas|Arkansas-2,1,1,1,109,True
+2020|Arkansas|Arkansas-3,1,1,1,75,True
+2020|Arkansas|Arkansas-4,1,1,1,40,True
+2020|Arkansas|Arkansas-6,1,1,1,34,True
+2020|Arkansas|Arkansas-7,1,1,1,32,True
+2020|Arkansas|Arkansas-8,1,1,1,105,True
+2020|California|California-11,1,1,1,227,True
+2020|California|California-12,1,1,1,171,True
+2020|California|California-13,1,1,1,163,True
+2020|California|California-14,1,1,1,144,True
+2020|California|California-15,1,1,1,126,True
+2020|California|California-16,1,1,1,105,True
+2020|California|California-21,1,1,1,266,True
+2020|California|California-22,1,1,1,660,True
+2020|California|California-25,1,1,1,123,True
+2020|California|California-27,1,1,1,206,True
+2020|California|California-29,1,1,1,95,True
+2020|California|California-3,1,1,1,88,True
+2020|California|California-31,1,1,1,105,True
+2020|California|California-35,1,1,1,485,True
+2020|California|California-36,1,1,1,311,True
+2020|California|California-37,1,1,1,265,True
+2020|California|California-44,1,1,1,203,True
+2020|California|California-51,1,1,1,420,True
+2020|California|California-52,1,1,1,135,True
+2020|California|California-53,1,1,1,156,True
+2020|California|California-7,1,1,1,278,True
+2020|California|California-9,1,1,1,203,True
+2020|Connecticut|Connecticut-0,1,1,1,18,True
+2020|Connecticut|Connecticut-10,1,1,1,12,True
+2020|Connecticut|Connecticut-11,1,1,1,21,True
+2020|Connecticut|Connecticut-3,1,1,1,5,True
+2020|Connecticut|Connecticut-4,1,1,1,28,True
+2020|Connecticut|Connecticut-5,1,1,1,23,True
+2020|Connecticut|Connecticut-6,1,1,1,18,True
+2020|Connecticut|Connecticut-7,1,1,1,32,True
+2020|Connecticut|Connecticut-8,1,1,1,46,True
+2020|Connecticut|Connecticut-9,1,1,1,15,True
+2020|Delaware|Delaware-0,1,1,1,8,True
+2020|Florida|Florida-0,1,1,1,121,True
+2020|Florida|Florida-1,1,1,1,203,True
+2020|Florida|Florida-2,1,1,1,83,True
+2020|Florida|Florida-3,1,1,1,342,True
+2020|Florida|Florida-4,1,1,1,236,True
+2020|Florida|Florida-8,1,1,1,175,True
+2020|Georgia|Georgia-0,1,1,1,160,True
+2020|Georgia|Georgia-1,1,1,1,66,True
+2020|Georgia|Georgia-2,1,1,1,259,True
+2020|Georgia|Georgia-4,1,1,1,96,True
+2020|Georgia|Georgia-5,1,1,1,185,True
+2020|Georgia|Georgia-6,1,1,1,140,True
+2020|Georgia|Georgia-7,1,1,1,284,True
+2020|Georgia|Georgia-8,1,1,1,241,True
+2020|Idaho|Idaho-0,1,1,1,7,True
+2020|Illinois|Illinois-0,1,1,1,156,True
+2020|Illinois|Illinois-2,1,1,1,95,True
+2020|Illinois|Illinois-3,1,1,1,95,True
+2020|Indiana|Indiana-0,1,1,1,82,True
+2020|Indiana|Indiana-1,1,1,1,93,True
+2020|Indiana|Indiana-2,1,1,1,145,True
+2020|Indiana|Indiana-3,1,1,1,78,True
+2020|Iowa|Iowa-0,1,1,1,58,True
+2020|Iowa|Iowa-1,1,1,1,58,True
+2020|Iowa|Iowa-2,1,1,1,58,True
+2020|Iowa|Iowa-3,1,1,1,57,True
+2020|Kentucky|Kentucky-0,1,1,1,84,True
+2020|Kentucky|Kentucky-1,1,1,1,51,True
+2020|Louisiana|Louisiana-0,1,1,1,97,True
+2020|Louisiana|Louisiana-1,1,1,1,85,True
+2020|Louisiana|Louisiana-10,1,1,1,106,True
+2020|Louisiana|Louisiana-11,1,1,1,108,True
+2020|Louisiana|Louisiana-12,1,1,1,187,True
+2020|Louisiana|Louisiana-13,1,1,1,53,True
+2020|Louisiana|Louisiana-14,1,1,1,116,True
+2020|Louisiana|Louisiana-15,1,1,1,112,True
+2020|Louisiana|Louisiana-2,1,1,1,105,True
+2020|Louisiana|Louisiana-4,1,1,1,87,True
+2020|Louisiana|Louisiana-5,1,1,1,86,True
+2020|Louisiana|Louisiana-6,1,1,1,200,True
+2020|Louisiana|Louisiana-7,1,1,1,139,True
+2020|Louisiana|Louisiana-8,1,1,1,143,True
+2020|Maine|Maine-0,1,1,1,23,True
+2020|Maine|Maine-11,1,1,1,39,True
+2020|Maine|Maine-13,1,1,1,32,True
+2020|Maine|Maine-14,1,1,1,68,True
+2020|Maine|Maine-16,1,1,1,44,True
+2020|Maine|Maine-18,1,1,1,37,True
+2020|Maine|Maine-19,1,1,1,14,True
+2020|Maine|Maine-20,1,1,1,54,True
+2020|Maine|Maine-5,1,1,1,22,True
+2020|Maine|Maine-6,1,1,1,36,True
+2020|Maine|Maine-8,1,1,1,23,True
+2020|Maine|Maine-9,1,1,1,36,True
+2020|Massachusetts|Massachusetts-0,1,1,1,38,True
+2020|Massachusetts|Massachusetts-10,1,1,1,35,True
+2020|Massachusetts|Massachusetts-11,1,1,1,29,True
+2020|Massachusetts|Massachusetts-12,1,1,1,35,True
+2020|Massachusetts|Massachusetts-3,1,1,1,9,True
+2020|Massachusetts|Massachusetts-4,1,1,1,50,True
+2020|Massachusetts|Massachusetts-5,1,1,1,59,True
+2020|Massachusetts|Massachusetts-6,1,1,1,34,True
+2020|Massachusetts|Massachusetts-7,1,1,1,33,True
+2020|Massachusetts|Massachusetts-8,1,1,1,50,True
+2020|Massachusetts|Massachusetts-9,1,1,1,49,True
+2020|Michigan|Michigan-0,1,1,1,129,True
+2020|Michigan|Michigan-3,1,1,1,141,True
+2020|Michigan|Michigan-4,1,1,1,475,True
+2020|Michigan|Michigan-7,1,1,1,103,True
+2020|Michigan|Michigan-8,1,1,1,501,True
+2020|Minnesota|Minnesota-3,1,1,1,51,True
+2020|Mississippi|Mississippi-0,1,1,1,115,True
+2020|Mississippi|Mississippi-1,1,1,1,161,True
+2020|Mississippi|Mississippi-2,1,1,1,72,True
+2020|Mississippi|Mississippi-3,1,1,1,114,True
+2020|Mississippi|Mississippi-4,1,1,1,104,True
+2020|Mississippi|Mississippi-5,1,1,1,40,True
+2020|Mississippi|Mississippi-6,1,1,1,85,True
+2020|Mississippi|Mississippi-7,1,1,1,54,True
+2020|Missouri|Missouri-0,1,1,1,71,True
+2020|Nevada|Nevada-0,1,1,1,15,True
+2020|Nevada|Nevada-1,1,1,1,13,True
+2020|Nevada|Nevada-2,1,1,1,8,True
+2020|New Hampshire|New Hampshire-0,1,1,1,25,True
+2020|New Hampshire|New Hampshire-10,1,1,1,17,True
+2020|New Hampshire|New Hampshire-11,1,1,1,15,True
+2020|New Hampshire|New Hampshire-2,1,1,1,11,True
+2020|New Hampshire|New Hampshire-3,1,1,1,22,True
+2020|New Hampshire|New Hampshire-4,1,1,1,22,True
+2020|New Hampshire|New Hampshire-5,1,1,1,16,True
+2020|New Hampshire|New Hampshire-6,1,1,1,24,True
+2020|New Hampshire|New Hampshire-7,1,1,1,20,True
+2020|New Hampshire|New Hampshire-8,1,1,1,15,True
+2020|New Hampshire|New Hampshire-9,1,1,1,30,True
+2020|New Jersey|New Jersey-0,1,1,1,105,True
+2020|New Jersey|New Jersey-1,1,1,1,58,True
+2020|New Jersey|New Jersey-2,1,1,1,5,True
+2020|New Jersey|New Jersey-3,1,1,1,29,True
+2020|New Jersey|New Jersey-4,1,1,1,60,True
+2020|New Jersey|New Jersey-8,1,1,1,26,True
+2020|New York|New York-0,1,1,1,97,True
+2020|New York|New York-12,1,1,1,82,True
+2020|New York|New York-13,1,1,1,75,True
+2020|New York|New York-14,1,1,1,120,True
+2020|New York|New York-3,1,2,1,149,False
+2020|New York|New York-5,1,1,1,46,True
+2020|New York|New York-6,1,1,1,110,True
+2020|New York|New York-8,1,1,1,50,True
+2020|New York|New York-9,1,1,1,28,True
+2020|North Carolina|North Carolina-0,1,1,1,160,True
+2020|North Carolina|North Carolina-1,1,1,1,226,True
+2020|North Carolina|North Carolina-10,1,1,1,258,True
+2020|North Carolina|North Carolina-11,1,1,1,198,True
+2020|North Carolina|North Carolina-2,1,1,1,221,True
+2020|North Carolina|North Carolina-3,1,1,1,135,True
+2020|North Carolina|North Carolina-4,1,1,1,179,True
+2020|North Carolina|North Carolina-5,1,1,1,148,True
+2020|North Carolina|North Carolina-6,1,1,1,124,True
+2020|North Carolina|North Carolina-7,1,1,1,72,True
+2020|North Carolina|North Carolina-8,1,1,1,130,True
+2020|North Carolina|North Carolina-9,1,1,1,232,True
+2020|Ohio|Ohio-1,1,1,1,114,True
+2020|Ohio|Ohio-2,1,1,1,81,True
+2020|Ohio|Ohio-3,1,1,1,179,True
+2020|Ohio|Ohio-5,1,1,1,79,True
+2020|Ohio|Ohio-6,1,1,1,245,True
+2020|Ohio|Ohio-7,1,1,1,242,True
+2020|Ohio|Ohio-8,1,1,1,234,True
+2020|Ohio|Ohio-9,1,1,1,56,True
+2020|Oklahoma|Oklahoma-1,1,1,1,97,True
+2020|Oklahoma|Oklahoma-2,1,1,1,102,True
+2020|Oklahoma|Oklahoma-4,1,1,1,46,True
+2020|Oklahoma|Oklahoma-7,1,1,1,249,True
+2020|Oregon|Oregon-2,1,1,1,15,True
+2020|Oregon|Oregon-9,1,1,1,33,True
+2020|Pennsylvania|Pennsylvania-0,1,1,1,58,True
+2020|Pennsylvania|Pennsylvania-10,1,1,1,85,True
+2020|Pennsylvania|Pennsylvania-7,1,1,1,56,True
+2020|Pennsylvania|Pennsylvania-8,1,1,1,83,True
+2020|Pennsylvania|Pennsylvania-9,1,1,1,51,True
+2020|Rhode Island|Rhode Island-0,1,1,1,8,True
+2020|Rhode Island|Rhode Island-10,1,1,1,8,True
+2020|Rhode Island|Rhode Island-11,1,1,1,4,True
+2020|Rhode Island|Rhode Island-2,1,1,1,1,True
+2020|Rhode Island|Rhode Island-3,1,1,1,20,True
+2020|Rhode Island|Rhode Island-4,1,1,1,9,True
+2020|Rhode Island|Rhode Island-5,1,1,1,1,True
+2020|Rhode Island|Rhode Island-6,1,1,1,9,True
+2020|Rhode Island|Rhode Island-7,1,1,1,10,True
+2020|Rhode Island|Rhode Island-8,1,1,1,6,True
+2020|Rhode Island|Rhode Island-9,1,1,1,7,True
+2020|South Carolina|South Carolina-0,1,1,1,76,True
+2020|South Carolina|South Carolina-1,1,1,1,104,True
+2020|South Carolina|South Carolina-2,1,1,1,111,True
+2020|South Carolina|South Carolina-3,1,1,1,97,True
+2020|South Carolina|South Carolina-4,1,1,1,97,True
+2020|South Carolina|South Carolina-6,1,1,1,77,True
+2020|South Carolina|South Carolina-7,1,1,1,40,True
+2020|South Carolina|South Carolina-8,1,1,1,91,True
+2020|Tennessee|Tennessee-0,1,1,1,103,True
+2020|Tennessee|Tennessee-1,1,1,1,160,True
+2020|Tennessee|Tennessee-3,1,1,1,71,True
+2020|Texas|Texas-0,1,1,1,164,True
+2020|Texas|Texas-1,1,1,1,149,True
+2020|Texas|Texas-10,1,1,1,121,True
+2020|Texas|Texas-11,1,1,1,234,True
+2020|Texas|Texas-14,1,1,1,312,True
+2020|Texas|Texas-17,1,1,1,166,True
+2020|Texas|Texas-2,1,1,1,189,True
+2020|Texas|Texas-20,1,1,1,221,True
+2020|Texas|Texas-21,1,1,1,165,True
+2020|Texas|Texas-22,1,1,1,550,True
+2020|Texas|Texas-23,1,1,1,187,True
+2020|Texas|Texas-30,1,1,1,185,True
+2020|Texas|Texas-31,1,1,1,198,True
+2020|Texas|Texas-32,1,1,1,232,True
+2020|Texas|Texas-33,1,1,1,116,True
+2020|Texas|Texas-37,1,1,1,159,True
+2020|Texas|Texas-4,1,1,1,160,True
+2020|Texas|Texas-5,1,1,1,448,True
+2020|Texas|Texas-6,1,1,1,195,True
+2020|Texas|Texas-7,1,1,1,195,True
+2020|Texas|Texas-8,1,1,1,196,True
+2020|Texas|Texas-9,1,1,1,157,True
+2020|Utah|Utah-0,1,1,1,11,True
+2020|Vermont|Vermont-0,1,1,1,23,True
+2020|Vermont|Vermont-10,1,1,1,6,True
+2020|Vermont|Vermont-11,1,1,1,18,True
+2020|Vermont|Vermont-2,1,1,1,9,True
+2020|Vermont|Vermont-3,1,1,1,7,True
+2020|Vermont|Vermont-4,1,1,1,29,True
+2020|Vermont|Vermont-5,1,1,1,8,True
+2020|Vermont|Vermont-6,1,1,1,9,True
+2020|Vermont|Vermont-7,1,1,1,29,True
+2020|Vermont|Vermont-8,1,1,1,6,True
+2020|Vermont|Vermont-9,1,1,1,12,True
+2020|Virginia|Virginia-0,1,1,1,128,True
+2020|Virginia|Virginia-2,1,1,1,171,True
+2020|Virginia|Virginia-3,1,1,1,169,True
+2020|Virginia|Virginia-4,1,1,1,92,True
+2020|Washington|Washington-12,1,1,1,120,True
+2020|Washington|Washington-13,1,1,1,51,True
+2020|Washington|Washington-4,1,1,1,22,True
+2020|Washington|Washington-8,1,1,1,126,True
+2020|West Virginia|West Virginia-0,1,1,1,94,True
+2020|West Virginia|West Virginia-1,1,1,1,51,True
+2020|West Virginia|West Virginia-2,1,1,1,73,True
+2020|West Virginia|West Virginia-6,1,1,1,53,True
+2021|Alabama|Alabama-0,1,1,1,142,True
+2021|Alabama|Alabama-1,1,1,1,67,True
+2021|Arkansas|Arkansas-0,1,1,1,172,True
+2021|Arkansas|Arkansas-1,1,1,1,141,True
+2021|Arkansas|Arkansas-3,1,1,1,74,True
+2021|Arkansas|Arkansas-4,1,1,1,42,True
+2021|Arkansas|Arkansas-8,1,1,1,161,True
+2021|California|California-0,1,1,1,165,True
+2021|California|California-1,1,1,1,352,True
+2021|California|California-10,1,1,1,283,True
+2021|California|California-13,1,1,1,156,True
+2021|California|California-18,1,1,1,161,True
+2021|California|California-20,1,1,1,111,True
+2021|California|California-21,1,1,1,202,True
+2021|California|California-24,1,1,1,193,True
+2021|California|California-29,1,1,1,64,True
+2021|California|California-33,1,1,1,124,True
+2021|California|California-37,1,1,1,167,True
+2021|California|California-40,1,1,1,97,True
+2021|California|California-8,1,1,1,106,True
+2021|California|California-9,1,1,1,141,True
+2021|Connecticut|Connecticut-1,1,1,1,22,True
+2021|Connecticut|Connecticut-2,1,1,1,21,True
+2021|Connecticut|Connecticut-3,1,1,1,31,True
+2021|Connecticut|Connecticut-4,1,1,1,47,True
+2021|Connecticut|Connecticut-5,1,1,1,41,True
+2021|Florida|Florida-3,1,1,1,81,True
+2021|Georgia|Georgia-0,1,1,1,86,True
+2021|Georgia|Georgia-1,1,1,1,164,True
+2021|Idaho|Idaho-0,1,1,1,12,True
+2021|Idaho|Idaho-3,1,1,1,14,True
+2021|Idaho|Idaho-4,1,1,1,9,True
+2021|Illinois|Illinois-0,1,1,1,22,True
+2021|Illinois|Illinois-2,1,1,1,124,True
+2021|Illinois|Illinois-3,1,1,1,54,True
+2021|Iowa|Iowa-1,1,1,1,159,True
+2021|Iowa|Iowa-2,1,1,1,157,True
+2021|Kansas|Kansas-1,1,1,1,58,True
+2021|Kansas|Kansas-2,1,1,1,62,True
+2021|Kansas|Kansas-3,1,1,1,59,True
+2021|Kansas|Kansas-4,1,1,1,53,True
+2021|Kansas|Kansas-5,1,1,1,52,True
+2021|Kansas|Kansas-7,1,1,1,161,True
+2021|Kansas|Kansas-8,1,1,1,143,True
+2021|Kentucky|Kentucky-1,1,1,1,107,True
+2021|Louisiana|Louisiana-0,1,1,1,52,True
+2021|Louisiana|Louisiana-1,1,1,1,248,True
+2021|Louisiana|Louisiana-11,1,1,1,110,True
+2021|Louisiana|Louisiana-12,1,1,1,92,True
+2021|Louisiana|Louisiana-14,1,1,1,31,True
+2021|Louisiana|Louisiana-18,1,1,1,125,True
+2021|Louisiana|Louisiana-19,1,1,1,109,True
+2021|Louisiana|Louisiana-20,1,1,1,160,True
+2021|Louisiana|Louisiana-21,1,1,1,149,True
+2021|Louisiana|Louisiana-22,1,1,1,143,True
+2021|Louisiana|Louisiana-3,1,1,1,230,True
+2021|Louisiana|Louisiana-5,1,1,1,141,True
+2021|Louisiana|Louisiana-7,1,1,1,135,True
+2021|Louisiana|Louisiana-8,1,1,1,132,True
+2021|Louisiana|Louisiana-9,1,1,1,117,True
+2021|Maine|Maine-0,1,1,1,29,True
+2021|Maine|Maine-2,1,1,1,33,True
+2021|Maine|Maine-4,1,1,1,22,True
+2021|Maine|Maine-6,1,1,1,21,True
+2021|Maine|Maine-7,1,1,1,78,True
+2021|Massachusetts|Massachusetts-0,1,1,1,44,True
+2021|Massachusetts|Massachusetts-1,1,1,1,29,True
+2021|Massachusetts|Massachusetts-2,1,1,1,66,True
+2021|Massachusetts|Massachusetts-4,1,1,1,59,True
+2021|Massachusetts|Massachusetts-5,1,1,1,56,True
+2021|Michigan|Michigan-0,1,1,1,104,True
+2021|Michigan|Michigan-1,1,1,1,137,True
+2021|Michigan|Michigan-10,1,1,1,71,True
+2021|Michigan|Michigan-11,1,1,1,74,True
+2021|Michigan|Michigan-12,1,1,1,106,True
+2021|Michigan|Michigan-13,1,1,1,114,True
+2021|Michigan|Michigan-14,1,1,1,89,True
+2021|Michigan|Michigan-2,1,1,1,305,True
+2021|Michigan|Michigan-3,1,1,1,101,True
+2021|Michigan|Michigan-4,1,1,1,154,True
+2021|Michigan|Michigan-5,1,1,1,121,True
+2021|Michigan|Michigan-6,1,1,1,113,True
+2021|Michigan|Michigan-7,1,1,1,96,True
+2021|Michigan|Michigan-9,1,1,1,220,True
+2021|Minnesota|Minnesota-0,1,1,1,51,True
+2021|Minnesota|Minnesota-1,1,1,1,41,True
+2021|Minnesota|Minnesota-2,1,1,1,43,True
+2021|Mississippi|Mississippi-1,1,1,1,99,True
+2021|Mississippi|Mississippi-2,1,1,1,85,True
+2021|Mississippi|Mississippi-3,1,1,1,77,True
+2021|Mississippi|Mississippi-4,1,1,1,73,True
+2021|Mississippi|Mississippi-5,1,1,1,95,True
+2021|Missouri|Missouri-1,1,1,1,82,True
+2021|Missouri|Missouri-14,1,1,1,88,True
+2021|Missouri|Missouri-2,1,1,1,77,True
+2021|Missouri|Missouri-3,1,1,1,53,True
+2021|Missouri|Missouri-4,1,1,1,85,True
+2021|Missouri|Missouri-5,1,1,1,44,True
+2021|Missouri|Missouri-6,1,1,1,75,True
+2021|Missouri|Missouri-7,1,1,1,73,True
+2021|Missouri|Missouri-8,1,1,1,68,True
+2021|Missouri|Missouri-9,1,1,1,97,True
+2021|Nebraska|Nebraska-0,1,1,1,34,True
+2021|Nebraska|Nebraska-1,1,1,1,57,True
+2021|Nebraska|Nebraska-2,1,1,1,55,True
+2021|Nebraska|Nebraska-3,1,1,1,31,True
+2021|Nebraska|Nebraska-6,1,1,1,33,True
+2021|New Hampshire|New Hampshire-0,1,1,1,33,True
+2021|New Hampshire|New Hampshire-1,1,1,1,25,True
+2021|New Hampshire|New Hampshire-2,1,1,1,29,True
+2021|New Hampshire|New Hampshire-3,1,1,1,29,True
+2021|New York|New York-1,1,1,1,83,True
+2021|New York|New York-4,1,1,1,146,True
+2021|North Carolina|North Carolina-1,1,1,1,97,True
+2021|North Dakota|North Dakota-0,1,1,1,3,True
+2021|North Dakota|North Dakota-1,1,1,1,12,True
+2021|North Dakota|North Dakota-5,1,1,1,4,True
+2021|Ohio|Ohio-3,1,1,1,111,True
+2021|Ohio|Ohio-5,1,1,1,172,True
+2021|Oklahoma|Oklahoma-0,1,1,1,183,True
+2021|Oklahoma|Oklahoma-1,1,1,1,159,True
+2021|Oklahoma|Oklahoma-2,1,1,1,158,True
+2021|Oklahoma|Oklahoma-3,1,1,1,136,True
+2021|Oregon|Oregon-1,1,1,1,37,True
+2021|Oregon|Oregon-2,1,1,1,65,True
+2021|Pennsylvania|Pennsylvania-6,1,1,1,67,True
+2021|Pennsylvania|Pennsylvania-7,1,1,1,99,True
+2021|Rhode Island|Rhode Island-0,1,1,1,10,True
+2021|Rhode Island|Rhode Island-1,1,1,1,8,True
+2021|Rhode Island|Rhode Island-2,1,1,1,7,True
+2021|Rhode Island|Rhode Island-3,1,1,1,11,True
+2021|Rhode Island|Rhode Island-4,1,1,1,27,True
+2021|South Carolina|South Carolina-0,1,1,1,28,True
+2021|South Dakota|South Dakota-0,1,1,1,9,True
+2021|South Dakota|South Dakota-1,1,1,1,3,True
+2021|South Dakota|South Dakota-2,1,1,1,12,True
+2021|South Dakota|South Dakota-3,1,1,1,12,True
+2021|Tennessee|Tennessee-1,1,1,1,148,True
+2021|Texas|Texas-0,1,1,1,111,True
+2021|Texas|Texas-1,1,1,1,1841,True
+2021|Texas|Texas-10,1,2,1,1061,False
+2021|Texas|Texas-11,1,1,1,956,True
+2021|Texas|Texas-12,1,1,1,551,True
+2021|Texas|Texas-13,1,1,1,756,True
+2021|Texas|Texas-14,1,1,1,548,True
+2021|Texas|Texas-15,1,1,1,887,True
+2021|Texas|Texas-16,1,1,1,485,True
+2021|Texas|Texas-17,1,1,1,433,True
+2021|Texas|Texas-18,1,1,1,458,True
+2021|Texas|Texas-19,1,1,1,426,True
+2021|Texas|Texas-21,1,1,1,433,True
+2021|Texas|Texas-23,1,1,1,431,True
+2021|Texas|Texas-24,1,1,1,408,True
+2021|Texas|Texas-26,1,1,1,359,True
+2021|Texas|Texas-27,1,1,1,214,True
+2021|Texas|Texas-3,1,1,1,1357,True
+2021|Texas|Texas-31,1,1,1,257,True
+2021|Texas|Texas-36,1,1,1,105,True
+2021|Texas|Texas-37,1,1,1,98,True
+2021|Texas|Texas-4,1,1,1,1240,True
+2021|Texas|Texas-40,1,1,1,245,True
+2021|Texas|Texas-41,1,1,1,297,True
+2021|Texas|Texas-42,1,1,1,836,True
+2021|Texas|Texas-44,1,1,1,554,True
+2021|Texas|Texas-5,1,1,1,1078,True
+2021|Texas|Texas-54,1,1,1,352,True
+2021|Texas|Texas-55,1,1,1,248,True
+2021|Texas|Texas-58,1,1,1,276,True
+2021|Texas|Texas-59,1,1,1,112,True
+2021|Texas|Texas-6,1,1,1,1075,True
+2021|Texas|Texas-60,1,1,1,85,True
+2021|Texas|Texas-61,1,1,1,278,True
+2021|Texas|Texas-62,1,1,1,284,True
+2021|Texas|Texas-64,1,1,1,223,True
+2021|Texas|Texas-65,1,1,1,215,True
+2021|Texas|Texas-7,1,1,1,565,True
+2021|Texas|Texas-71,1,1,1,810,True
+2021|Texas|Texas-75,1,1,1,496,True
+2021|Texas|Texas-77,1,1,1,1051,True
+2021|Texas|Texas-8,1,1,1,1068,True
+2021|Texas|Texas-9,1,1,1,1068,True
+2021|Vermont|Vermont-0,1,1,1,15,True
+2021|Vermont|Vermont-1,1,1,1,15,True
+2021|Vermont|Vermont-2,1,1,1,10,True
+2021|Vermont|Vermont-3,1,1,1,9,True
+2021|Vermont|Vermont-4,1,1,1,11,True
+2021|Virginia|Virginia-0,1,1,1,245,True
+2021|Washington|Washington-0,1,1,1,55,True
+2021|Washington|Washington-1,1,1,1,43,True
+2021|Washington|Washington-10,1,1,1,65,True
+2021|Washington|Washington-11,1,1,1,35,True
+2021|Washington|Washington-12,1,1,1,78,True
+2021|Washington|Washington-14,1,1,1,65,True
+2021|Washington|Washington-16,1,1,1,44,True
+2021|Washington|Washington-19,1,1,1,45,True
+2021|Washington|Washington-4,1,1,1,40,True
+2021|Washington|Washington-5,1,1,1,18,True
+2021|West Virginia|West Virginia-0,1,1,1,79,True
+2021|Wisconsin|Wisconsin-3,1,1,1,143,True
+2021|Wisconsin|Wisconsin-4,1,1,1,136,True
+2021|Wisconsin|Wisconsin-9,1,1,1,147,True
+2022|Alabama|Alabama-0,1,1,1,78,True
+2022|Alabama|Alabama-1,1,1,1,46,True
+2022|Alabama|Alabama-2,1,1,1,48,True
+2022|Alabama|Alabama-3,1,1,1,50,True
+2022|Alabama|Alabama-4,1,1,1,52,True
+2022|Alabama|Alabama-6,1,1,1,130,True
+2022|Alabama|Alabama-7,1,1,1,41,True
+2022|Arkansas|Arkansas-0,1,1,1,21,True
+2022|Arkansas|Arkansas-1,1,1,1,37,True
+2022|Arkansas|Arkansas-4,1,1,1,24,True
+2022|California|California-45,1,1,1,7,True
+2022|California|California-57,1,1,1,123,True
+2022|California|California-58,1,1,1,182,True
+2022|California|California-59,1,1,1,165,True
+2022|California|California-60,1,1,1,161,True
+2022|California|California-61,1,1,1,139,True
+2022|California|California-64,1,1,1,84,True
+2022|Connecticut|Connecticut-0,1,1,1,10,True
+2022|Connecticut|Connecticut-1,1,1,1,22,True
+2022|Connecticut|Connecticut-2,1,1,1,3,True
+2022|Connecticut|Connecticut-3,1,1,1,3,True
+2022|Connecticut|Connecticut-4,1,1,1,26,True
+2022|Connecticut|Connecticut-5,1,1,1,17,True
+2022|Florida|Florida-0,1,1,1,161,True
+2022|Florida|Florida-1,1,1,1,172,True
+2022|Florida|Florida-11,1,1,1,205,True
+2022|Florida|Florida-16,1,1,1,86,True
+2022|Florida|Florida-2,1,1,1,174,True
+2022|Florida|Florida-4,1,1,1,300,True
+2022|Florida|Florida-5,1,1,1,127,True
+2022|Georgia|Georgia-0,1,1,1,185,True
+2022|Georgia|Georgia-1,1,1,1,134,True
+2022|Georgia|Georgia-2,1,1,1,201,True
+2022|Georgia|Georgia-3,1,1,1,60,True
+2022|Georgia|Georgia-4,1,1,1,66,True
+2022|Georgia|Georgia-5,1,1,1,297,True
+2022|Georgia|Georgia-6,1,1,1,112,True
+2022|Illinois|Illinois-1,1,1,1,20,True
+2022|Illinois|Illinois-2,1,1,1,99,True
+2022|Indiana|Indiana-1,1,1,1,57,True
+2022|Iowa|Iowa-3,1,1,1,33,True
+2022|Kansas|Kansas-0,1,1,1,30,True
+2022|Kansas|Kansas-1,1,1,1,31,True
+2022|Kentucky|Kentucky-1,1,1,1,59,True
+2022|Kentucky|Kentucky-2,1,1,1,99,True
+2022|Kentucky|Kentucky-3,1,1,1,147,True
+2022|Louisiana|Louisiana-0,1,1,1,49,True
+2022|Louisiana|Louisiana-2,1,1,1,130,True
+2022|Maine|Maine-10,1,1,1,59,True
+2022|Maine|Maine-11,1,1,1,52,True
+2022|Maine|Maine-12,1,1,1,14,True
+2022|Maine|Maine-2,1,1,1,17,True
+2022|Maine|Maine-3,1,1,1,32,True
+2022|Maine|Maine-6,1,1,1,45,True
+2022|Maine|Maine-9,1,1,1,39,True
+2022|Maryland|Maryland-0,1,1,1,441,True
+2022|Maryland|Maryland-2,1,1,1,454,True
+2022|Maryland|Maryland-3,1,1,1,426,True
+2022|Massachusetts|Massachusetts-0,1,1,1,28,True
+2022|Massachusetts|Massachusetts-1,1,1,1,25,True
+2022|Massachusetts|Massachusetts-2,1,1,1,26,True
+2022|Massachusetts|Massachusetts-3,1,1,1,27,True
+2022|Massachusetts|Massachusetts-4,1,1,1,63,True
+2022|Massachusetts|Massachusetts-5,1,1,1,29,True
+2022|Massachusetts|Massachusetts-6,1,1,1,36,True
+2022|Michigan|Michigan-1,1,1,1,105,True
+2022|Michigan|Michigan-11,1,1,1,108,True
+2022|Michigan|Michigan-3,1,1,1,206,True
+2022|Michigan|Michigan-4,1,1,1,104,True
+2022|Michigan|Michigan-5,1,1,1,82,True
+2022|Michigan|Michigan-6,1,1,1,150,True
+2022|Michigan|Michigan-7,1,1,1,64,True
+2022|Michigan|Michigan-8,1,1,1,142,True
+2022|Michigan|Michigan-9,1,1,1,170,True
+2022|Minnesota|Minnesota-0,1,1,1,91,True
+2022|Minnesota|Minnesota-1,1,1,1,29,True
+2022|Mississippi|Mississippi-0,1,1,1,22,True
+2022|Mississippi|Mississippi-1,1,1,1,14,True
+2022|Mississippi|Mississippi-10,1,1,1,111,True
+2022|Mississippi|Mississippi-11,1,1,1,66,True
+2022|Mississippi|Mississippi-2,1,1,1,15,True
+2022|Mississippi|Mississippi-3,1,1,1,152,True
+2022|Mississippi|Mississippi-4,1,1,1,83,True
+2022|Mississippi|Mississippi-8,1,1,1,40,True
+2022|Missouri|Missouri-1,1,1,1,53,True
+2022|Missouri|Missouri-2,1,1,1,52,True
+2022|Missouri|Missouri-3,1,1,1,51,True
+2022|Missouri|Missouri-9,1,1,1,37,True
+2022|Montana|Montana-0,1,1,1,18,True
+2022|Nebraska|Nebraska-1,1,1,1,15,True
+2022|Nevada|Nevada-1,1,1,1,6,True
+2022|New Hampshire|New Hampshire-0,1,1,1,6,True
+2022|New Hampshire|New Hampshire-1,1,1,1,17,True
+2022|New Hampshire|New Hampshire-2,1,1,1,18,True
+2022|New Hampshire|New Hampshire-3,1,1,1,6,True
+2022|New Hampshire|New Hampshire-4,1,1,1,32,True
+2022|New Hampshire|New Hampshire-5,1,1,1,18,True
+2022|New Hampshire|New Hampshire-6,1,1,1,10,True
+2022|New York|New York-0,1,1,1,86,True
+2022|New York|New York-13,1,1,1,39,True
+2022|New York|New York-2,1,1,1,106,True
+2022|New York|New York-3,1,1,1,91,True
+2022|North Carolina|North Carolina-0,1,1,1,204,True
+2022|North Carolina|North Carolina-1,1,1,1,127,True
+2022|North Carolina|North Carolina-10,1,1,1,310,True
+2022|North Carolina|North Carolina-11,1,1,1,301,True
+2022|North Carolina|North Carolina-12,1,1,1,166,True
+2022|North Carolina|North Carolina-15,1,1,1,142,True
+2022|North Carolina|North Carolina-4,1,1,1,178,True
+2022|North Carolina|North Carolina-5,1,1,1,146,True
+2022|North Carolina|North Carolina-6,1,1,1,146,True
+2022|North Carolina|North Carolina-7,1,1,1,198,True
+2022|North Carolina|North Carolina-8,1,1,1,119,True
+2022|North Dakota|North Dakota-0,1,1,1,41,True
+2022|North Dakota|North Dakota-1,1,1,1,41,True
+2022|North Dakota|North Dakota-2,1,1,1,30,True
+2022|Ohio|Ohio-1,1,1,1,83,True
+2022|Ohio|Ohio-2,1,1,1,171,True
+2022|Ohio|Ohio-3,1,1,1,194,True
+2022|Ohio|Ohio-5,1,1,1,78,True
+2022|Oregon|Oregon-1,1,1,1,30,True
+2022|Oregon|Oregon-4,1,1,1,21,True
+2022|Rhode Island|Rhode Island-0,1,1,1,3,True
+2022|Rhode Island|Rhode Island-1,1,1,1,6,True
+2022|Rhode Island|Rhode Island-2,1,1,1,4,True
+2022|Rhode Island|Rhode Island-3,1,1,1,1,True
+2022|Rhode Island|Rhode Island-4,1,1,1,10,True
+2022|Rhode Island|Rhode Island-5,1,1,1,13,True
+2022|South Carolina|South Carolina-0,1,1,1,90,True
+2022|South Carolina|South Carolina-1,1,1,1,89,True
+2022|South Carolina|South Carolina-11,1,1,1,124,True
+2022|South Carolina|South Carolina-12,1,1,1,61,True
+2022|South Carolina|South Carolina-13,1,1,1,60,True
+2022|South Carolina|South Carolina-14,1,1,1,50,True
+2022|South Carolina|South Carolina-2,1,1,1,41,True
+2022|South Carolina|South Carolina-5,1,1,1,110,True
+2022|South Carolina|South Carolina-6,1,1,1,76,True
+2022|South Carolina|South Carolina-8,1,1,1,81,True
+2022|South Carolina|South Carolina-9,1,1,1,60,True
+2022|Tennessee|Tennessee-1,1,1,1,71,True
+2022|Tennessee|Tennessee-2,1,1,1,319,True
+2022|Texas|Texas-0,1,1,1,81,True
+2022|Texas|Texas-19,1,1,1,342,True
+2022|Texas|Texas-25,1,1,1,216,True
+2022|Texas|Texas-26,1,1,1,148,True
+2022|Texas|Texas-31,1,1,1,473,True
+2022|Texas|Texas-32,1,1,1,394,True
+2022|Texas|Texas-50,1,1,1,314,True
+2022|Texas|Texas-7,1,1,1,369,True
+2022|Texas|Texas-8,1,1,1,268,True
+2022|Vermont|Vermont-0,1,1,1,4,True
+2022|Vermont|Vermont-1,1,1,1,11,True
+2022|Vermont|Vermont-2,1,1,1,26,True
+2022|Vermont|Vermont-3,1,1,1,1,True
+2022|Vermont|Vermont-4,1,1,1,25,True
+2022|Vermont|Vermont-5,1,1,1,23,True
+2022|Vermont|Vermont-6,1,1,1,26,True
+2022|Virginia|Virginia-0,1,1,1,75,True
+2022|Virginia|Virginia-1,1,1,1,411,True
+2022|Virginia|Virginia-2,1,1,1,184,True
+2022|Washington|Washington-12,1,1,1,85,True
+2022|Washington|Washington-13,1,1,1,56,True
+2022|Washington|Washington-14,1,1,1,28,True
+2022|West Virginia|West Virginia-0,1,1,1,73,True
+2022|West Virginia|West Virginia-1,1,1,1,63,True
+2022|Wisconsin|Wisconsin-0,1,1,1,45,True
+2022|Wisconsin|Wisconsin-1,1,1,1,40,True
+2022|Wisconsin|Wisconsin-2,1,1,1,66,True
+2023|Alabama|Alabama-0,1,1,1,89,True
+2023|Alabama|Alabama-1,1,1,1,80,True
+2023|Alabama|Alabama-2,1,1,1,76,True
+2023|Arkansas|Arkansas-0,1,1,1,52,True
+2023|Arkansas|Arkansas-1,1,1,1,57,True
+2023|Arkansas|Arkansas-2,1,1,1,52,True
+2023|Arkansas|Arkansas-4,1,1,1,106,True
+2023|Arkansas|Arkansas-6,1,1,1,56,True
+2023|California|California-11,1,1,1,128,True
+2023|California|California-16,1,1,1,246,True
+2023|California|California-5,1,1,1,117,True
+2023|Connecticut|Connecticut-0,1,1,1,9,True
+2023|Connecticut|Connecticut-1,1,1,1,22,True
+2023|Connecticut|Connecticut-2,1,1,1,8,True
+2023|Connecticut|Connecticut-4,1,1,1,46,True
+2023|Connecticut|Connecticut-5,1,1,1,16,True
+2023|Connecticut|Connecticut-6,1,1,1,11,True
+2023|Florida|Florida-12,1,1,1,167,True
+2023|Florida|Florida-2,1,1,1,107,True
+2023|Georgia|Georgia-0,1,1,1,126,True
+2023|Georgia|Georgia-1,1,1,1,125,True
+2023|Georgia|Georgia-2,1,1,1,162,True
+2023|Georgia|Georgia-4,1,1,1,247,True
+2023|Illinois|Illinois-0,1,1,1,115,True
+2023|Illinois|Illinois-3,1,1,1,99,True
+2023|Indiana|Indiana-0,1,1,1,99,True
+2023|Kansas|Kansas-0,1,1,1,44,True
+2023|Kansas|Kansas-1,1,1,1,32,True
+2023|Kentucky|Kentucky-1,1,1,1,145,True
+2023|Kentucky|Kentucky-6,1,1,1,161,True
+2023|Louisiana|Louisiana-2,1,1,1,66,True
+2023|Louisiana|Louisiana-9,1,1,1,96,True
+2023|Maine|Maine-0,1,1,1,28,True
+2023|Maine|Maine-1,1,1,1,36,True
+2023|Maine|Maine-2,1,1,1,38,True
+2023|Maine|Maine-3,1,1,1,25,True
+2023|Maine|Maine-4,1,1,1,54,True
+2023|Maine|Maine-5,1,1,1,30,True
+2023|Maryland|Maryland-1,1,1,1,271,True
+2023|Maryland|Maryland-4,1,1,1,391,True
+2023|Maryland|Maryland-5,1,1,1,244,True
+2023|Massachusetts|Massachusetts-0,1,1,1,34,True
+2023|Massachusetts|Massachusetts-1,1,1,1,36,True
+2023|Massachusetts|Massachusetts-2,1,1,1,17,True
+2023|Massachusetts|Massachusetts-3,1,1,1,49,True
+2023|Massachusetts|Massachusetts-4,1,1,1,20,True
+2023|Massachusetts|Massachusetts-6,1,1,1,27,True
+2023|Michigan|Michigan-0,1,1,1,57,True
+2023|Michigan|Michigan-1,1,1,1,22,True
+2023|Michigan|Michigan-10,1,1,1,105,True
+2023|Michigan|Michigan-12,1,1,1,64,True
+2023|Michigan|Michigan-13,1,1,1,60,True
+2023|Michigan|Michigan-15,1,1,1,93,True
+2023|Michigan|Michigan-2,1,1,1,53,True
+2023|Michigan|Michigan-3,1,1,1,85,True
+2023|Michigan|Michigan-6,1,1,1,107,True
+2023|Michigan|Michigan-7,1,1,1,95,True
+2023|Michigan|Michigan-8,1,1,1,65,True
+2023|Michigan|Michigan-9,1,1,1,50,True
+2023|Minnesota|Minnesota-2,1,1,1,30,True
+2023|Mississippi|Mississippi-0,1,1,1,39,True
+2023|Mississippi|Mississippi-1,1,1,1,27,True
+2023|Mississippi|Mississippi-3,1,1,1,84,True
+2023|Mississippi|Mississippi-5,1,1,1,118,True
+2023|Missouri|Missouri-0,1,1,1,64,True
+2023|Missouri|Missouri-2,1,1,1,86,True
+2023|Nebraska|Nebraska-3,1,1,1,9,True
+2023|New Hampshire|New Hampshire-0,1,1,1,37,True
+2023|New Hampshire|New Hampshire-1,1,1,1,25,True
+2023|New Hampshire|New Hampshire-2,1,1,1,9,True
+2023|New Hampshire|New Hampshire-3,1,1,1,24,True
+2023|New Hampshire|New Hampshire-4,1,1,1,36,True
+2023|New Hampshire|New Hampshire-5,1,1,1,9,True
+2023|New Mexico|New Mexico-4,1,1,1,27,True
+2023|New York|New York-0,1,1,1,96,True
+2023|Ohio|Ohio-0,1,1,1,97,True
+2023|Ohio|Ohio-1,1,1,1,112,True
+2023|Ohio|Ohio-2,1,1,1,198,True
+2023|Rhode Island|Rhode Island-0,1,1,1,2,True
+2023|Rhode Island|Rhode Island-1,1,1,1,3,True
+2023|Rhode Island|Rhode Island-2,1,1,1,1,True
+2023|Rhode Island|Rhode Island-3,1,1,1,6,True
+2023|Rhode Island|Rhode Island-4,1,1,1,6,True
+2023|Rhode Island|Rhode Island-5,1,1,1,3,True
+2023|Tennessee|Tennessee-0,1,1,1,71,True
+2023|Tennessee|Tennessee-1,1,1,1,138,True
+2023|Tennessee|Tennessee-2,1,1,1,232,True
+2023|Texas|Texas-0,1,1,1,106,True
+2023|Texas|Texas-1,1,1,1,172,True
+2023|Texas|Texas-10,1,1,1,405,True
+2023|Texas|Texas-11,1,1,1,315,True
+2023|Texas|Texas-21,1,1,1,228,True
+2023|Texas|Texas-27,1,1,1,202,True
+2023|Texas|Texas-33,1,1,1,227,True
+2023|Texas|Texas-44,1,1,1,112,True
+2023|Texas|Texas-46,1,1,1,480,True
+2023|Texas|Texas-5,1,1,1,204,True
+2023|Texas|Texas-52,1,1,1,360,True
+2023|Texas|Texas-6,1,1,1,237,True
+2023|Texas|Texas-7,1,1,1,288,True
+2023|Texas|Texas-9,1,1,1,524,True
+2023|Vermont|Vermont-0,1,1,1,18,True
+2023|Vermont|Vermont-1,1,1,1,21,True
+2023|Vermont|Vermont-2,1,1,1,12,True
+2023|Vermont|Vermont-3,1,1,1,7,True
+2023|Vermont|Vermont-4,1,1,1,6,True
+2023|Vermont|Vermont-5,1,1,1,17,True
+2023|Virginia|Virginia-0,1,1,1,175,True
+2023|Virginia|Virginia-1,1,1,1,399,True
+2023|Virginia|Virginia-2,1,1,1,201,True
+2023|Virginia|Virginia-3,1,1,1,91,True
+2023|West Virginia|West Virginia-0,1,1,1,71,True
+2023|West Virginia|West Virginia-1,1,1,1,115,True
+2023|West Virginia|West Virginia-2,1,1,1,83,True
+2023|Wisconsin|Wisconsin-1,1,1,1,23,True
+2023|Wisconsin|Wisconsin-3,1,1,1,19,True
+2023|Wisconsin|Wisconsin-4,1,1,1,52,True
+2023|Wisconsin|Wisconsin-5,1,1,1,19,True

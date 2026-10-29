@@ -1,0 +1,6 @@
+Population,n,Q1 / Q4,Annual gap (h),Frequency share of hour gap (%),Frequency share of log gap (%)
+All paired benchmarks,152,38 / 38,133.83,71.9,91.1
+2019 database labels,143,31 / 38,61.89,81.6,95.1
+Matched profile definitions,132,28 / 36,64.84,80.0,94.8
+Exactly 3 minutes,50,3 / 16,43.89,76.9,90.2
+Exactly 5 minutes,44,14 / 6,102.97,81.7,91.3

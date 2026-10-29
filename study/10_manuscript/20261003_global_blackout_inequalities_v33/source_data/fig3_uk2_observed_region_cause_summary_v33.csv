@@ -1,0 +1,3 @@
+region,occurrence_total,time_total,composition_shift_pct,leading_occurrence,leading_time,leading_occurrence_share_pct,leading_time_share_pct,leader_changed
+GBR_SSEN_SEPD,198833,28097063.883333333,24.42254914553156,Other / unresolved,Other / unresolved,95.84827468277398,71.42572553724243,False
+GBR_SSEN_SHEPD,69028,19432064.5,47.40811583815356,Other / unresolved,Weather,80.83241583125688,66.57570000689668,True

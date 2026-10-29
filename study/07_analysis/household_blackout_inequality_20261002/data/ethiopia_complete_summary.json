@@ -1,0 +1,74 @@
+{
+  "country": "ethiopia",
+  "variant": "complete",
+  "eligible_n": 3749,
+  "paired_n": 2308,
+  "contrasts": {
+    "connection": {
+      "ratio": 0.2128365386586053,
+      "ratio_lo": 0.14958902070285557,
+      "ratio_hi": 0.2892982128442352,
+      "difference": -0.5245461707477307,
+      "difference_lo": -0.6126687482705292,
+      "difference_hi": -0.43389067998218084
+    },
+    "frequency_week": {
+      "ratio": 0.8222239787487905,
+      "ratio_lo": 0.5916068072961927,
+      "ratio_hi": 1.1315081004245713,
+      "difference": -0.793252714960063,
+      "difference_lo": -2.1440470169134778,
+      "difference_hi": 0.49603951165198434
+    },
+    "hours_week": {
+      "ratio": 0.6214944565155694,
+      "ratio_lo": 0.3605510201072498,
+      "ratio_hi": 1.0358168629108133,
+      "difference": -3.3653288624336035,
+      "difference_lo": -6.974790412793084,
+      "difference_hi": 0.2584437109862002
+    },
+    "duration_hours": {
+      "ratio": 0.7558700215254257,
+      "ratio_lo": 0.471758691294426,
+      "ratio_hi": 1.1916407211590432,
+      "difference": -0.48644976015376296,
+      "difference_lo": -1.1650712327125796,
+      "difference_hi": 0.35398483812937137
+    },
+    "frequency_week_all_valid": {
+      "ratio": 0.8191701372598884,
+      "ratio_lo": 0.5857055239755964,
+      "ratio_hi": 1.1249976430359514,
+      "difference": -0.7725678587557017,
+      "difference_lo": -2.0861580360058025,
+      "difference_hi": 0.4455180391943639
+    }
+  },
+  "settlement_standardization": {
+    "admitted": true,
+    "min_extreme_cell_n": 39,
+    "urban_weight": 0.7438395880437699,
+    "frequency_week": {
+      "ratio": 0.8340718221006124,
+      "lo": 0.6010860327522424,
+      "hi": 1.1774231797687114
+    },
+    "hours_week": {
+      "ratio": 0.5369982249386374,
+      "lo": 0.3179140464598738,
+      "hi": 0.9534787170018826
+    },
+    "duration_hours": {
+      "ratio": 0.6438273188347327,
+      "lo": 0.4266314123658179,
+      "hi": 1.0111761938177966
+    }
+  },
+  "bootstrap_replicates": 2000,
+  "seed": 20261002,
+  "blocks": 322,
+  "bootstrap_strata": 11,
+  "singleton_strata": 0,
+  "identity_error_max": 8.881784197001252e-16
+}

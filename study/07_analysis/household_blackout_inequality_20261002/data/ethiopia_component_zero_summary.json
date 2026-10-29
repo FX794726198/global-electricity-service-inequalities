@@ -1,0 +1,74 @@
+{
+  "country": "ethiopia",
+  "variant": "component_zero",
+  "eligible_n": 3749,
+  "paired_n": 2335,
+  "contrasts": {
+    "connection": {
+      "ratio": 0.2128365386586053,
+      "ratio_lo": 0.14958902070285557,
+      "ratio_hi": 0.2892982128442352,
+      "difference": -0.5245461707477307,
+      "difference_lo": -0.6126687482705292,
+      "difference_hi": -0.43389067998218084
+    },
+    "frequency_week": {
+      "ratio": 0.8141933605148655,
+      "ratio_lo": 0.5810793388961427,
+      "ratio_hi": 1.1162235368056168,
+      "difference": -0.8267415576291142,
+      "difference_lo": -2.163841184179195,
+      "difference_hi": 0.4436906981036444
+    },
+    "hours_week": {
+      "ratio": 0.6095164322403683,
+      "ratio_lo": 0.36063642599768636,
+      "ratio_hi": 0.9833371205976986,
+      "difference": -3.5405897754596696,
+      "difference_lo": -7.090150330265556,
+      "difference_hi": -0.1139415672821583
+    },
+    "duration_hours": {
+      "ratio": 0.7486138573457944,
+      "ratio_lo": 0.4714734109273718,
+      "ratio_hi": 1.1594228875725643,
+      "difference": -0.5122779255238561,
+      "difference_lo": -1.1773173479827945,
+      "difference_hi": 0.30882753845116284
+    },
+    "frequency_week_all_valid": {
+      "ratio": 0.8191701372598884,
+      "ratio_lo": 0.5857055239755964,
+      "ratio_hi": 1.1249976430359514,
+      "difference": -0.7725678587557017,
+      "difference_lo": -2.0861580360058025,
+      "difference_hi": 0.4455180391943639
+    }
+  },
+  "settlement_standardization": {
+    "admitted": true,
+    "min_extreme_cell_n": 40,
+    "urban_weight": 0.7438395880437699,
+    "frequency_week": {
+      "ratio": 0.8298882698511945,
+      "lo": 0.5979398465069603,
+      "hi": 1.1722797382771901
+    },
+    "hours_week": {
+      "ratio": 0.5187808886424639,
+      "lo": 0.3113041175280137,
+      "hi": 0.8732485674796069
+    },
+    "duration_hours": {
+      "ratio": 0.6251213657176831,
+      "lo": 0.42323336682559226,
+      "hi": 0.9269403788135804
+    }
+  },
+  "bootstrap_replicates": 2000,
+  "seed": 20261002,
+  "blocks": 322,
+  "bootstrap_strata": 11,
+  "singleton_strata": 0,
+  "identity_error_max": 1.7763568394002505e-15
+}

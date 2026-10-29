@@ -1,0 +1,7 @@
+Weighting,Covered class,Balanced hour share (%),High minus low annual hours,Frequency component,Duration component
+Equal areas,Ordinary unplanned,"47.87 [36.27, 60.31]","14.61 [11.30, 18.34]","9.15 [6.92, 11.77]","5.46 [3.92, 7.20]"
+Equal areas,Emergency / critical,"52.13 [39.69, 63.73]","4.44 [-9.83, 14.76]","11.59 [6.63, 14.90]","-7.14 [-19.39, 4.67]"
+Equal areas,Covered internal unplanned,100.00,"19.05 [3.60, 31.43]","21.40 [14.32, 29.10]","-2.36 [-21.26, 11.84]"
+Municipal means,Ordinary unplanned,"54.16 [47.88, 60.02]","14.21 [10.95, 18.09]","8.37 [6.11, 11.01]","5.85 [4.36, 7.49]"
+Municipal means,Emergency / critical,"45.84 [39.98, 52.12]","9.72 [5.18, 14.59]","9.05 [6.40, 12.29]","0.67 [-3.87, 4.37]"
+Municipal means,Covered internal unplanned,100.00,"23.94 [17.76, 30.87]","16.86 [12.80, 21.68]","7.08 [1.59, 11.74]"

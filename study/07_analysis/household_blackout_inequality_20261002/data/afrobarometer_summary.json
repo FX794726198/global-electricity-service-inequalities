@@ -1,0 +1,203 @@
+{
+  "primary": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "connection_no": {
+      "estimate": 0.8264269277242715,
+      "lo": 0.750556198346193,
+      "hi": 0.89260600516812,
+      "median": 0.8853029653732465
+    },
+    "connection_high": {
+      "estimate": 0.575979201951327,
+      "lo": 0.4789014018301726,
+      "hi": 0.6737863575857154,
+      "median": 0.5386936682545347
+    },
+    "reliable_no": {
+      "estimate": 0.7900950957370094,
+      "lo": 0.7048938224555673,
+      "hi": 0.8592608204626982,
+      "median": 0.8440506976965286
+    },
+    "reliable_high": {
+      "estimate": 0.6432110974141204,
+      "lo": 0.5667902223782953,
+      "hi": 0.709757139944109,
+      "median": 0.6591330558241889
+    },
+    "service_no": {
+      "estimate": 0.655155141147354,
+      "lo": 0.5583946984391758,
+      "hi": 0.7403653087137535,
+      "median": 0.7035915668499585
+    },
+    "service_high": {
+      "estimate": 0.36598670523251714,
+      "lo": 0.2910646675375722,
+      "hi": 0.44793479360431737,
+      "median": 0.3222442400072687
+    },
+    "conditional_gap": {
+      "estimate": 0.14688399832288876,
+      "lo": 0.1053335446699843,
+      "hi": 0.1897178330673772,
+      "median": 0.11202278559825884
+    },
+    "connection_gap": {
+      "estimate": 0.2504477257729446,
+      "lo": 0.19476299274657227,
+      "hi": 0.3054554183544155,
+      "median": 0.284363371805656
+    },
+    "service_gap": {
+      "estimate": 0.2891684359148369,
+      "lo": 0.2370601262905964,
+      "hi": 0.34075837510625157,
+      "median": 0.3095262807509085
+    },
+    "connection_component": {
+      "estimate": 0.18431845046221162,
+      "lo": 0.13747928070133478,
+      "hi": 0.2313396523230742,
+      "median": 0.18950572276638888
+    },
+    "reliability_component": {
+      "estimate": 0.10484998545262528,
+      "lo": 0.07399389864268319,
+      "hi": 0.13870515792575308,
+      "median": 0.08740135827257346
+    },
+    "reliability_fraction_of_gap": {
+      "estimate": 0.3625913911416829,
+      "lo": 0.27009955020573206,
+      "hi": 0.4686097931979407
+    }
+  },
+  "positive_conditional_gaps": 22,
+  "positive_service_gaps": 23,
+  "admitted_iso3": [
+    "AGO",
+    "BWA",
+    "CIV",
+    "CPV",
+    "ETH",
+    "GAB",
+    "GHA",
+    "GMB",
+    "KEN",
+    "LBR",
+    "LSO",
+    "MLI",
+    "MOZ",
+    "NAM",
+    "NGA",
+    "SDN",
+    "SEN",
+    "STP",
+    "SWZ",
+    "SYC",
+    "TUN",
+    "TZA",
+    "ZAF"
+  ],
+  "excluded_primary_iso3": [
+    "BEN",
+    "BFA",
+    "CMR",
+    "COG",
+    "GIN",
+    "MAR",
+    "MDG",
+    "MRT",
+    "MUS",
+    "MWI",
+    "NER",
+    "SLE",
+    "TGO",
+    "UGA",
+    "ZMB",
+    "ZWE"
+  ],
+  "construct_common_countries": 23,
+  "construct_five_item": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "conditional_gap_five": {
+      "estimate": 0.14688399832288876,
+      "lo": 0.1053335446699843,
+      "hi": 0.1897178330673772,
+      "median": 0.11202278559825884
+    },
+    "service_gap_five": {
+      "estimate": 0.2891684359148369,
+      "lo": 0.2370601262905964,
+      "hi": 0.34075837510625157,
+      "median": 0.3095262807509085
+    }
+  },
+  "construct_four_item": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "conditional_gap_four": {
+      "estimate": 0.14198803000418456,
+      "lo": 0.10271158372469616,
+      "hi": 0.1823721123895373,
+      "median": 0.1182791195655839
+    },
+    "service_gap_four": {
+      "estimate": 0.29096149151972717,
+      "lo": 0.24039748715777132,
+      "hi": 0.34173609244659087,
+      "median": 0.3205010424738813
+    }
+  },
+  "settlement": {
+    "countries": 10,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "total_gap": {
+      "estimate": 0.12416244261045276,
+      "lo": 0.060573897363178544,
+      "hi": 0.17978385424453042,
+      "median": 0.12326950708518306
+    },
+    "standardized_gap": {
+      "estimate": 0.12162906887289544,
+      "lo": 0.061853548529007575,
+      "hi": 0.17350607943855637,
+      "median": 0.12474905698553546
+    },
+    "urban_gap": {
+      "estimate": 0.09154579969621934,
+      "lo": 0.017925599384730852,
+      "hi": 0.15895113227146798,
+      "median": 0.07599748027822689
+    },
+    "rural_gap": {
+      "estimate": 0.13812528631930113,
+      "lo": 0.04484818844952312,
+      "hi": 0.20646938073584292,
+      "median": 0.16265217973183704
+    }
+  },
+  "settlement_iso3": [
+    "CPV",
+    "ETH",
+    "GHA",
+    "KEN",
+    "SDN",
+    "STP",
+    "SWZ",
+    "TUN",
+    "TZA",
+    "ZAF"
+  ]
+}

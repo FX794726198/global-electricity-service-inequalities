@@ -1,0 +1,1715 @@
+ISO3,unit_id,label,year,caidi_h,saidi_h,saifi,country,continent,subregion,climate_group,climate_dominant_fraction,climate_support,climate_fraction_Tropical,climate_fraction_Arid,climate_fraction_Temperate,climate_fraction_Cold,climate_fraction_Polar,gdp_ppp_pc_constant_2021,income_group,population,gdp_reference_year,gdp_ppp_pc_at_year,income_group_at_year,recovery_h,gdp_quartile,document_id,country_profile,table_order,minimum_minutes,minimum_native,saidi_published,saifi_published,source_line,source_context,source_url,numeric_match,definition_admitted
+MLI,WBDB_MLI,Mali,2015,2.688,168.0,62.5,Mali,Africa,Western Africa,Arid,0.8768195035818865,national_land_area_on_0.1_degree_grid,0.1231804964181135,0.8768195035818865,0.0,0.0,0.0,2861.48058063314,Low income,23769127.0,2023.0,2686.56065073799,Low income,2.688,Q1,31596775.0,Mali,1.0,0.0,0.0,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/528981575013080451/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Mali.txt,False,False
+LBY,WBDB_LBY,Libya,2015,3.107920792079208,1883.4,606.0,Libya,Africa,Northern Africa,Arid,0.9959084654116934,national_land_area_on_0.1_degree_grid,0.0,0.9959084654116934,0.0040915345883065,0.0,0.0,12476.5974944083,Upper middle income,7305659.0,2023.0,12195.3486990421,Upper middle income,3.107920792079208,Q2,31596771.0,Libya,1.0,,,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     N/A,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/112461575012552159/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Libya.txt,False,False
+BDI,WBDB_BDI,Burundi,2015,2.0,660.0,330.0,Burundi,Africa,Eastern Africa,Tropical,0.84477807320849,national_land_area_on_0.1_degree_grid,0.84477807320849,0.0,0.15522192679151,0.0,0.0,1033.00937341776,Low income,13689450.0,2023.0,992.28580552029,Low income,2.0,Q1,31586158.0,Burundi,1.0,,,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     N/A,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/147321574771369840/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Burundi.txt,False,False
+AFG,WBDB_AFG,Afghanistan,2015,2.943548387096774,1825.0,620.0,Afghanistan,Asia,Southern Asia,Arid,0.5011914645954848,national_land_area_on_0.1_degree_grid,0.0,0.5011914645954848,0.0671320086952921,0.384222575886492,0.0474539508227309,1983.81261992909,Low income,41454761.0,2023.0,2967.692067153,Low income,2.943548387096774,Q1,31583752.0,Afghanistan,1.0,,,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     N/A,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/730641574712680744/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Afghanistan.txt,False,False
+MHL,WBDB_MHL,Marshall Islands,2015,2.5,120.0,48.0,Marshall Islands,Oceania,Micronesia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,6774.78265578378,Upper middle income,38827.0,2023.0,4670.70755785577,Upper middle income,2.5,Q1,31596781.0,Marshall Islands,1.0,30.0,30.0,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     30.0,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/380621575013864130/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Marshall-Islands.txt,False,False
+LBR,WBDB_LBR,Liberia,2016,3.2901023890784984,96.4,29.3,Liberia,Africa,Western Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,1616.92373356695,Low income,5493031.0,2023.0,1653.31050211233,Low income,3.2901023890784984,Q1,31596770.0,Liberia,1.0,60.0,60.0,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     60.0,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/709181575012170508/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Liberia.txt,False,False
+ZWE,WBDB_ZWE,Zimbabwe,2017,11.251270207852194,243.59,21.65,Zimbabwe,Africa,Eastern Africa,Arid,0.6777155933889589,national_land_area_on_0.1_degree_grid,0.0102825322716118,0.6777155933889589,0.3120018743394291,0.0,0.0,5218.04526596398,Lower middle income,16340822.0,2023.0,5234.4065377844,Low income,11.251270207852194,Q1,31605437.0,Zimbabwe,1.0,10.0,10.0,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     10.0,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/177921575381849841/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Zimbabwe.txt,False,False
+IRQ,WBDB_IRQ,Iraq,2017,2.3333333333333335,2352.0,1008.0,Iraq,Asia,Western Asia,Arid,0.8858496961733666,national_land_area_on_0.1_degree_grid,0.0,0.8858496961733666,0.1053359512731444,0.0088143525534888,0.0,13202.3228073856,Upper middle income,45074049.0,2023.0,14417.6306896454,Upper middle income,2.3333333333333335,Q2,31596313.0,Iraq,1.0,30.0,30.0,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     30.0,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/183731574998383481/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Iraq.txt,False,False
+SDN,WBDB_SDN,Sudan,2018,4.069444444444445,58.6,14.4,Sudan,Africa,Northern Africa,Arid,0.939380317279522,national_land_area_on_0.1_degree_grid,0.0601665197540233,0.939380317279522,0.0004531629664548,0.0,0.0,2181.0791015625,Low income,50042791.0,2023.0,3816.65991210938,Lower middle income,4.069444444444445,Q1,31603644.0,Sudan,1.0,5.0,5.0,,,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                        Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             ..
+
+    System average interruption frequency index (SAIFI)                                                                                            ..
+
+    ",https://documents1.worldbank.org/curated/en/441871575346787051/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Sudan.txt,False,False
+TUR,WBDB_TUR,Turkey,2019,2.288274449564772,44.69,19.53,Turkey,Asia,Western Asia,Temperate,0.4812079044703697,national_land_area_on_0.1_degree_grid,0.0,0.0739841697233924,0.4812079044703697,0.4446881393363181,0.0001197864699197,35069.1701714685,Upper middle income,85325965.0,2023.0,28741.0535082701,Upper middle income,2.288274449564772,Q3,31604980.0,Turkey,1.0,5.0,5.0,44.7,19.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             44.7
+
+    System average interruption frequency index (SAIFI)                                                                                            19.5
+
+    ",https://documents1.worldbank.org/curated/en/296251575375487692/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Turkey.txt,True,True
+MAR,WBDB_MAR,Morocco,2019,0.2197309417040358,0.49,2.23,Morocco,Africa,Northern Africa,Arid,0.7986139691972673,national_land_area_on_0.1_degree_grid,0.0,0.7986139691972673,0.1921455748121124,0.0092404559906201,0.0,8915.3515625,Lower middle income,37712505.0,2023.0,8768.17578125,Lower middle income,0.2197309417040358,Q1,31597044.0,Morocco,1.0,1.0,1.0,0.5,2.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            2.2
+
+    ",https://documents1.worldbank.org/curated/en/364041575019896230/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Morocco.txt,True,True
+KGZ,WBDB_KGZ,Kyrgyz Republic,2019,3.1315789473684212,11.9,3.8,Kyrgyzstan,Asia,Central Asia,Cold,0.4558701813012809,national_land_area_on_0.1_degree_grid,0.0,0.1413740302052366,0.0009171858289039,0.4558701813012809,0.4018386026645786,6575.77541290499,Lower middle income,7099750.0,2023.0,6087.60193826927,Lower middle income,3.1315789473684212,Q1,31596583.0,Kyrgyz Republic,1.0,,,11.9,3.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     N/A,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             11.9
+
+    System average interruption frequency index (SAIFI)                                                                                            3.8
+
+    ",https://documents1.worldbank.org/curated/en/429591575004895562/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Kyrgyz-Republic.txt,True,False
+BIH,WBDB_BIH,Bosnia and Herzegovina,2019,4.215686274509804,2.15,0.51,Bosnia and Herzegovina,Europe,Southern Europe,Temperate,0.5678787619840105,national_land_area_on_0.1_degree_grid,0.0,0.0,0.5678787619840105,0.4321212380159895,0.0,19804.9181465635,Upper middle income,3185073.0,2023.0,17029.2971980343,Upper middle income,4.215686274509804,Q2,31585026.0,Bosnia Herzegovina,1.0,3.0,3.0,2.2,0.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.2
+
+    System average interruption frequency index (SAIFI)                                                                                            0.5
+
+    ",https://documents1.worldbank.org/curated/en/657131574754234166/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Bosnia-Herzegovina.txt,True,True
+TZA,WBDB_TZA,Tanzania,2019,0.4468676502031216,20.9,46.77,United Republic of Tanzania,Africa,Eastern Africa,Tropical,0.7727529628868972,national_land_area_on_0.1_degree_grid,0.7727529628868972,0.1172313059820034,0.1094939155503911,0.0,0.0005218155807081,3620.79345703125,Lower middle income,66617606.0,2023.0,3484.63256835938,Low income,0.4468676502031216,Q1,31603692.0,Tanzania,1.0,4.0,4.0,20.9,46.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     4.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             20.9
+
+    System average interruption frequency index (SAIFI)                                                                                            46.8
+
+    ",https://documents1.worldbank.org/curated/en/171871575350897441/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Tanzania.txt,True,True
+XKX,WBDB_XKX,Kosovo,2019,1.769100169779287,10.42,5.89,Kosovo,Europe,Southern Europe,Temperate,0.542593374322883,national_land_area_on_0.1_degree_grid,0.0,0.0,0.542593374322883,0.457406625677117,0.0,14240.2030320365,Upper middle income,1682668.0,2023.0,11774.1178510908,Upper middle income,1.769100169779287,Q2,31596578.0,Kosovo,1.0,0.0,0.0,10.4,5.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             10.4
+
+    System average interruption frequency index (SAIFI)                                                                                            5.9
+
+    ",https://documents1.worldbank.org/curated/en/573681575004008429/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Kosovo.txt,True,True
+MDA,WBDB_MDA,Moldova,2019,0.8866666666666667,1.33,1.5,Moldova,Europe,Eastern Europe,Cold,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0,1.0,0.0,15980.5668889856,Upper middle income,2457783.0,2023.0,14621.2401362286,Lower middle income,0.8866666666666667,Q2,31597038.0,Moldova,1.0,3.0,3.0,1.3,1.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.3
+
+    System average interruption frequency index (SAIFI)                                                                                            1.5
+
+    ",https://documents1.worldbank.org/curated/en/847661575019036940/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Moldova.txt,True,True
+ZAF,WBDB_ZAF,South Africa,2019,5.105351170568562,30.53,5.98,South Africa,Africa,Southern Africa,Arid,0.7192397521425085,national_land_area_on_0.1_degree_grid,0.0055406883312093,0.7192397521425085,0.2748735394735401,0.0,0.000346020052742,13695.3755694076,Upper middle income,63212384.0,2023.0,14352.6698709871,Upper middle income,5.105351170568562,Q2,31604826.0,South Africa,1.0,5.0,5.0,30.5,6.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             30.5
+
+    System average interruption frequency index (SAIFI)                                                                                            6.0
+
+    ",https://documents1.worldbank.org/curated/en/825991575374277572/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-South-Africa.txt,True,True
+BRA,WBDB_BRA,Brazil,2019,1.78607366750074,6.6383,3.7167,Brazil,South America,South America,Tropical,0.8595398478040978,national_land_area_on_0.1_degree_grid,0.8595398478040978,0.0502405333413396,0.0902196188545626,0.0,0.0,19079.8122134028,Upper middle income,211140729.0,2023.0,18018.6209151518,Upper middle income,1.78607366750074,Q2,,,,,,,,,,,False,False
+ALB,WBDB_ALB,Albania,2019,1.520909090909091,33.46,22.0,Albania,Europe,Southern Europe,Temperate,0.7821210945385777,national_land_area_on_0.1_degree_grid,0.0,0.0,0.7821210945385777,0.2178789054614223,0.0,20501.6470726741,Upper middle income,2411658.0,2023.0,16761.1230178682,Upper middle income,1.520909090909091,Q2,31584605.0,Albania,1.0,5.0,5.0,33.5,22.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             33.5
+
+    System average interruption frequency index (SAIFI)                                                                                            22.0
+
+    ",https://documents1.worldbank.org/curated/en/255991574747242507/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Albania.txt,True,True
+KEN,WBDB_KEN,Kenya,2019,1.7391304347826086,12.0,6.9,Kenya,Africa,Eastern Africa,Arid,0.6251535153244786,national_land_area_on_0.1_degree_grid,0.2574816403376659,0.6251535153244786,0.116734891459071,0.0,0.0006299528787846,5691.82513474417,Lower middle income,55339003.0,2023.0,5171.71264279257,Lower middle income,1.7391304347826086,Q1,31596381.0,Kenya,1.0,1.0,1.0,12.0,6.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             12.0
+
+    System average interruption frequency index (SAIFI)                                                                                            6.9
+
+    ",https://documents1.worldbank.org/curated/en/167931575002919533/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Kenya.txt,True,True
+BLR,WBDB_BLR,Belarus,2019,1.0625,0.51,0.48,Belarus,Europe,Eastern Europe,Cold,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0,1.0,0.0,27782.4380139967,Upper middle income,9178298.0,2023.0,26798.8206398076,Upper middle income,1.0625,Q3,31584761.0,Belarus,1.0,0.5,0.5,0.5,0.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.5,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.5
+
+    ",https://documents1.worldbank.org/curated/en/969741574748441097/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Belarus.txt,True,True
+LVA,WBDB_LVA,Latvia,2019,2.357142857142857,0.99,0.42,Latvia,Europe,Northern Europe,Cold,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0,1.0,0.0,37277.7217221317,High income,1883710.0,2023.0,35208.1934590859,High income,2.357142857142857,Q3,31596742.0,Latvia,1.0,3.0,3.0,1.0,0.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             1.0
+
+    System average interruption frequency index (SAIFI)                                                                                            0.4
+
+    ",https://documents1.worldbank.org/curated/en/957171575011111604/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Latvia.txt,True,True
+JPN,WBDB_JPN,Japan,2019,1.5625,0.0375,0.024,Japan,Asia,Eastern Asia,Temperate,0.5662857158857769,national_land_area_on_0.1_degree_grid,0.0015021366482901,0.0,0.5662857158857769,0.4322121474659328,0.0,47387.2172542523,High income,124516650.0,2023.0,46055.3498672487,High income,1.5625,Q4,,,,,,,,,,,False,False
+BOL,WBDB_BOL,Bolivia,2019,0.9255813953488372,7.96,8.6,Bolivia,South America,South America,Tropical,0.620185800111336,national_land_area_on_0.1_degree_grid,0.620185800111336,0.2073343017078928,0.1337204118131162,0.0,0.0387594863676549,11616.1575595159,Lower middle income,12244159.0,2023.0,11930.9159145918,Lower middle income,0.9255813953488372,Q2,31585021.0,Bolivia,1.0,3.0,3.0,8.0,8.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             8.0
+
+    System average interruption frequency index (SAIFI)                                                                                            8.6
+
+    ",https://documents1.worldbank.org/curated/en/564721574753705776/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Bolivia.txt,True,True
+ZMB,WBDB_ZMB,Zambia,2019,10.431771894093686,51.22,4.91,Zambia,Africa,Eastern Africa,Temperate,0.5612475179067644,national_land_area_on_0.1_degree_grid,0.3678823705914814,0.0708701115017541,0.5612475179067644,0.0,0.0,3673.4841969922,Lower middle income,20723965.0,2023.0,3591.56418883108,Lower middle income,10.431771894093686,Q1,31605281.0,Zambia,1.0,5.0,5.0,51.2,4.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             51.2
+
+    System average interruption frequency index (SAIFI)                                                                                            4.9
+
+    ",https://documents1.worldbank.org/curated/en/892261575381383288/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Zambia.txt,True,True
+KAZ,WBDB_KAZ,Kazakhstan,2019,1.054945054945055,0.96,0.91,Kazakhstan,Asia,Central Asia,Arid,0.5785601733256521,national_land_area_on_0.1_degree_grid,0.0,0.5785601733256521,0.0017768907545089,0.413689272987397,0.0059736629324418,34703.2349286604,Upper middle income,20330104.0,2023.0,33298.2123695035,Upper middle income,1.054945054945055,Q3,31596379.0,Kazakhstan,1.0,1.0,1.0,1.0,0.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             1.0
+
+    System average interruption frequency index (SAIFI)                                                                                            0.9
+
+    ",https://documents1.worldbank.org/curated/en/834451575002592845/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Kazakhstan.txt,True,True
+BLZ,WBDB_BLZ,Belize,2019,1.0290275761973875,14.18,13.78,Belize,North America,Central America,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,12371.0086545348,Upper middle income,411106.0,2023.0,11765.9748661176,Upper middle income,1.0290275761973875,Q2,31584781.0,Belize,1.0,5.0,5.0,14.2,13.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             14.2
+
+    System average interruption frequency index (SAIFI)                                                                                            13.8
+
+    ",https://documents1.worldbank.org/curated/en/419941574751261739/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Belize.txt,True,True
+LUX,WBDB_LUX,Luxembourg,2019,1.3846153846153846,0.36,0.26,Luxembourg,Europe,Western Europe,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,130048.922273147,High income,666430.0,2023.0,132724.754668303,High income,1.3846153846153846,Q4,31597034.0,Luxembourg,1.0,0.1,0.1,0.4,0.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.1,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.4
+
+    System average interruption frequency index (SAIFI)                                                                                            0.3
+
+    ",https://documents1.worldbank.org/curated/en/298141575018047202/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Luxembourg.txt,True,True
+AGO,WBDB_AGO,Angola,2019,1.5047058823529411,12.79,8.5,Angola,Africa,Middle Africa,Tropical,0.5286804140718355,national_land_area_on_0.1_degree_grid,0.5286804140718355,0.2073468019940229,0.2639727839341416,0.0,0.0,8597.53878787554,Lower middle income,36749906.0,2023.0,9712.97944927269,Lower middle income,1.5047058823529411,Q2,31584607.0,Angola,1.0,3.0,3.0,12.8,8.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      2
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             12.8
+
+    System average interruption frequency index (SAIFI)                                                                                            8.5
+
+    ",https://documents1.worldbank.org/curated/en/825201574747808904/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Angola.txt,True,True
+MYS,WBDB_MYS,Malaysia,2019,0.979591836734694,0.48,0.49,Malaysia,Asia,South-Eastern Asia,Tropical,0.9973791393616068,national_land_area_on_0.1_degree_grid,0.9973791393616068,0.0,0.0026208606383932,0.0,0.0,32857.6676600774,Upper middle income,35126298.0,2023.0,31300.5086554849,Upper middle income,0.979591836734694,Q3,31596769.0,Malaysia,1.0,1.0,1.0,0.5,0.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.5
+
+    ",https://documents1.worldbank.org/curated/en/847451575012489827/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Malaysia.txt,True,True
+MUS,WBDB_MUS,Mauritius,2019,1.8941176470588237,1.61,0.85,Mauritius,Africa,Eastern Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,26471.0351422892,Upper middle income,1248647.0,2023.0,25958.4900281465,Upper middle income,1.8941176470588237,Q3,31596899.0,Mauritius,1.0,3.0,3.0,1.6,0.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.6
+
+    System average interruption frequency index (SAIFI)                                                                                            0.9
+
+    ",https://documents1.worldbank.org/curated/en/893861575014559381/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Mauritius.txt,True,True
+BHS,WBDB_BHS,"Bahamas, The",2019,1.0318979266347688,6.47,6.27,The Bahamas,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,35221.2696932313,High income,399440.0,2023.0,33202.4902105068,High income,1.0318979266347688,Q3,31584602.0,"Bahamas, The",1.0,5.0,5.0,6.5,6.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             6.5
+
+    System average interruption frequency index (SAIFI)                                                                                            6.3
+
+    ",https://documents1.worldbank.org/curated/en/596711574746166406/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Bahamas-The.txt,True,True
+VNM,WBDB_VNM,Vietnam,2019,1.3184713375796178,2.07,1.57,Vietnam,Asia,South-Eastern Asia,Tropical,0.5475710727803057,national_land_area_on_0.1_degree_grid,0.5475710727803057,0.0,0.4524289272196943,0.0,0.0,13534.7997843016,Lower middle income,100352192.0,2023.0,11628.6139147451,Lower middle income,1.3184713375796178,Q2,31605265.0,Vietnam,1.0,5.0,5.0,2.1,1.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.1
+
+    System average interruption frequency index (SAIFI)                                                                                            1.6
+
+    ",https://documents1.worldbank.org/curated/en/646041575379645384/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Vietnam.txt,True,True
+UGA,WBDB_UGA,Uganda,2019,1.2387070869303354,61.7,49.81,Uganda,Africa,Eastern Africa,Tropical,0.9720862159049504,national_land_area_on_0.1_degree_grid,0.9720862159049504,0.0,0.0258833865452758,0.0,0.0020303975497736,2791.05576885861,Low income,48656601.0,2023.0,2689.41009144919,Low income,1.2387070869303354,Q1,31604984.0,Uganda,1.0,5.0,5.0,61.7,49.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             61.7
+
+    System average interruption frequency index (SAIFI)                                                                                            49.8
+
+    ",https://documents1.worldbank.org/curated/en/348981575375705706/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Uganda.txt,True,True
+LCA,WBDB_LCA,St. Lucia,2019,0.5294117647058822,0.18,0.34,Saint Lucia,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,23636.0265940253,Upper middle income,179285.0,2023.0,22445.2080507874,Upper middle income,0.5294117647058822,Q3,31604785.0,St. Lucia,1.0,0.0,0.0,0.2,0.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.2
+
+    System average interruption frequency index (SAIFI)                                                                                            0.3
+
+    ",https://documents1.worldbank.org/curated/en/677951575371755993/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-St-Lucia.txt,True,True
+MKD,WBDB_MKD,North Macedonia,2019,0.5260930888575458,7.46,14.18,North Macedonia,Europe,Southern Europe,Temperate,0.5716052340140764,national_land_area_on_0.1_degree_grid,0.0,0.0,0.5716052340140764,0.4283947659859236,0.0,23455.2221318176,Upper middle income,1827816.0,2023.0,21766.8842062487,Upper middle income,0.5260930888575458,Q3,,,,,,,,,,,False,False
+AUS,WBDB_AUS,Australia,2019,1.6666666666666667,1.0,0.6,Australia,Oceania,Australia and New Zealand,Arid,0.7801347216152147,national_land_area_on_0.1_degree_grid,0.1046043606588787,0.7801347216152147,0.1151297114469171,0.0001033550760402,2.785120294910024e-05,60684.9596204883,High income,26659922.0,2023.0,58048.6188420831,High income,1.6666666666666667,Q4,31584404.0,Australia,1.0,3.0,3.0,1.0,0.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.0
+
+    System average interruption frequency index (SAIFI)                                                                                            0.6
+
+    ",https://documents1.worldbank.org/curated/en/904751574737741815/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Australia.txt,True,True
+UZB,WBDB_UZB,Uzbekistan,2019,2.75,0.22,0.08,Uzbekistan,Asia,Central Asia,Arid,0.8589640291342663,national_land_area_on_0.1_degree_grid,0.0,0.8589640291342663,0.0824115672216228,0.0565536713096401,0.0020707323344706,10514.0955721447,Lower middle income,35652307.0,2023.0,9169.01147508351,Lower middle income,2.75,Q1,31605253.0,Uzbekistan,1.0,0.5,0.5,0.2,0.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.5,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.2
+
+    System average interruption frequency index (SAIFI)                                                                                            0.1
+
+    ",https://documents1.worldbank.org/curated/en/880291575378502051/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Uzbekistan.txt,True,True
+ARM,WBDB_ARM,Armenia,2019,1.5083333333333333,10.86,7.2,Armenia,Asia,Western Asia,Cold,0.8952648508093749,national_land_area_on_0.1_degree_grid,0.0,0.0826624727099323,0.0220726764806927,0.8952648508093749,0.0,19402.7510915578,Upper middle income,2964300.0,2023.0,16215.3607965094,Upper middle income,1.5083333333333333,Q2,31584768.0,Armenia,1.0,5.0,5.0,10.9,7.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             10.9
+
+    System average interruption frequency index (SAIFI)                                                                                            7.2
+
+    ",https://documents1.worldbank.org/curated/en/538771574748993205/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Armenia.txt,True,True
+LAO,WBDB_LAO,Lao PDR,2019,0.1744493392070484,3.96,22.7,Laos,Asia,South-Eastern Asia,Tropical,0.5803680756962335,national_land_area_on_0.1_degree_grid,0.5803680756962335,0.0,0.4196319243037665,0.0,0.0,8372.15591874407,Lower middle income,7664993.0,2023.0,8075.27502377003,Lower middle income,0.1744493392070484,Q1,31596668.0,Lao PDR,1.0,1.0,1.0,4.0,22.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             4.0
+
+    System average interruption frequency index (SAIFI)                                                                                            22.7
+
+    ",https://documents1.worldbank.org/curated/en/884131575010602789/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Lao-PDR.txt,True,True
+AUT,WBDB_AUT,Austria,2019,1.0327868852459017,0.63,0.61,Austria,Europe,Western Europe,Cold,0.8238820075552364,national_land_area_on_0.1_degree_grid,0.0,0.0,0.1076244920534627,0.8238820075552364,0.0684935003913007,64536.2076307547,High income,9131761.0,2023.0,64609.2836396895,High income,1.0327868852459017,Q4,31584413.0,Austria,1.0,3.0,3.0,0.6,0.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.6
+
+    System average interruption frequency index (SAIFI)                                                                                            0.6
+
+    ",https://documents1.worldbank.org/curated/en/315161574738213217/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Austria.txt,True,True
+VUT,WBDB_VUT,Vanuatu,2019,1.416342412451362,7.28,5.14,Vanuatu,Oceania,Melanesia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,3782.82649029418,Lower middle income,320409.0,2023.0,3986.65620021472,Lower middle income,1.416342412451362,Q1,31605262.0,Vanuatu,1.0,3.0,3.0,7.3,5.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             7.3
+
+    System average interruption frequency index (SAIFI)                                                                                            5.1
+
+    ",https://documents1.worldbank.org/curated/en/530151575378757146/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Vanuatu.txt,True,True
+LKA,WBDB_LKA,Sri Lanka,2019,1.342281879194631,4.0,2.98,Sri Lanka,Asia,Southern Asia,Tropical,0.988952747589186,national_land_area_on_0.1_degree_grid,0.988952747589186,0.0,0.011047252410814,0.0,0.0,13065.0698305722,Lower middle income,22037000.0,2023.0,14637.4442912676,Upper middle income,1.342281879194631,Q2,31604981.0,Sri Lanka,1.0,2.0,2.0,4.0,3.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     2.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             4.0
+
+    System average interruption frequency index (SAIFI)                                                                                            3.0
+
+    ",https://documents1.worldbank.org/curated/en/935101575375478849/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Sri-Lanka.txt,True,True
+USA,WBDB_USA,United States,2019,3.3862433862433865,1.28,0.378,United States of America,North America,Northern America,Cold,0.4584054828870332,national_land_area_on_0.1_degree_grid,0.0040056733068159,0.2363893608899054,0.272877189525273,0.4584054828870332,0.0283222933909722,74351.6718197429,High income,336755052.0,2023.0,69121.4580016741,High income,3.3862433862433865,Q4,,,,,,,,,,,False,False
+TUN,WBDB_TUN,Tunisia,2019,1.1140350877192984,2.54,2.28,Tunisia,Africa,Northern Africa,Arid,0.8761904372965564,national_land_area_on_0.1_degree_grid,0.0,0.8761904372965564,0.1238095627034434,0.0,0.0,12650.9615158166,Lower middle income,12200431.0,2023.0,13243.9024233246,Lower middle income,1.1140350877192984,Q2,31604982.0,Tunisia,1.0,2.0,2.0,2.5,2.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     2.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.5
+
+    System average interruption frequency index (SAIFI)                                                                                            2.3
+
+    ",https://documents1.worldbank.org/curated/en/362551575375264805/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Tunisia.txt,True,True
+AZE,WBDB_AZE,Azerbaijan,2019,0.8958333333333334,0.86,0.96,Azerbaijan,Asia,Western Asia,Arid,0.4928714115948113,national_land_area_on_0.1_degree_grid,0.0,0.4928714115948113,0.2437690943531069,0.2611912962449155,0.0021681978071661,21310.7386915022,Upper middle income,10153958.0,2023.0,20101.491875147,Upper middle income,0.8958333333333334,Q3,31584597.0,Azerbaijan,1.0,3.0,3.0,0.9,1.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.9
+
+    System average interruption frequency index (SAIFI)                                                                                            1.0
+
+    ",https://documents1.worldbank.org/curated/en/265181574744852650/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Azerbaijan.txt,True,True
+MEX,WBDB_MEX,Mexico,2019,0.6858853922029121,0.5841,0.8516,Mexico,North America,Central America,Arid,0.5137020690750445,national_land_area_on_0.1_degree_grid,0.2673620255942326,0.5137020690750445,0.2187570392832953,0.0,0.0001788660474275,21864.9236104145,Upper middle income,129739759.0,2023.0,21704.185952748,Upper middle income,0.6858853922029121,Q3,,,,,,,,,,,False,False
+MOZ,WBDB_MOZ,Mozambique,2019,2.6666666666666665,80.0,30.0,Mozambique,Africa,Eastern Africa,Tropical,0.6983908930957552,national_land_area_on_0.1_degree_grid,0.6983908930957552,0.2067274900904288,0.0948816168138159,0.0,0.0,1512.66729609671,Low income,33635160.0,2023.0,1528.88988354373,Low income,2.6666666666666665,Q1,31597045.0,Mozambique,1.0,5.0,5.0,80.0,30.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             80.0
+
+    System average interruption frequency index (SAIFI)                                                                                            30.0
+
+    ",https://documents1.worldbank.org/curated/en/793311575020290431/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Mozambique.txt,True,True
+ARG,WBDB_ARG,Argentina,2019,0.3134120917303682,4.51,14.39,Argentina,South America,South America,Arid,0.4926894126340558,national_land_area_on_0.1_degree_grid,0.0,0.4926894126340558,0.4492302367849867,0.0156276453113486,0.0424527052696089,27230.3968496682,Upper middle income,45538401.0,2023.0,26629.5529419501,Upper middle income,0.3134120917303682,Q3,31584767.0,Argentina,1.0,3.0,3.0,4.5,14.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             4.5
+
+    System average interruption frequency index (SAIFI)                                                                                            14.4
+
+    ",https://documents1.worldbank.org/curated/en/885821574748699407/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Argentina.txt,True,True
+BEL,WBDB_BEL,Belgium,2019,1.025,0.41,0.4,Belgium,Europe,Western Europe,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,63042.0099876309,High income,11779946.0,2023.0,60479.9769955469,High income,1.025,Q4,31584779.0,Belgium,1.0,3.0,3.0,0.4,0.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.4
+
+    System average interruption frequency index (SAIFI)                                                                                            0.4
+
+    ",https://documents1.worldbank.org/curated/en/838891574750860221/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Belgium.txt,True,True
+URY,WBDB_URY,Uruguay,2019,2.5,10.0,4.0,Uruguay,South America,South America,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,31100.9696889882,High income,3388081.0,2023.0,30010.5628834294,High income,2.5,Q3,31605024.0,Uruguay,1.0,3.0,3.0,10.0,4.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             10.0
+
+    System average interruption frequency index (SAIFI)                                                                                            4.0
+
+    ",https://documents1.worldbank.org/curated/en/619581575377566978/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Uruguay.txt,True,True
+WSM,WBDB_WSM,Samoa,2019,2.2752060875079265,35.88,15.77,Samoa,Oceania,Polynesia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,7384.69163688613,Lower middle income,216663.0,2023.0,7034.42233036815,Upper middle income,2.2752060875079265,Q1,31601462.0,Samoa,1.0,5.0,5.0,35.9,15.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             35.9
+
+    System average interruption frequency index (SAIFI)                                                                                            15.8
+
+    ",https://documents1.worldbank.org/curated/en/182441575292200133/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Samoa.txt,True,True
+MNE,WBDB_MNE,Montenegro,2019,1.561675717610551,40.26,25.78,Montenegro,Europe,Southern Europe,Cold,0.6183198368604417,national_land_area_on_0.1_degree_grid,0.0,0.0,0.3816801631395582,0.6183198368604417,0.0,27243.404228981,Upper middle income,623529.0,2023.0,24585.1159529158,Upper middle income,1.561675717610551,Q3,31597041.0,Montenegro,1.0,3.0,3.0,40.3,25.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             40.3
+
+    System average interruption frequency index (SAIFI)                                                                                            25.8
+
+    ",https://documents1.worldbank.org/curated/en/887991575019659681/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Montenegro.txt,True,True
+KOR,WBDB_KOR,"Korea, Rep.",2019,0.7999999999999999,0.04,0.05,South Korea,Asia,Eastern Asia,Cold,0.7010480803350304,national_land_area_on_0.1_degree_grid,0.0,0.0,0.2989519196649695,0.7010480803350304,0.0,54029.3434990785,High income,51712619.0,2023.0,49790.8679884821,High income,0.7999999999999999,Q4,31596382.0,"Korea, Republic of",1.0,5.0,5.0,0.0,0.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.0
+
+    System average interruption frequency index (SAIFI)                                                                                            0.1
+
+    ",https://documents1.worldbank.org/curated/en/938591575003618205/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Korea-Republic-of.txt,True,True
+BGR,WBDB_BGR,Bulgaria,2019,1.2275449101796407,6.15,5.01,Bulgaria,Europe,Eastern Europe,Temperate,0.6109380343660277,national_land_area_on_0.1_degree_grid,0.0,0.0,0.6109380343660277,0.3890619656339723,0.0,33073.6803093453,Upper middle income,6446596.0,2023.0,29149.921509976,Upper middle income,1.2275449101796407,Q3,31586157.0,Bulgaria,1.0,3.0,3.0,6.2,5.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             6.2
+
+    System average interruption frequency index (SAIFI)                                                                                            5.0
+
+    ",https://documents1.worldbank.org/curated/en/706591574770897720/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Bulgaria.txt,True,True
+LTU,WBDB_LTU,Lithuania,2019,1.0,0.4,0.4,Lithuania,Europe,Northern Europe,Cold,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0,1.0,0.0,46333.9006965206,High income,2871585.0,2023.0,43078.7118585461,High income,1.0,Q4,31596774.0,Lithuania,1.0,3.0,3.0,0.4,0.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.4
+
+    System average interruption frequency index (SAIFI)                                                                                            0.4
+
+    ",https://documents1.worldbank.org/curated/en/634851575012865272/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Lithuania.txt,True,True
+UKR,WBDB_UKR,Ukraine,2019,1.7261146496815285,2.71,1.57,Ukraine,Europe,Eastern Europe,Cold,0.9930601136094784,national_land_area_on_0.1_degree_grid,0.0,0.001063965572944,0.0058759208175776,0.9930601136094784,0.0,15916.9580078125,Lower middle income,37732836.0,2023.0,17636.5546875,Lower middle income,1.7261146496815285,Q2,31605013.0,Ukraine,1.0,3.0,3.0,2.7,1.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.7
+
+    System average interruption frequency index (SAIFI)                                                                                            1.6
+
+    ",https://documents1.worldbank.org/curated/en/536181575376303049/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Ukraine.txt,True,True
+KHM,WBDB_KHM,Cambodia,2019,1.3537459283387625,20.78,15.35,Cambodia,Asia,South-Eastern Asia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,6695.29194763723,Lower middle income,17423880.0,2023.0,6448.88455952805,Lower middle income,1.3537459283387625,Q1,31586166.0,Cambodia,1.0,1.0,1.0,20.8,15.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             20.8
+
+    System average interruption frequency index (SAIFI)                                                                                            15.4
+
+    ",https://documents1.worldbank.org/curated/en/853381574772054859/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Cambodia.txt,True,True
+ARE,WBDB_ARE,United Arab Emirates,2019,1.0416666666666667,0.25,0.24,United Arab Emirates,Asia,Western Asia,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,70239.8328337228,High income,10483751.0,2023.0,72822.9466438922,High income,1.0416666666666667,Q4,31605012.0,United Arab Emirates,1.0,5.0,5.0,0.3,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.3
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/467881575376767855/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-United-Arab-Emirates.txt,True,True
+BHR,WBDB_BHR,Bahrain,2019,1.2222222222222223,0.88,0.72,Bahrain,Asia,Western Asia,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,57819.9051831242,High income,1577059.0,2023.0,56749.9628370612,High income,1.2222222222222223,Q4,31584604.0,Bahrain,1.0,1.0,1.0,0.9,0.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.9
+
+    System average interruption frequency index (SAIFI)                                                                                            0.7
+
+    ",https://documents1.worldbank.org/curated/en/561991574746824661/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Bahrain.txt,True,True
+ATG,WBDB_ATG,Antigua and Barbuda,2019,0.7075471698113207,1.5,2.12,Antigua and Barbuda,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,28712.3970492192,High income,93316.0,2023.0,29651.8641526705,High income,0.7075471698113207,Q3,31584762.0,Antigua and Barbuda,1.0,1.0,1.0,1.5,2.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.5
+
+    System average interruption frequency index (SAIFI)                                                                                            2.1
+
+    ",https://documents1.worldbank.org/curated/en/779921574748348629/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Antigua-and-Barbuda.txt,True,True
+MNG,WBDB_MNG,Mongolia,2019,4.133333333333334,62.0,15.0,Mongolia,Asia,Eastern Asia,Arid,0.7580754385763948,national_land_area_on_0.1_degree_grid,0.0,0.7580754385763948,0.0,0.2230752560774949,0.0188493053461102,16222.8638898529,Lower middle income,3481145.0,2023.0,15790.6961126441,Lower middle income,4.133333333333334,Q2,31597040.0,Mongolia,1.0,5.0,5.0,62.0,15.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             62.0
+
+    System average interruption frequency index (SAIFI)                                                                                            15.0
+
+    ",https://documents1.worldbank.org/curated/en/837971575019400547/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Mongolia.txt,True,True
+MDV,WBDB_MDV,Maldives,2019,66.67460317460318,168.02,2.52,Maldives,Asia,Southern Asia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,22333.0477138175,Upper middle income,525994.0,2023.0,21855.501224579,Upper middle income,66.67460317460318,Q3,31596773.0,Maldives,1.0,5.0,5.0,168.0,2.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             168.0
+
+    System average interruption frequency index (SAIFI)                                                                                            2.5
+
+    ",https://documents1.worldbank.org/curated/en/363841575012818033/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Maldives.txt,True,True
+MMR,WBDB_MMR,Myanmar,2019,1.1461014383043149,30.28,26.42,Myanmar,Asia,South-Eastern Asia,Tropical,0.5427011132289696,national_land_area_on_0.1_degree_grid,0.5427011132289696,0.0095158765516653,0.4431892318110062,0.001971115164492,0.0026226632438667,5364.13797034429,Lower middle income,54133798.0,2023.0,6562.98898478625,Lower middle income,1.1461014383043149,Q1,31597089.0,Myanmar,1.0,5.0,5.0,30.3,26.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      1
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             30.3
+
+    System average interruption frequency index (SAIFI)                                                                                            26.4
+
+    ",https://documents1.worldbank.org/curated/en/341141575020527722/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Myanmar.txt,True,True
+MLT,WBDB_MLT,Malta,2019,0.4207650273224043,0.77,1.83,Malta,Europe,Southern Europe,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,60459.7655182644,High income,552747.0,2023.0,53393.4231642463,High income,0.4207650273224043,Q4,31596780.0,Malta,1.0,0.0,0.0,0.8,1.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             0.8
+
+    System average interruption frequency index (SAIFI)                                                                                            1.8
+
+    ",https://documents1.worldbank.org/curated/en/275321575013330176/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Malta.txt,True,True
+ISR,WBDB_ISR,Israel,2019,0.7107843137254901,1.45,2.04,Israel,Asia,Western Asia,Arid,0.6492069775049341,national_land_area_on_0.1_degree_grid,0.0,0.6492069775049341,0.350793022495066,0.0,0.0,47671.2476926086,High income,9849000.0,2023.0,44492.1226967084,High income,0.7107843137254901,Q4,31596318.0,Israel,1.0,1.0,1.0,1.5,2.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.5
+
+    System average interruption frequency index (SAIFI)                                                                                            2.0
+
+    ",https://documents1.worldbank.org/curated/en/705931574999027680/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Israel.txt,True,True
+JOR,WBDB_JOR,Jordan,2019,1.5159235668789808,2.38,1.57,Jordan,Asia,Western Asia,Arid,0.9799076857554296,national_land_area_on_0.1_degree_grid,0.0,0.9799076857554296,0.0200923142445704,0.0,0.0,10308.7821986337,Lower middle income,11439213.0,2023.0,10168.3588523537,Upper middle income,1.5159235668789808,Q2,31596378.0,Jordan,1.0,0.0,0.0,2.4,1.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.4
+
+    System average interruption frequency index (SAIFI)                                                                                            1.6
+
+    ",https://documents1.worldbank.org/curated/en/499911575002199283/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Jordan.txt,True,True
+SEN,WBDB_SEN,Senegal,2019,0.9132947976878611,17.38,19.03,Senegal,Africa,Western Africa,Arid,0.7490289533818821,national_land_area_on_0.1_degree_grid,0.2509710466181178,0.7490289533818821,0.0,0.0,0.0,4304.76148721773,Lower middle income,18077573.0,2023.0,4070.6122705955,Lower middle income,0.9132947976878611,Q1,31600540.0,Senegal,1.0,5.0,5.0,17.4,19.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             17.4
+
+    System average interruption frequency index (SAIFI)                                                                                            19.0
+
+    ",https://documents1.worldbank.org/curated/en/126271575279000253/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Senegal.txt,True,True
+GTM,WBDB_GTM,Guatemala,2019,1.4666666666666666,3.96,2.7,Guatemala,North America,Central America,Tropical,0.7649156623889989,national_land_area_on_0.1_degree_grid,0.7649156623889989,0.0,0.2339928976312392,0.0,0.0010914399797619,12380.3715121996,Upper middle income,18124838.0,2023.0,11466.3764932197,Upper middle income,1.4666666666666666,Q2,31594091.0,Guatemala,1.0,3.0,3.0,4.0,2.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             4.0
+
+    System average interruption frequency index (SAIFI)                                                                                            2.7
+
+    ",https://documents1.worldbank.org/curated/en/385481574943350803/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Guatemala.txt,True,True
+DZA,WBDB_DZA,Algeria,2019,0.4304568527918782,4.24,9.85,Algeria,Africa,Northern Africa,Arid,0.966039336408626,national_land_area_on_0.1_degree_grid,0.0,0.966039336408626,0.0339606635913739,0.0,0.0,15159.3242373415,Lower middle income,46164219.0,2023.0,15199.1989965639,Upper middle income,0.4304568527918782,Q2,31584608.0,Algeria,1.0,3.0,3.0,4.2,9.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             4.2
+
+    System average interruption frequency index (SAIFI)                                                                                            9.9
+
+    ",https://documents1.worldbank.org/curated/en/794681574747565229/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Algeria.txt,True,True
+PNG,WBDB_PNG,Papua New Guinea,2019,1.88,940.0,500.0,Papua New Guinea,Oceania,Melanesia,Tropical,0.8440721256093319,national_land_area_on_0.1_degree_grid,0.8440721256093319,0.0,0.1543466860306406,0.0,0.0015811883600275,4206.37834691367,Lower middle income,10389635.0,2023.0,4302.16255230002,Lower middle income,1.88,Q1,31600218.0,Papua New Guinea,1.0,5.0,5.0,940.0,500.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                  Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             940.0
+
+    System average interruption frequency index (SAIFI)                                                                                            500.0
+
+    ",https://documents1.worldbank.org/curated/en/110381575270133371/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Papua-New-Guinea.txt,True,True
+SGP,WBDB_SGP,Singapore,2019,0.5454545454545454,0.06,0.11,Singapore,Asia,South-Eastern Asia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,130296.843789261,High income,5917648.0,2023.0,120678.341978557,High income,0.5454545454545454,Q4,31604379.0,Singapore,1.0,0.0,0.0,0.1,0.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.1
+
+    System average interruption frequency index (SAIFI)                                                                                            0.1
+
+    ",https://documents1.worldbank.org/curated/en/852781575366097171/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Singapore.txt,True,True
+DOM,WBDB_DOM,Dominican Republic,2019,0.96231884057971,6.64,6.9,Dominican Republic,North America,Caribbean,Tropical,0.8770214730066259,national_land_area_on_0.1_degree_grid,0.8770214730066259,0.0217590910439859,0.101219435949388,0.0,0.0,23282.4895071054,Upper middle income,11331265.0,2023.0,21451.286441995,Upper middle income,0.96231884057971,Q3,31590304.0,Dominican Republic,1.0,3.0,3.0,6.6,6.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             6.6
+
+    System average interruption frequency index (SAIFI)                                                                                            6.9
+
+    ",https://documents1.worldbank.org/curated/en/434181574862414008/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Dominican-Republic.txt,True,True
+GUY,WBDB_GUY,Guyana,2019,1.0660377358490567,113.0,106.0,Guyana,South America,South America,Tropical,0.9994186278092174,national_land_area_on_0.1_degree_grid,0.9994186278092174,0.0,0.0005813721907826,0.0,0.0,49312.3603225444,High income,826353.0,2023.0,13402.4219472757,Upper middle income,1.0660377358490567,Q2,31594342.0,Guyana,1.0,5.0,5.0,113.0,106.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                  Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             113.0
+
+    System average interruption frequency index (SAIFI)                                                                                            106.0
+
+    ",https://documents1.worldbank.org/curated/en/683221574947169707/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Guyana.txt,True,True
+DNK,WBDB_DNK,Denmark,2019,1.0,0.5,0.5,Denmark,Europe,Northern Europe,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,68993.9031100362,High income,5946952.0,2023.0,66758.6323346131,High income,1.0,Q4,31589433.0,Denmark,1.0,1.0,1.0,0.5,0.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.5
+
+    ",https://documents1.worldbank.org/curated/en/242341574845504944/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Denmark.txt,True,True
+PLW,WBDB_PLW,Palau,2019,69.17977528089888,615.7,8.9,Palau,Oceania,Micronesia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,16487.15375427,Upper middle income,17727.0,2023.0,19685.6037989273,High income,69.17977528089888,Q3,31600114.0,Palau,1.0,30.0,30.0,615.7,8.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     30.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             615.7
+
+    System average interruption frequency index (SAIFI)                                                                                            8.9
+
+    ",https://documents1.worldbank.org/curated/en/475101575269437421/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Palau.txt,True,True
+SLB,WBDB_SLB,Solomon Islands,2019,2.137931034482759,3.1,1.45,Solomon Islands,Oceania,Melanesia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,2339.87469992347,Lower middle income,800005.0,2023.0,2661.95770893588,Lower middle income,2.137931034482759,Q1,31604824.0,Solomon Islands,1.0,2.0,2.0,3.1,1.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     2.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      2
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             3.1
+
+    System average interruption frequency index (SAIFI)                                                                                            1.5
+
+    ",https://documents1.worldbank.org/curated/en/462461575373232678/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Solomon-Islands.txt,True,True
+SLE,WBDB_SLE,Sierra Leone,2019,2.5078724263221637,62.12,24.77,Sierra Leone,Africa,Western Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,3034.94608192505,Low income,8460512.0,2023.0,2852.66269829967,Low income,2.5078724263221637,Q1,31604373.0,Sierra Leone,1.0,5.0,5.0,62.1,24.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             62.1
+
+    System average interruption frequency index (SAIFI)                                                                                            24.8
+
+    ",https://documents1.worldbank.org/curated/en/784291575365792406/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Sierra-Leone.txt,True,True
+HKG,WBDB_HKG,"Hong Kong, China",2019,2.4210526315789473,0.46,0.19,Hong Kong S.A.R.,Asia,Eastern Asia,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,64387.6654066058,High income,7536100.0,2023.0,65388.3366418212,High income,2.4210526315789473,Q4,31594709.0,"Hong Kong SAR, China",1.0,1.0,1.0,0.5,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/605801574948641730/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Hong-Kong-SAR-China.txt,True,True
+DMA,WBDB_DMA,Dominica,2019,2.0,0.58,0.29,Dominica,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,18278.2253401989,Upper middle income,66510.0,2023.0,17619.4335416769,Upper middle income,2.0,Q2,31590299.0,Dominica,1.0,5.0,5.0,0.6,0.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.6
+
+    System average interruption frequency index (SAIFI)                                                                                            0.3
+
+    ",https://documents1.worldbank.org/curated/en/645361574861534392/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Dominica.txt,True,True
+HND,WBDB_HND,Honduras,2019,1.3903377511757162,32.52,23.39,Honduras,North America,Central America,Tropical,0.9232655661912276,national_land_area_on_0.1_degree_grid,0.9232655661912276,0.0,0.0767344338087723,0.0,0.0,6467.8800352783,Lower middle income,10644851.0,2023.0,6264.01884276715,Lower middle income,1.3903377511757162,Q1,31594569.0,Honduras,1.0,3.0,3.0,32.5,23.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      2
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             32.5
+
+    System average interruption frequency index (SAIFI)                                                                                            23.4
+
+    ",https://documents1.worldbank.org/curated/en/706751574948191023/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Honduras.txt,True,True
+SLV,WBDB_SLV,El Salvador,2019,1.804953560371517,5.83,3.23,El Salvador,North America,Central America,Tropical,0.9881840473420048,national_land_area_on_0.1_degree_grid,0.9881840473420048,0.0,0.0118159526579952,0.0,0.0,11404.3342262685,Upper middle income,6309624.0,2023.0,10543.9383291317,Lower middle income,1.804953560371517,Q2,31590128.0,El Salvador,1.0,3.0,3.0,5.8,3.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             5.8
+
+    System average interruption frequency index (SAIFI)                                                                                            3.2
+
+    ",https://documents1.worldbank.org/curated/en/842391574856610694/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-El-Salvador.txt,True,True
+PHL,WBDB_PHL,Philippines,2019,1.600896860986547,3.57,2.23,Philippines,Asia,South-Eastern Asia,Tropical,0.983853568366264,national_land_area_on_0.1_degree_grid,0.983853568366264,0.0,0.0161464316337357,0.0,0.0,9898.53294588106,Lower middle income,114891199.0,2023.0,9452.2939715981,Lower middle income,1.600896860986547,Q1,31601223.0,Philippines,1.0,5.0,5.0,3.6,2.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             3.6
+
+    System average interruption frequency index (SAIFI)                                                                                            2.2
+
+    ",https://documents1.worldbank.org/curated/en/928021575288986873/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Philippines.txt,True,True
+DEU,WBDB_DEU,Germany,2019,0.8333333333333334,0.25,0.3,Germany,Europe,Western Europe,Temperate,0.8011132120009425,national_land_area_on_0.1_degree_grid,0.0,0.0,0.8011132120009425,0.1988867879990574,0.0,63140.1949099669,High income,83287273.0,2023.0,62949.8932511855,High income,0.8333333333333334,Q4,31593896.0,Germany,1.0,3.0,3.0,0.3,0.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.3
+
+    System average interruption frequency index (SAIFI)                                                                                            0.3
+
+    ",https://documents1.worldbank.org/curated/en/621681574941854389/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Germany.txt,True,True
+POL,WBDB_POL,Poland,2019,1.0366972477064218,1.13,1.09,Poland,Europe,Eastern Europe,Cold,0.9013788205499615,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0986211794500384,0.9013788205499615,0.0,43672.7668014946,High income,36687353.0,2023.0,38181.6230334689,High income,1.0366972477064218,Q3,31601224.0,Poland,1.0,3.0,3.0,1.1,1.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.1
+
+    System average interruption frequency index (SAIFI)                                                                                            1.1
+
+    ",https://documents1.worldbank.org/curated/en/917561575289217529/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Poland.txt,True,True
+ECU,WBDB_ECU,Ecuador,2019,0.6424242424242425,2.12,3.3,Ecuador,South America,South America,Tropical,0.674969580633368,national_land_area_on_0.1_degree_grid,0.674969580633368,0.0478762754322229,0.1968308991742285,0.0,0.0803232447601806,14321.1648295611,Upper middle income,17980083.0,2023.0,13870.4895118068,Upper middle income,0.6424242424242425,Q2,31590441.0,Ecuador,1.0,3.0,3.0,2.1,3.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.1
+
+    System average interruption frequency index (SAIFI)                                                                                            3.3
+
+    ",https://documents1.worldbank.org/curated/en/683911574862653976/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Ecuador.txt,True,True
+GRD,WBDB_GRD,Grenada,2019,0.962178517397882,6.36,6.61,Grenada,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,17093.1562867447,Upper middle income,117081.0,2023.0,17036.9151689715,Upper middle income,0.962178517397882,Q2,31594090.0,Grenada,1.0,5.0,5.0,6.4,6.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             6.4
+
+    System average interruption frequency index (SAIFI)                                                                                            6.6
+
+    ",https://documents1.worldbank.org/curated/en/530171574943075391/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Grenada.txt,True,True
+EGY,WBDB_EGY,"Egypt, Arab Rep.",2019,0.6633333333333333,1.99,3.0,Egypt,Africa,Northern Africa,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,16691.3873991962,Lower middle income,114535772.0,2023.0,15026.568243683,Lower middle income,0.6633333333333333,Q2,31590307.0,"Egypt, Arab Republic of",1.0,5.0,5.0,2.0,3.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.0
+
+    System average interruption frequency index (SAIFI)                                                                                            3.0
+
+    ",https://documents1.worldbank.org/curated/en/787001574863077925/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Egypt-Arab-Republic-of.txt,True,True
+FRA,WBDB_FRA,France,2019,1.206896551724138,0.35,0.29,France,Europe,Western Europe,Temperate,0.8215171197750385,national_land_area_on_0.1_degree_grid,0.1372331983983262,0.0,0.8215171197750385,0.0380936545149581,0.0031560273116772,54296.7230897731,High income,68372286.0,2023.0,53448.5548849943,High income,1.206896551724138,Q4,31590280.0,France,1.0,3.0,3.0,0.4,0.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.4
+
+    System average interruption frequency index (SAIFI)                                                                                            0.3
+
+    ",https://documents1.worldbank.org/curated/en/428441574859959223/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-France.txt,True,True
+GAB,WBDB_GAB,Gabon,2019,0.913846153846154,47.52,52.0,Gabon,Africa,Middle Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,18701.4227766323,Upper middle income,2484789.0,2023.0,19491.4067631396,Upper middle income,0.913846153846154,Q3,31590309.0,Gabon,1.0,5.0,5.0,47.5,52.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             47.5
+
+    System average interruption frequency index (SAIFI)                                                                                            52.0
+
+    ",https://documents1.worldbank.org/curated/en/134861574860295761/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Gabon.txt,True,True
+GBR,WBDB_GBR,United Kingdom,2019,2.0,0.28,0.14,United Kingdom,Europe,Northern Europe,Temperate,0.9997233365975804,national_land_area_on_0.1_degree_grid,0.0,0.0,0.9997233365975804,0.0,0.0002766634024195,53423.4226338292,High income,68526000.0,2023.0,53374.0927628482,High income,2.0,Q4,31605020.0,United Kingdom,1.0,3.0,3.0,0.3,0.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.3
+
+    System average interruption frequency index (SAIFI)                                                                                            0.1
+
+    ",https://documents1.worldbank.org/curated/en/232231575377031374/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-United-Kingdom.txt,True,True
+QAT,WBDB_QAT,Qatar,2019,1.7500000000000002,0.07,0.04,Qatar,Asia,Western Asia,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,116159.142564088,High income,2656032.0,2023.0,113160.973779334,High income,1.7500000000000002,Q4,31601314.0,Qatar,1.0,5.0,5.0,0.1,0.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.1
+
+    System average interruption frequency index (SAIFI)                                                                                            0.0
+
+    ",https://documents1.worldbank.org/curated/en/865721575290560084/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Qatar.txt,True,True
+FJI,WBDB_FJI,Fiji,2019,1.0548523206751057,5.0,4.74,Fiji,Oceania,Melanesia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,13194.8047570404,Upper middle income,924145.0,2023.0,13056.3310937089,Upper middle income,1.0548523206751057,Q2,31590151.0,Fiji,1.0,5.0,5.0,5.0,4.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             5.0
+
+    System average interruption frequency index (SAIFI)                                                                                            4.7
+
+    ",https://documents1.worldbank.org/curated/en/849261574859407168/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Fiji.txt,True,True
+PRY,WBDB_PRY,Paraguay,2019,0.9605263157894736,21.9,22.8,Paraguay,South America,South America,Tropical,0.4463870049390726,national_land_area_on_0.1_degree_grid,0.4463870049390726,0.2226848110843884,0.3309281839765388,0.0,0.0,15831.5849831308,Upper middle income,6844146.0,2023.0,15319.3889991221,Upper middle income,0.9605263157894736,Q2,31600255.0,Paraguay,1.0,3.0,3.0,21.9,22.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             21.9
+
+    System average interruption frequency index (SAIFI)                                                                                            22.8
+
+    ",https://documents1.worldbank.org/curated/en/925211575272543850/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Paraguay.txt,True,True
+FIN,WBDB_FIN,Finland,2019,1.25,0.2,0.16,Finland,Europe,Northern Europe,Cold,0.9993366964012556,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0,0.9993366964012556,0.0006633035987444,56051.7701129501,High income,5583911.0,2023.0,56922.4873163103,High income,1.25,Q4,31590281.0,Finland,1.0,0.0,0.0,0.2,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.2
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/116261574859673960/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Finland.txt,True,True
+ROU,WBDB_ROU,Romania,2019,0.9194029850746268,3.08,3.35,Romania,Europe,Eastern Europe,Cold,0.8299701315450263,national_land_area_on_0.1_degree_grid,0.0,0.0107635199640388,0.1592663484909349,0.8299701315450263,0.0,40116.6891416904,High income,19061062.0,2023.0,36399.4746080793,Upper middle income,0.9194029850746268,Q3,31601317.0,Romania,1.0,3.0,3.0,3.1,3.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             3.1
+
+    System average interruption frequency index (SAIFI)                                                                                            3.4
+
+    ",https://documents1.worldbank.org/curated/en/639751575291022268/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Romania.txt,True,True
+HRV,WBDB_HRV,Croatia,2019,2.0886075949367084,3.3,1.58,Croatia,Europe,Southern Europe,Temperate,0.917595581585678,national_land_area_on_0.1_degree_grid,0.0,0.0,0.917595581585678,0.0824044184143219,0.0,41320.257995772,High income,3859686.0,2023.0,35122.7966231008,High income,2.0886075949367084,Q3,31588875.0,Croatia,1.0,3.0,3.0,3.3,1.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             3.3
+
+    System average interruption frequency index (SAIFI)                                                                                            1.6
+
+    ",https://documents1.worldbank.org/curated/en/313981574837287670/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Croatia.txt,True,True
+GEO,WBDB_GEO,Georgia,2019,1.2710027100271004,4.69,3.69,Georgia,Asia,Western Asia,Cold,0.6073808674668815,national_land_area_on_0.1_degree_grid,0.0,0.0,0.3676239315051816,0.6073808674668815,0.024995201027937,22590.5293649146,Upper middle income,3715483.0,2023.0,18186.8816465807,Upper middle income,1.2710027100271004,Q2,31590496.0,Georgia,1.0,3.0,3.0,4.7,3.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             4.7
+
+    System average interruption frequency index (SAIFI)                                                                                            3.7
+
+    ",https://documents1.worldbank.org/curated/en/920771574863345904/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Georgia.txt,True,True
+EST,WBDB_EST,Estonia,2019,1.6666666666666667,0.3,0.18,Estonia,Europe,Northern Europe,Cold,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0,1.0,0.0,41284.7746875532,High income,1370286.0,2023.0,42215.0343835811,High income,1.6666666666666667,Q4,31590141.0,Estonia,1.0,3.0,3.0,0.3,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.3
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/885041574857402812/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Estonia.txt,True,True
+RUS,WBDB_RUS,Russian Federation,2019,3.4339622641509435,0.182,0.053,Russia,Europe,Eastern Europe,Cold,0.9155561804330408,national_land_area_on_0.1_degree_grid,0.0,0.0115030479620445,0.0036797438512637,0.9155561804330408,0.0692610277536508,39881.44921875,Upper middle income,143826130.0,2023.0,37319.3203125,Upper middle income,3.4339622641509435,Q3,,,,,,,,,,,False,False
+GHA,WBDB_GHA,Ghana,2019,1.541896361631753,55.94,36.28,Ghana,Africa,Western Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,6808.53775003964,Lower middle income,33787914.0,2023.0,6508.24652305901,Lower middle income,1.541896361631753,Q1,31593895.0,Ghana,1.0,5.0,5.0,55.9,36.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             55.9
+
+    System average interruption frequency index (SAIFI)                                                                                            36.3
+
+    ",https://documents1.worldbank.org/curated/en/595681574942119851/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Ghana.txt,True,True
+RWA,WBDB_RWA,Rwanda,2019,0.2692307692307692,2.8,10.4,Rwanda,Africa,Eastern Africa,Tropical,0.7044384721615163,national_land_area_on_0.1_degree_grid,0.7044384721615163,0.0,0.2955615278384836,0.0,0.0,3168.03075281515,Low income,13954471.0,2023.0,2753.53959810856,Low income,0.2692307692307692,Q1,31601460.0,Rwanda,1.0,5.0,5.0,2.8,10.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             2.8
+
+    System average interruption frequency index (SAIFI)                                                                                            10.4
+
+    ",https://documents1.worldbank.org/curated/en/387471575291980888/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Rwanda.txt,True,True
+ESP,WBDB_ESP,Spain,2019,0.7183098591549296,0.51,0.71,Spain,Europe,Southern Europe,Temperate,0.7796439662659613,national_land_area_on_0.1_degree_grid,0.0,0.2071227552465305,0.7796439662659613,0.0130537625884863,0.0001795158990217,47322.5937004504,High income,48352528.0,2023.0,46896.4171141424,High income,0.7183098591549296,Q4,31604983.0,Spain,1.0,3.0,3.0,0.5,0.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.7
+
+    ",https://documents1.worldbank.org/curated/en/808301575375276143/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Spain.txt,True,True
+PRI,WBDB_PRI,Puerto Rico,2019,2.971014492753623,14.35,4.83,Puerto Rico,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,42837.872737145,High income,3203794.0,2023.0,41656.3291581369,High income,2.971014492753623,Q3,31601226.0,Puerto Rico,1.0,5.0,5.0,14.4,4.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             14.4
+
+    System average interruption frequency index (SAIFI)                                                                                            4.8
+
+    ",https://documents1.worldbank.org/curated/en/994991575289758711/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Puerto-Rico.txt,True,True
+GRC,WBDB_GRC,Greece,2019,1.090277777777778,1.57,1.44,Greece,Europe,Southern Europe,Temperate,0.9239697373087604,national_land_area_on_0.1_degree_grid,0.0,0.0108356296598756,0.9239697373087604,0.0651946330313638,0.0,36700.5134631055,High income,10407351.0,2023.0,33502.7506488997,High income,1.090277777777778,Q3,31594088.0,Greece,1.0,3.0,3.0,1.6,1.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.6
+
+    System average interruption frequency index (SAIFI)                                                                                            1.4
+
+    ",https://documents1.worldbank.org/curated/en/478031574942556775/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Greece.txt,True,True
+SAU,WBDB_SAU,Saudi Arabia,2019,1.2692307692307692,1.98,1.56,Saudi Arabia,Asia,Western Asia,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,64481.8441927288,High income,33702731.0,2023.0,62647.7299487842,High income,1.2692307692307692,Q4,31600254.0,Saudi Arabia,1.0,5.0,5.0,2.0,1.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.0
+
+    System average interruption frequency index (SAIFI)                                                                                            1.6
+
+    ",https://documents1.worldbank.org/curated/en/987331575272859008/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Saudi-Arabia.txt,True,True
+PRT,WBDB_PRT,Portugal,2019,0.8852459016393444,0.54,0.61,Portugal,Europe,Southern Europe,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,41768.2583096874,High income,10578174.0,2023.0,40188.2868799223,High income,0.8852459016393444,Q3,31601289.0,Portugal,1.0,3.0,3.0,0.5,0.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.6
+
+    ",https://documents1.worldbank.org/curated/en/746941575289460773/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Portugal.txt,True,True
+SMR,WBDB_SMR,San Marino,2019,0.1284796573875803,0.6,4.67,San Marino,Europe,Southern Europe,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,70951.7919690715,High income,33860.0,2023.0,60171.0506033928,High income,0.1284796573875803,Q4,31601466.0,San Marino,1.0,1.0,1.0,0.6,4.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             0.6
+
+    System average interruption frequency index (SAIFI)                                                                                            4.7
+
+    ",https://documents1.worldbank.org/curated/en/343661575292548897/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-San-Marino.txt,True,True
+CZE,WBDB_CZE,Czech Republic,2019,1.3714285714285714,0.48,0.35,Czechia,Europe,Eastern Europe,Cold,0.9536397465404698,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0463602534595302,0.9536397465404698,0.0,47558.4106763314,High income,10864042.0,2023.0,47763.6165520254,High income,1.3714285714285714,Q4,31589041.0,Czech Republic,1.0,3.0,3.0,0.5,0.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.4
+
+    ",https://documents1.worldbank.org/curated/en/767701574841645714/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Czech-Republic.txt,True,True
+PER,WBDB_PER,Peru,2019,3.6936416184971095,6.39,1.73,Peru,South America,South America,Tropical,0.5442980639345121,national_land_area_on_0.1_degree_grid,0.5442980639345121,0.1500963167782169,0.1141394872687171,0.0,0.1914661320185537,15342.2741359642,Upper middle income,33845617.0,2023.0,15461.4572585466,Upper middle income,3.6936416184971095,Q2,31601222.0,Peru,1.0,3.0,3.0,6.4,1.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             6.4
+
+    System average interruption frequency index (SAIFI)                                                                                            1.7
+
+    ",https://documents1.worldbank.org/curated/en/594461575288747690/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Peru.txt,True,True
+SYC,WBDB_SYC,Seychelles,2019,5.333333333333334,0.8,0.15,Seychelles,Africa,Eastern Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,28713.6672353088,High income,119773.0,2023.0,34346.0708923483,High income,5.333333333333334,Q3,31601210.0,Seychelles,1.0,1.0,1.0,0.8,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.8
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/390961575288160636/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Seychelles.txt,True,True
+TGO,WBDB_TGO,Togo,2019,2.25,81.0,36.0,Togo,Africa,Western Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,3215.82300022488,Low income,8223850.0,2023.0,2862.62661160331,Low income,2.25,Q1,31603698.0,Togo,1.0,5.0,5.0,81.0,36.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             81.0
+
+    System average interruption frequency index (SAIFI)                                                                                            36.0
+
+    ",https://documents1.worldbank.org/curated/en/261091575352336145/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Togo.txt,True,True
+ISL,WBDB_ISL,Iceland,2019,1.5365853658536586,0.63,0.41,Iceland,Europe,Northern Europe,Polar,0.7609099418228239,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0692825477800585,0.1698075103971175,0.7609099418228239,69268.1221404224,High income,385663.0,2023.0,65994.9860038103,High income,1.5365853658536586,Q4,31595349.0,Iceland,1.0,0.0,0.0,0.6,0.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.6
+
+    System average interruption frequency index (SAIFI)                                                                                            0.4
+
+    ",https://documents1.worldbank.org/curated/en/517251574949623817/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Iceland.txt,True,True
+CHE,WBDB_CHE,Switzerland,2019,1.1111111111111112,0.2,0.18,Switzerland,Europe,Western Europe,Cold,0.4037334529238618,national_land_area_on_0.1_degree_grid,0.0,0.0,0.394695662726555,0.4037334529238618,0.201570884349583,85383.3564504008,High income,8888822.0,2023.0,81694.630652314,High income,1.1111111111111112,Q4,31603669.0,Switzerland,1.0,3.0,3.0,0.2,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.2
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/641581575348688961/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Switzerland.txt,True,True
+NLD,WBDB_NLD,Netherlands,2019,1.4444444444444444,0.78,0.54,Netherlands,Europe,Western Europe,Temperate,0.9902725257653696,national_land_area_on_0.1_degree_grid,0.0,0.0097274742346302,0.9902725257653696,0.0,0.0,70198.9546022361,High income,17877117.0,2023.0,67847.8818461095,High income,1.4444444444444444,Q4,31597399.0,Netherlands,1.0,0.1,0.1,0.8,0.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.1,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.8
+
+    System average interruption frequency index (SAIFI)                                                                                            0.5
+
+    ",https://documents1.worldbank.org/curated/en/544991575026383522/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Netherlands.txt,True,True
+THA,WBDB_THA,Thailand,2019,0.5277777777777778,0.38,0.72,Thailand,Asia,South-Eastern Asia,Tropical,0.9796169001331886,national_land_area_on_0.1_degree_grid,0.9796169001331886,0.0,0.0203830998668113,0.0,0.0,21245.2706771879,Upper middle income,71702435.0,2023.0,21280.1504518601,Upper middle income,0.5277777777777778,Q3,31603695.0,Thailand,1.0,1.0,1.0,0.4,0.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.4
+
+    System average interruption frequency index (SAIFI)                                                                                            0.7
+
+    ",https://documents1.worldbank.org/curated/en/570131575351213004/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Thailand.txt,True,True
+PSE,WBDB_PSE,West Bank and Gaza,2019,0.5464135021097046,5.18,9.48,Palestine,Asia,Western Asia,Temperate,0.6291107148644464,national_land_area_on_0.1_degree_grid,0.0,0.3708892851355536,0.6291107148644464,0.0,0.0,5562.42442563953,Upper middle income,5165775.0,2023.0,6269.89134527985,Lower middle income,0.5464135021097046,Q1,31605270.0,West Bank and Gaza,1.0,1.0,1.0,5.2,9.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             5.2
+
+    System average interruption frequency index (SAIFI)                                                                                            9.5
+
+    ",https://documents1.worldbank.org/curated/en/888911575380127317/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-West-Bank-and-Gaza.txt,True,True
+TJK,WBDB_TJK,Tajikistan,2019,0.7233333333333333,2.17,3.0,Tajikistan,Asia,Central Asia,Polar,0.4790613713346848,national_land_area_on_0.1_degree_grid,0.0,0.1610912487610447,0.1001650011631566,0.2596823787411138,0.4790613713346848,4472.3241378777,Lower middle income,10389799.0,2023.0,3649.88375518646,Low income,0.7233333333333333,Q1,31603690.0,Tajikistan,1.0,2.0,2.0,2.2,3.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     2.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.2
+
+    System average interruption frequency index (SAIFI)                                                                                            3.0
+
+    ",https://documents1.worldbank.org/curated/en/703921575350150410/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Tajikistan.txt,True,True
+NOR,WBDB_NOR,Norway,2019,1.1538461538461535,1.5,1.3,Norway,Europe,Northern Europe,Cold,0.7137803739119162,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0446643335501815,0.7137803739119162,0.2415552925379023,94364.9641754336,High income,5519601.0,2023.0,90772.9017041865,High income,1.1538461538461535,Q4,31597767.0,Norway,1.0,3.0,3.0,1.5,1.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.5
+
+    System average interruption frequency index (SAIFI)                                                                                            1.3
+
+    ",https://documents1.worldbank.org/curated/en/827491575033629354/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Norway.txt,True,True
+CAN,WBDB_CAN,Canada,2019,0.6621621621621622,0.98,1.48,Canada,North America,Northern America,Cold,0.7960402380890693,national_land_area_on_0.1_degree_grid,0.0,0.0091175360454675,0.0073155235183365,0.7960402380890693,0.1875267023471266,58088.3778077995,High income,40049088.0,2023.0,57583.8230739204,High income,0.6621621621621622,Q4,31586396.0,Canada,1.0,1.0,1.0,1.0,1.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.0
+
+    System average interruption frequency index (SAIFI)                                                                                            1.5
+
+    ",https://documents1.worldbank.org/curated/en/493311574773433959/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Canada.txt,True,True
+BTN,WBDB_BTN,Bhutan,2019,2.4583333333333335,7.08,2.88,Bhutan,Asia,Southern Asia,Temperate,0.614771939927556,national_land_area_on_0.1_degree_grid,0.0,0.0,0.614771939927556,0.1241714420342176,0.2610566180382265,14610.2959097837,Lower middle income,786385.0,2023.0,14555.1884045845,Lower middle income,2.4583333333333335,Q2,31585017.0,Bhutan,1.0,5.0,5.0,7.1,2.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             7.1
+
+    System average interruption frequency index (SAIFI)                                                                                            2.9
+
+    ",https://documents1.worldbank.org/curated/en/934921574752461476/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Bhutan.txt,True,True
+TON,WBDB_TON,Tonga,2019,1.3380434782608697,12.31,9.2,Tonga,Oceania,Polynesia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,7031.32021704688,Upper middle income,104597.0,2023.0,6859.71739851786,Upper middle income,1.3380434782608697,Q1,31603784.0,Tonga,1.0,5.0,5.0,12.3,9.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                     Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      3
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             12.3
+
+    System average interruption frequency index (SAIFI)                                                                                            9.2
+
+    ",https://documents1.worldbank.org/curated/en/349161575353052683/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Tonga.txt,True,True
+ITA,WBDB_ITA,Italy,2019,0.5855855855855856,1.3,2.22,Italy,Europe,Southern Europe,Temperate,0.857067395169367,national_land_area_on_0.1_degree_grid,0.0,0.0073856818681128,0.857067395169367,0.1161864060637385,0.0193605168987815,52842.6288831758,High income,58984216.0,2023.0,49690.6298505274,High income,0.5855855855855856,Q4,31596369.0,Italy,1.0,3.0,3.0,1.3,2.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.3
+
+    System average interruption frequency index (SAIFI)                                                                                            2.2
+
+    ",https://documents1.worldbank.org/curated/en/636031575000527315/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Italy.txt,True,True
+BRN,WBDB_BRN,Brunei Darussalam,2019,1.121212121212121,0.37,0.33,Brunei,Asia,South-Eastern Asia,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,76616.7014884981,High income,458949.0,2023.0,80228.1598170527,High income,1.121212121212121,Q4,31585267.0,Brunei Darussalam,1.0,1.0,1.0,0.4,0.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.4
+
+    System average interruption frequency index (SAIFI)                                                                                            0.3
+
+    ",https://documents1.worldbank.org/curated/en/331951574758454506/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Brunei-Darussalam.txt,True,True
+JAM,WBDB_JAM,Jamaica,2019,2.5331465919701213,27.13,10.71,Jamaica,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,11398.8120394641,Upper middle income,2839786.0,2023.0,10816.3720391154,Upper middle income,2.5331465919701213,Q2,31596376.0,Jamaica,1.0,5.0,5.0,27.1,10.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             27.1
+
+    System average interruption frequency index (SAIFI)                                                                                            10.7
+
+    ",https://documents1.worldbank.org/curated/en/710681575001350769/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Jamaica.txt,True,True
+NER,WBDB_NER,Niger,2019,0.5729166666666666,165.0,288.0,Niger,Africa,Western Africa,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,1712.97031726521,Low income,26159867.0,2023.0,1605.19476569029,Low income,0.5729166666666666,Q1,31597605.0,Niger,1.0,1.0,1.0,165.0,288.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                  Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      0
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             165.0
+
+    System average interruption frequency index (SAIFI)                                                                                            288.0
+
+    ",https://documents1.worldbank.org/curated/en/574501575030134260/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Niger.txt,True,True
+TTO,WBDB_TTO,Trinidad and Tobago,2019,1.6424870466321244,6.34,3.86,Trinidad and Tobago,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,31196.603554718,High income,1367510.0,2023.0,33748.7060849924,High income,1.6424870466321244,Q3,31604810.0,Trinidad and Tobago,1.0,2.0,2.0,6.3,3.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     2.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             6.3
+
+    System average interruption frequency index (SAIFI)                                                                                            3.9
+
+    ",https://documents1.worldbank.org/curated/en/218451575372481294/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Trinidad-and-Tobago.txt,True,True
+BRB,WBDB_BRB,Barbados,2019,0.5257903494176374,3.16,6.01,Barbados,North America,Caribbean,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,20865.0155437147,High income,282336.0,2023.0,19890.455714094,High income,0.5257903494176374,Q3,31584649.0,Barbados,1.0,5.0,5.0,3.2,6.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             3.2
+
+    System average interruption frequency index (SAIFI)                                                                                            6.0
+
+    ",https://documents1.worldbank.org/curated/en/530861574747817549/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Barbados.txt,True,True
+NIC,WBDB_NIC,Nicaragua,2019,2.048140043763676,93.6,45.7,Nicaragua,North America,Central America,Tropical,0.9981451719937404,national_land_area_on_0.1_degree_grid,0.9981451719937404,0.0,0.0018548280062596,0.0,0.0,7496.53056557505,Lower middle income,6823613.0,2023.0,6756.59334024487,Lower middle income,2.048140043763676,Q1,31597404.0,Nicaragua,1.0,3.0,3.0,93.6,45.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             93.6
+
+    System average interruption frequency index (SAIFI)                                                                                            45.7
+
+    ",https://documents1.worldbank.org/curated/en/294351575027218964/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Nicaragua.txt,True,True
+NAM,WBDB_NAM,Namibia,2019,2.7222222222222223,0.49,0.18,Namibia,Africa,Southern Africa,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,10126.2359555611,Upper middle income,2963095.0,2023.0,10813.3044681944,Upper middle income,2.7222222222222223,Q2,31597090.0,Namibia,1.0,5.0,5.0,0.5,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/180011575020804652/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Namibia.txt,True,True
+CHL,WBDB_CHL,Chile,2019,1.9727891156462585,2.9,1.47,Chile,South America,South America,Arid,0.3850516969308617,national_land_area_on_0.1_degree_grid,0.0001493299106085,0.3850516969308617,0.3465339891561881,0.0188187956777442,0.2494461883245974,29600.4188613168,High income,19658835.0,2023.0,28227.9790507594,High income,1.9727891156462585,Q3,31586398.0,Chile,1.0,3.0,3.0,2.9,1.5,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.9
+
+    System average interruption frequency index (SAIFI)                                                                                            1.5
+
+    ",https://documents1.worldbank.org/curated/en/205991574774394642/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Chile.txt,True,True
+SWZ,WBDB_SWZ,Eswatini,2019,1.708952644313861,49.44,28.93,eSwatini,Africa,Southern Africa,Temperate,0.594981830539726,national_land_area_on_0.1_degree_grid,0.0,0.4050181694602738,0.594981830539726,0.0,0.0,10181.5040730397,Lower middle income,1230506.0,2023.0,10099.5863118406,Lower middle income,1.708952644313861,Q2,31590148.0,Eswatini,1.0,5.0,5.0,49.4,28.9,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      4
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             49.4
+
+    System average interruption frequency index (SAIFI)                                                                                            28.9
+
+    ",https://documents1.worldbank.org/curated/en/505541574857991512/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Eswatini.txt,True,True
+CYP,WBDB_CYP,Cyprus,2019,2.5,0.55,0.22,Cyprus,Asia,Western Asia,Temperate,0.9057324048794252,national_land_area_on_0.1_degree_grid,0.0,0.0942675951205747,0.9057324048794252,0.0,0.0,51674.90234375,High income,1344976.0,2023.0,45454.17578125,High income,2.5,Q4,31588877.0,Cyprus,1.0,5.0,5.0,0.6,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.6
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/286421574837814440/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Cyprus.txt,True,True
+SRB,WBDB_SRB,Serbia,2019,1.2379421221864952,3.85,3.11,Republic of Serbia,Europe,Southern Europe,Temperate,0.6605814549393989,national_land_area_on_0.1_degree_grid,0.0,0.0,0.6605814549393989,0.3394185450606011,0.0,25735.1334774195,Upper middle income,6623183.0,2023.0,21541.1264037184,Upper middle income,1.2379421221864952,Q3,31600589.0,Serbia,1.0,3.0,3.0,3.9,3.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             3.9
+
+    System average interruption frequency index (SAIFI)                                                                                            3.1
+
+    ",https://documents1.worldbank.org/curated/en/698051575279449682/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Serbia.txt,True,True
+HUN,WBDB_HUN,Hungary,2019,2.0813008130081303,2.56,1.23,Hungary,Europe,Eastern Europe,Cold,0.5148230967965938,national_land_area_on_0.1_degree_grid,0.0,0.0,0.4851769032034062,0.5148230967965938,0.0,40333.2546888118,High income,9592186.0,2023.0,37662.67681014,High income,2.0813008130081303,Q3,31594730.0,Hungary,1.0,3.0,3.0,2.6,1.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             2.6
+
+    System average interruption frequency index (SAIFI)                                                                                            1.2
+
+    ",https://documents1.worldbank.org/curated/en/305301574949238606/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Hungary.txt,True,True
+CRI,WBDB_CRI,Costa Rica,2019,2.5714285714285716,0.54,0.21,Costa Rica,North America,Central America,Tropical,0.8869347248533603,national_land_area_on_0.1_degree_grid,0.8869347248533603,0.0,0.1130652751466396,0.0,0.0,26378.5409941926,Upper middle income,5105525.0,2023.0,23496.8294622995,Upper middle income,2.5714285714285716,Q3,31586650.0,Costa Rica,1.0,5.0,5.0,0.5,0.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.5
+
+    System average interruption frequency index (SAIFI)                                                                                            0.2
+
+    ",https://documents1.worldbank.org/curated/en/333201574776852632/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Costa-Rica.txt,True,True
+PAN,WBDB_PAN,Panama,2019,1.5067437379576107,7.82,5.19,Panama,North America,Central America,Tropical,0.97071109213989,national_land_area_on_0.1_degree_grid,0.97071109213989,0.0,0.0292889078601099,0.0,0.0,35872.9719200069,High income,4458759.0,2023.0,33163.7172814857,High income,1.5067437379576107,Q3,31600115.0,Panama,1.0,3.0,3.0,7.8,5.2,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             7.8
+
+    System average interruption frequency index (SAIFI)                                                                                            5.2
+
+    ",https://documents1.worldbank.org/curated/en/225191575269872521/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Panama.txt,True,True
+IDN,WBDB_IDN,Indonesia,2019,1.29442556708605,2.819,2.1778,Indonesia,Asia,South-Eastern Asia,Tropical,0.9624825619735206,national_land_area_on_0.1_degree_grid,0.9624825619735206,0.0,0.0351689712968198,0.0,0.0023484667296595,13889.9495012858,Upper middle income,281190067.0,2023.0,12757.7850854842,Lower middle income,1.29442556708605,Q2,,,,,,,,,,,False,False
+SVK,WBDB_SVK,Slovak Republic,2019,1.2941176470588234,0.88,0.68,Slovakia,Europe,Eastern Europe,Cold,0.9202404598224524,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0797595401775478,0.9202404598224524,0.0,39501.9474231962,High income,5426740.0,2023.0,37194.2104548698,High income,1.2941176470588234,Q3,31601073.0,Slovak Republic,1.0,3.0,3.0,0.9,0.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.9
+
+    System average interruption frequency index (SAIFI)                                                                                            0.7
+
+    ",https://documents1.worldbank.org/curated/en/498491575287773364/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Slovak-Republic.txt,True,True
+CPV,WBDB_CPV,Cabo Verde,2019,1.3969465648854962,18.3,13.1,Cabo Verde,Africa,Western Africa,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,9228.4604533114,Lower middle income,522331.0,2023.0,9111.62993173269,Lower middle income,1.3969465648854962,Q1,31586161.0,Cabo Verde,1.0,0.0,0.0,18.3,13.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     0.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      1
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             18.3
+
+    System average interruption frequency index (SAIFI)                                                                                            13.1
+
+    ",https://documents1.worldbank.org/curated/en/533761574771697230/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Cabo-Verde.txt,True,True
+IRN,WBDB_IRN,"Iran, Islamic Rep.",2019,1.3207547169811322,7.0,5.3,Iran,Asia,Southern Asia,Arid,0.809644105125651,national_land_area_on_0.1_degree_grid,0.0,0.809644105125651,0.0631145098490897,0.1271815481519066,5.983687335276057e-05,17044.8173442641,Lower middle income,90608707.0,2023.0,14841.0751514998,Upper middle income,1.3207547169811322,Q2,31596373.0,Iran,1.0,5.0,5.0,7.0,5.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             7.0
+
+    System average interruption frequency index (SAIFI)                                                                                            5.3
+
+    ",https://documents1.worldbank.org/curated/en/834161575001088809/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Iran.txt,True,True
+IND,WBDB_IND,India,2019,1.5638230714195531,3.7158,2.3761,India,Asia,Southern Asia,Tropical,0.3773999464713982,national_land_area_on_0.1_degree_grid,0.3773999464713982,0.2593894873807718,0.3137662422538772,0.0144480339134778,0.034996289980475,8870.55027609345,Lower middle income,1438069596.0,2023.0,7702.17634811957,Lower middle income,1.5638230714195531,Q1,,,,,,,,,,,False,False
+PAK,WBDB_PAK,Pakistan,2019,1.0973721760537936,89.5955,81.6455,Pakistan,Asia,Southern Asia,Arid,0.8080632644616207,national_land_area_on_0.1_degree_grid,0.0,0.8080632644616207,0.0748797200936398,0.0434502581768119,0.0736067572679274,5418.7693189297,Lower middle income,247504495.0,2023.0,5295.95295138203,Lower middle income,1.0973721760537936,Q1,,,,,,,,,,,False,False
+SVN,WBDB_SVN,Slovenia,2019,0.4814814814814814,0.13,0.27,Slovenia,Europe,Southern Europe,Temperate,0.5330556948997935,national_land_area_on_0.1_degree_grid,0.0,0.0,0.5330556948997935,0.4669443051002064,0.0,47986.4195855821,High income,2120461.0,2023.0,44577.9418583069,High income,0.4814814814814814,Q4,31604381.0,Slovenia,1.0,3.0,3.0,0.1,0.3,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.1
+
+    System average interruption frequency index (SAIFI)                                                                                            0.3
+
+    ",https://documents1.worldbank.org/curated/en/452741575366882716/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Slovenia.txt,True,True
+OMN,WBDB_OMN,Oman,2019,1.5663716814159294,1.77,1.13,Oman,Asia,Western Asia,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,37793.6163957515,High income,5049269.0,2023.0,38292.3859682752,High income,1.5663716814159294,Q3,31597756.0,Oman,1.0,5.0,5.0,1.8,1.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             1.8
+
+    System average interruption frequency index (SAIFI)                                                                                            1.1
+
+    ",https://documents1.worldbank.org/curated/en/950201575034010816/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Oman.txt,True,True
+CIV,WBDB_CIV,Côte d'Ivoire,2019,0.8011111111111111,14.42,18.0,Ivory Coast,Africa,Western Africa,Tropical,1.0,national_land_area_on_0.1_degree_grid,1.0,0.0,0.0,0.0,0.0,6520.89886459765,Lower middle income,31165654.0,2023.0,5894.92235259103,Lower middle income,0.8011111111111111,Q1,31588872.0,Cote d'Ivoire,1.0,5.0,5.0,14.4,18.0,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                    Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      5
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 0
+
+    System average interruption duration index (SAIDI)                                                                                             14.4
+
+    System average interruption frequency index (SAIFI)                                                                                            18.0
+
+    ",https://documents1.worldbank.org/curated/en/627231574836670743/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Cote-dIvoire.txt,True,True
+IRL,WBDB_IRL,Ireland,2019,1.4035087719298247,0.8,0.57,Ireland,Europe,Northern Europe,Temperate,1.0,national_land_area_on_0.1_degree_grid,0.0,0.0,1.0,0.0,0.0,117659.728593716,High income,5311538.0,2023.0,96205.7961557005,High income,1.4035087719298247,Q4,31596314.0,Ireland,1.0,3.0,3.0,0.8,0.6,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.8
+
+    System average interruption frequency index (SAIFI)                                                                                            0.6
+
+    ",https://documents1.worldbank.org/curated/en/532041574998748714/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Ireland.txt,True,True
+SWE,WBDB_SWE,Sweden,2019,0.9242424242424242,0.61,0.66,Sweden,Europe,Northern Europe,Cold,0.946172087060383,national_land_area_on_0.1_degree_grid,0.0,0.0,0.0376788908214187,0.946172087060383,0.0161490221181982,62122.5116950792,High income,10536632.0,2023.0,61070.5243445838,High income,0.9242424242424242,Q4,31603646.0,Sweden,1.0,3.0,3.0,0.6,0.7,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      8
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.6
+
+    System average interruption frequency index (SAIFI)                                                                                            0.7
+
+    ",https://documents1.worldbank.org/curated/en/414401575347593344/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Sweden.txt,True,True
+NZL,WBDB_NZL,New Zealand,2019,1.761682242990654,3.77,2.14,New Zealand,Oceania,Australia and New Zealand,Temperate,0.8958856487076333,national_land_area_on_0.1_degree_grid,0.0,0.0,0.8958856487076333,0.0042491770031602,0.0998651742892064,49592.5875512098,High income,5200000.0,2023.0,47392.1933135172,High income,1.761682242990654,Q4,31597401.0,New Zealand,1.0,1.0,1.0,3.8,2.1,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     1.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      7
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 2
+
+    System average interruption duration index (SAIDI)                                                                                             3.8
+
+    System average interruption frequency index (SAIFI)                                                                                            2.1
+
+    ",https://documents1.worldbank.org/curated/en/234071575026739837/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-New-Zealand.txt,True,True
+CHN,WBDB_CHN,China,2019,4.76595744680851,0.896,0.188,China,Asia,Eastern Asia,Arid,0.2959646766842471,national_land_area_on_0.1_degree_grid,0.0030376829756661,0.2959646766842471,0.2668849149537022,0.2466990064174508,0.1874137189689338,22687.2519534328,Upper middle income,1410710000.0,2023.0,18820.5871645645,Upper middle income,4.76595744680851,Q2,,,,,,,,,,,False,False
+COL,WBDB_COL,Colombia,2019,1.1842105263157896,4.5,3.8,Colombia,South America,South America,Tropical,0.8736328409545617,national_land_area_on_0.1_degree_grid,0.8736328409545617,0.0082708719610291,0.1043963704675493,0.0,0.0136999166168598,18406.6242338491,Upper middle income,52321152.0,2023.0,17336.7716030551,Upper middle income,1.1842105263157896,Q2,31586404.0,Colombia,1.0,3.0,3.0,4.5,3.8,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     3.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 1
+
+    System average interruption duration index (SAIDI)                                                                                             4.5
+
+    System average interruption frequency index (SAIFI)                                                                                            3.8
+
+    ",https://documents1.worldbank.org/curated/en/354271574774909465/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Colombia.txt,True,True
+KWT,WBDB_KWT,Kuwait,2019,0.2380952380952381,0.1,0.42,Kuwait,Asia,Western Asia,Arid,1.0,national_land_area_on_0.1_degree_grid,0.0,1.0,0.0,0.0,0.0,47790.1933239144,High income,4853420.0,2023.0,51380.6455354631,High income,0.2380952380952381,Q4,31596582.0,Kuwait,1.0,5.0,5.0,0.1,0.4,What is the minimum outage time (in minutes) that the utility considers for the calculation of SAIDI/SAIFI                                     5.0,"                      Answer
+
+
+ Reliability of supply and transparency of tariff index (0-8)                                                                                      6
+
+ Total duration and frequency of outages per customer a year (0-3)                                                                                 3
+
+    System average interruption duration index (SAIDI)                                                                                             0.1
+
+    System average interruption frequency index (SAIFI)                                                                                            0.4
+
+    ",https://documents1.worldbank.org/curated/en/112891575004370602/text/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Kuwait.txt,True,True

@@ -1,0 +1,6 @@
+cause_group,count,hours,occurrence_share_pct,burden_share_pct,profile_id,country_iso3,period,occurrence_unit,burden_unit,source_address,share_gap_pp,station_frequency_index,ens_mwh
+Other / unresolved,5827.0,16061.563,88.67752244711612,88.60602143450222,ETH_BEDELE7,ETH,2006–2007 E.C.,feeder interruption count,feeder-hours,https://repository.ju.edu.et/bitstream/handle/123456789/1969/Msc.%20Thesis%20by%20Teshome%20Tolesa%282%29.pdf,-0.07150101261389352,,
+Planned,744.0,2065.38,11.322477552883884,11.393978565497779,ETH_BEDELE7,ETH,2006–2007 E.C.,feeder interruption count,feeder-hours,https://repository.ju.edu.et/bitstream/handle/123456789/1969/Msc.%20Thesis%20by%20Teshome%20Tolesa%282%29.pdf,0.0715010126138953,,
+Other / unresolved,,,15.885416666666664,24.874400449492832,GIN_EDG2016,GIN,2016,station-frequency index,ENS MWh,https://www.sieguinee-dne.org/images/RAPPORT_ANNUEL_EDG_2016_partie1.pdf,8.988983782826168,24.4,23121.442
+Planned,,,52.40885416666666,27.618592200827685,GIN_EDG2016,GIN,2016,station-frequency index,ENS MWh,https://www.sieguinee-dne.org/images/RAPPORT_ANNUEL_EDG_2016_partie1.pdf,-24.790261965838972,80.5,25672.244
+Supply constraint,,,31.70572916666666,47.507007349679476,GIN_EDG2016,GIN,2016,station-frequency index,ENS MWh,https://www.sieguinee-dne.org/images/RAPPORT_ANNUEL_EDG_2016_partie1.pdf,15.801278183012816,48.7,44159.075

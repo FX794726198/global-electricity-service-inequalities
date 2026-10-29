@@ -1,0 +1,5 @@
+Reporting population,Recorded weather cause,n,Duration ratio [95% interval]
+New Zealand,Weather,20,"7.25 [4.63, 11.34]"
+New Zealand,Lightning,20,"2.67 [1.88, 3.80]"
+New York,Weather,8,"9.10 [4.90, 16.87]"
+New York,Lightning,8,"2.32 [1.18, 4.55]"

@@ -1,0 +1,13 @@
+Population,Component,Estimate (h),95% interval (h),Counting unit
+Brazil,Within class,-0.509,-1.391 to 0.758,Record
+Brazil,Composition,0.592,-0.331 to 1.565,Record
+Brazil,Net,0.083,-1.327 to 1.547,Record
+United States,Within class,0.394,-0.943 to 1.573,Customer interruption
+United States,Composition,-0.298,-0.793 to 0.438,Customer interruption
+United States,Net,0.096,-1.247 to 1.336,Customer interruption
+New Zealand,Within class,0.069,-0.747 to 1.019,Customer interruption
+New Zealand,Composition,0.442,0.154 to 0.714,Customer interruption
+New Zealand,Net,0.511,-0.289 to 1.322,Customer interruption
+Türkiye,Within class,-0.019,Administrative total,Customer interruption
+Türkiye,Composition,0.054,Administrative total,Customer interruption
+Türkiye,Net,0.035,Administrative total,Customer interruption

@@ -1,0 +1,85 @@
+{
+  "source": "World Bank MTF, Cambodia 2017",
+  "cutpoints_monthly_income_per_person_riel": [
+    80000.0,
+    150000.0,
+    257142.85714285713,
+    475000.0
+  ],
+  "primary_contrast": "bottom/top household income-per-member quintile; all households define ranks",
+  "households_with_weights": 3301,
+  "income_eligible_n": 3260,
+  "paired_n": 2169,
+  "contrasts": {
+    "connection": {
+      "ratio": 0.5964605028410697,
+      "ratio_lo": 0.48156786969745663,
+      "ratio_hi": 0.7076762451129758,
+      "difference": -0.3420829070631485,
+      "difference_lo": -0.4409569857131844,
+      "difference_hi": -0.24113097598370323
+    },
+    "frequency_week": {
+      "ratio": 1.9591115702758617,
+      "ratio_lo": 1.2131531029711768,
+      "ratio_hi": 2.9495184209710135,
+      "difference": 1.5261319246466882,
+      "difference_lo": 0.3440508085924805,
+      "difference_hi": 2.9892176980652363
+    },
+    "hours_week": {
+      "ratio": 1.1313356334921554,
+      "ratio_lo": 0.6671614249851331,
+      "ratio_hi": 1.9080083681018127,
+      "difference": 0.08144053994719169,
+      "difference_lo": -0.2187358933527224,
+      "difference_hi": 0.520404368799902
+    },
+    "duration_hours": {
+      "ratio": 0.5774738155075326,
+      "ratio_lo": 0.33330727555449796,
+      "ratio_hi": 1.0075870714033508,
+      "difference": -0.1646602429558161,
+      "difference_lo": -0.31045050741782304,
+      "difference_hi": 0.0028997716383703078
+    },
+    "frequency_week_all_valid": {
+      "ratio": 1.9006161866402547,
+      "ratio_lo": 1.2118759346678025,
+      "ratio_hi": 2.781014067164593,
+      "difference": 1.4568191732160376,
+      "difference_lo": 0.33353570286348583,
+      "difference_hi": 2.844405777835218
+    },
+    "backup_available": {
+      "ratio": 0.7353555606119222,
+      "ratio_lo": 0.07111767316070253,
+      "ratio_hi": 2.356083642721643,
+      "difference": -0.02319500143305439,
+      "difference_lo": -0.10634136827778655,
+      "difference_hi": 0.08149970012088148
+    }
+  },
+  "settlement_standardization": {
+    "admitted": true,
+    "min_extreme_cell_n": 51,
+    "urban_weight": 0.20697632079980022,
+    "frequency_week": {
+      "ratio": 1.581320449196469,
+      "lo": 1.0181612410741439,
+      "hi": 2.336993344474999
+    },
+    "hours_week": {
+      "ratio": 1.0453764126777159,
+      "lo": 0.6627586647542786,
+      "hi": 1.6929771932564672
+    },
+    "duration_hours": {
+      "ratio": 0.661078159843511,
+      "lo": 0.3879514444169489,
+      "hi": 1.1199065594594073
+    }
+  },
+  "bootstrap_replicates": 2000,
+  "seed": 20261002
+}

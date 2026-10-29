@@ -1,0 +1,19 @@
+cause,comparison,metric,areas,beta,change_pct
+Flood,Original common geography; 24 months,Frequency,540,0.29340546496964703,34.09864032275428
+Flood,Original common geography; 24 months,Record-hours burden,540,0.3837070091211364,46.7715351468063
+Flood,Original common geography; 24 months,Conditional duration,540,0.09030154415148939,9.450427531219084
+Flood,Weather geography; 24 months,Frequency,383,0.7902450852909052,120.39365124909376
+Flood,Weather geography; 24 months,Record-hours burden,383,0.647909537650541,91.15406456051389
+Flood,Weather geography; 24 months,Conditional duration,383,-0.14233554764036416,-13.266982294119103
+Flood,Weather geography; observed weather months,Frequency,383,0.4817591989752519,61.89199007904208
+Flood,Weather geography; observed weather months,Record-hours burden,383,0.30555925094452835,35.73839090101961
+Flood,Weather geography; observed weather months,Conditional duration,383,-0.17619994803072353,-16.154967991469647
+Lightning,Original common geography; 24 months,Frequency,540,-0.3364911544027218,-28.572779828754914
+Lightning,Original common geography; 24 months,Record-hours burden,540,-0.5269877865430588,-40.9619353494964
+Lightning,Original common geography; 24 months,Conditional duration,540,-0.19049663214033696,-17.345145857613915
+Lightning,Weather geography; 24 months,Frequency,383,0.12672716990705324,13.510728410524692
+Lightning,Weather geography; 24 months,Record-hours burden,383,0.20636822718236061,22.92057476397579
+Lightning,Weather geography; 24 months,Conditional duration,383,0.07964105727530738,8.289829944020182
+Lightning,Weather geography; observed weather months,Frequency,383,0.3575996965761189,42.98931147899146
+Lightning,Weather geography; observed weather months,Record-hours burden,383,0.40004477678115136,49.189149824481966
+Lightning,Weather geography; observed weather months,Conditional duration,383,0.04244508020503246,4.33587537513348

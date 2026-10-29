@@ -1,0 +1,33 @@
+region,metric,ratio
+Capital,event_rate,112.68181818181817
+Central,event_rate,38.02272727272728
+Frontier,event_rate,28.55
+Genesee,event_rate,85.0
+Mohawk Valley,event_rate,81.80000000000001
+Northeast,event_rate,276.04347826086956
+Northern,event_rate,218.0
+Southwest,event_rate,98.05000000000001
+Capital,scope,0.42387982448674844
+Central,scope,0.352067830219165
+Frontier,scope,0.4332712852311803
+Genesee,scope,0.16060731499588432
+Mohawk Valley,scope,0.27097388852140747
+Northeast,scope,0.09423834130030911
+Northern,scope,0.1347782314401815
+Southwest,scope,0.2269986157010118
+Capital,duration,8.197586402496782
+Central,duration,4.229571085370841
+Frontier,duration,11.284707877180336
+Genesee,duration,2.2677555221156664
+Mohawk Valley,duration,21.16209932127935
+Northeast,duration,13.735847956116828
+Northern,duration,11.380167530407462
+Southwest,duration,15.978914757067033
+Capital,burden,391.54582238943715
+Central,burden,56.61948785077313
+Frontier,burden,139.59065372829417
+Genesee,burden,30.958540665297395
+Mohawk Valley,burden,469.07198480531815
+Northeast,burden,357.32269380898265
+Northern,burden,334.3681500066024
+Southwest,burden,355.6461295418641

@@ -1,0 +1,114 @@
+year,source_cause,unplanned_outage_count,unplanned_outage_hours_share,unplanned_outage_hours_total,source_url,source_table,source_pdf_pages,cause_group,display_cause_group
+2016,产品质量不良,8.0,1.09,61.718,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Equipment / electrical,Equipment / electrical
+2016,动物事故,4.0,0.06,3.5,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Other environment,Other environment
+2016,外力损坏,139.0,3.13,176.865,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Other / unresolved,Other / unresolved
+2016,待查,26.0,8.26,466.15,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Other / unresolved,Other / unresolved
+2016,施工安装不良,9.0,1.05,59.133,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Human / operation,Human / operation
+2016,检修质量不良,1.0,0.07,3.917,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Human / operation,Human / operation
+2016,气候因素,101.0,35.4,1998.317,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Weather,Natural hazards / weather
+2016,管理不当,3.0,0.02,1.3,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Human / operation,Human / operation
+2016,自然灾害,185.0,48.61,2743.948,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Weather,Natural hazards / weather
+2016,规划、设计不周,4.0,0.14,7.85,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Human / operation,Human / operation
+2016,设备老化,12.0,0.66,37.282,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Equipment / electrical,Equipment / electrical
+2016,运行不当,6.0,1.5,84.783,https://prpq.nea.gov.cn/uploads/file1/20180423/5adda02acb87a.pdf,4-64,111;112,Human / operation,Human / operation
+2017,产品质量不良,12.0,2.47,112.45,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Equipment / electrical,Equipment / electrical
+2017,动物事故,14.0,0.77,35.183,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Other environment,Other environment
+2017,外力损坏,124.0,6.05,275.033,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Other / unresolved,Other / unresolved
+2017,待查,38.0,13.12,596.383,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Other / unresolved,Other / unresolved
+2017,施工安装不良,7.0,0.31,13.9,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Human / operation,Human / operation
+2017,检修质量不良,1.0,0.19,8.45,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Human / operation,Human / operation
+2017,气候因素,137.0,28.43,1291.883,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Weather,Natural hazards / weather
+2017,管理不当,3.0,0.08,3.8,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Human / operation,Human / operation
+2017,自然灾害,118.0,45.88,2085.167,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Weather,Natural hazards / weather
+2017,规划、设计不周,1.0,0.05,2.067,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Human / operation,Human / operation
+2017,设备老化,12.0,0.57,25.733,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Equipment / electrical,Equipment / electrical
+2017,运行不当,19.0,2.08,94.4,https://prpq.nea.gov.cn/uploads/1.pdf,4-74,128,Human / operation,Human / operation
+2018,产品质量不良,7.0,0.73,79.8,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Equipment / electrical,Equipment / electrical
+2018,动物事故,11.0,0.28,30.717,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Other environment,Other environment
+2018,外力损坏,115.0,3.2,348.733,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Other / unresolved,Other / unresolved
+2018,待查,29.0,10.0,1087.7,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Other / unresolved,Other / unresolved
+2018,施工安装不良,3.0,0.58,63.633,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Human / operation,Human / operation
+2018,气候因素,122.0,6.23,677.85,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Weather,Natural hazards / weather
+2018,电力系统影响,4.0,0.03,3.6,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Other / unresolved,Other / unresolved
+2018,管理不当,2.0,3.49,380.184,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Human / operation,Human / operation
+2018,自然灾害,262.0,73.74,8023.266,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Weather,Natural hazards / weather
+2018,规划、设计不周,4.0,0.86,93.65,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Human / operation,Human / operation
+2018,设备老化,13.0,0.56,60.733,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Equipment / electrical,Equipment / electrical
+2018,运行不当,13.0,0.29,31.1,https://prpq.nea.gov.cn/9152.pdf,4-53,114,Human / operation,Human / operation
+2019,产品质量不良,19.0,6.338,386.783,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Equipment / electrical,Equipment / electrical
+2019,动物事故,20.0,2.513,153.367,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Other environment,Other environment
+2019,外力损坏,139.0,9.114,556.217,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Other / unresolved,Other / unresolved
+2019,待查,19.0,1.804,220.167,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Other / unresolved,Other / unresolved
+2019,施工安装不良,15.0,4.155,253.583,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Human / operation,Human / operation
+2019,检修质量不良,9.0,0.21,12.817,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Human / operation,Human / operation
+2019,气候因素,183.0,20.673,1261.6,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Weather,Natural hazards / weather
+2019,电力系统影响,4.0,0.641,39.117,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Other / unresolved,Other / unresolved
+2019,自然灾害,221.0,41.342,2522.983,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Weather,Natural hazards / weather
+2019,规划、设计不周,6.0,1.834,111.95,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Human / operation,Human / operation
+2019,设备老化,18.0,5.023,306.567,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Equipment / electrical,Equipment / electrical
+2019,运行不当,41.0,4.547,277.517,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b67c840cdf.pdf,4-55,111,Human / operation,Human / operation
+2020,产品质量不良,16.0,4.52,225.35,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Equipment / electrical,Equipment / electrical
+2020,其他,2.0,0.01,0.45,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Other / unresolved,Other / unresolved
+2020,动物事故,10.0,1.16,57.65,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Other environment,Other environment
+2020,外力损坏,102.0,18.76,936.27,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Other / unresolved,Other / unresolved
+2020,待查,19.0,3.08,153.72,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Other / unresolved,Other / unresolved
+2020,施工安装不良,11.0,6.04,301.26,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Human / operation,Human / operation
+2020,检修质量不良,2.0,2.46,122.78,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Human / operation,Human / operation
+2020,气候因素,126.0,18.23,909.58,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Weather,Natural hazards / weather
+2020,电力系统影响,5.0,1.32,65.86,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Other / unresolved,Other / unresolved
+2020,自然灾害,182.0,41.88,2090.04,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Weather,Natural hazards / weather
+2020,规划、设计不周,4.0,0.36,17.9,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Human / operation,Human / operation
+2020,设备老化,8.0,2.11,105.53,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Equipment / electrical,Equipment / electrical
+2020,运行不当,3.0,0.08,4.2,https://prpq.nea.gov.cn/uploads/file1/20211009/616107fe94a8e.pdf,4-55,112;113,Human / operation,Human / operation
+2021,产品质量不良,16.0,1.92,60.08,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Equipment / electrical,Equipment / electrical
+2021,动物事故,16.0,0.34,10.68,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Other environment,Other environment
+2021,外力损坏,97.0,11.82,369.42,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Other / unresolved,Other / unresolved
+2021,待查,2.0,1.08,33.78,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Other / unresolved,Other / unresolved
+2021,施工安装不良,14.0,4.15,129.67,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Human / operation,Human / operation
+2021,检修质量不良,4.0,0.23,7.13,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Human / operation,Human / operation
+2021,气候因素,125.0,21.68,677.43,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Weather,Natural hazards / weather
+2021,电力系统影响,3.0,3.84,119.85,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Other / unresolved,Other / unresolved
+2021,自然灾害,134.0,51.43,1607.33,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Weather,Natural hazards / weather
+2021,规划、设计不周,14.0,1.03,32.08,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Human / operation,Human / operation
+2021,设备老化,6.0,2.18,68.07,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Equipment / electrical,Equipment / electrical
+2021,运行不当,5.0,0.31,9.57,https://prpq.nea.gov.cn/uploads/file1/20230308/640801ab6e248.pdf,3-54,110;111,Human / operation,Human / operation
+2022,产品质量不良,16.0,1.609,228.333,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Equipment / electrical,Equipment / electrical
+2022,动物事故,12.0,0.37,52.483,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Other environment,Other environment
+2022,外力损坏,72.0,15.017,2131.583,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Other / unresolved,Other / unresolved
+2022,施工安装不良,4.0,1.062,150.683,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Human / operation,Human / operation
+2022,检修质量不良,3.0,0.838,118.95,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Human / operation,Human / operation
+2022,气候因素,114.0,17.432,2474.367,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Weather,Natural hazards / weather
+2022,电力系统影响,2.0,0.001,0.183,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Other / unresolved,Other / unresolved
+2022,自然灾害,143.0,42.897,6088.817,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Weather,Natural hazards / weather
+2022,规划、设计不周,18.0,18.525,2629.517,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Human / operation,Human / operation
+2022,设备老化,10.0,2.229,316.4,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Equipment / electrical,Equipment / electrical
+2022,运行不当,3.0,0.02,2.817,https://prpq.nea.gov.cn/uploads/file1/20231213/657951e0b1c7a.pdf,3-54,115;116,Human / operation,Human / operation
+2023,产品质量不良,5.0,2.42,163.3,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Equipment / electrical,Equipment / electrical
+2023,其它责任原因,1.0,3.496,235.867,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Other / unresolved,Other / unresolved
+2023,动物事故,8.0,0.392,26.45,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Other environment,Other environment
+2023,外力损坏,104.0,3.665,247.3,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Other / unresolved,Other / unresolved
+2023,施工安装不良,5.0,1.741,117.467,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Human / operation,Human / operation
+2023,检修质量不良,2.0,0.085,5.75,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Human / operation,Human / operation
+2023,气候因素,127.0,16.754,1130.45,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Weather,Natural hazards / weather
+2023,电力系统影响,5.0,0.491,33.133,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Other / unresolved,Other / unresolved
+2023,管理不当,1.0,0.01,0.667,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Human / operation,Human / operation
+2023,自然灾害,238.0,48.602,3279.32,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Weather,Natural hazards / weather
+2023,规划、设计不周,3.0,1.529,103.15,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Human / operation,Human / operation
+2023,设备老化,13.0,17.209,1161.117,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Equipment / electrical,Equipment / electrical
+2023,运行不当,8.0,0.463,31.267,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Human / operation,Human / operation
+2023,领导指挥不当,1.0,3.143,212.033,https://prpq.nea.gov.cn/uploads/file1/20240911/66e102e09bfea.pdf,3-56,110,Human / operation,Human / operation
+2024,产品质量不良,24.0,3.244,533.58,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Equipment / electrical,Equipment / electrical
+2024,其它,11.0,2.077,341.6,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Other / unresolved,Other / unresolved
+2024,动物事故,29.0,1.346,221.35,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Other environment,Other environment
+2024,外力损坏,108.0,6.669,1096.97,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Other / unresolved,Other / unresolved
+2024,外部原因,29.0,7.19,1182.72,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Other / unresolved,Other / unresolved
+2024,施工安装不良,6.0,3.04,500.07,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Human / operation,Human / operation
+2024,检修质量不良,1.0,0.123,20.17,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Human / operation,Human / operation
+2024,气候因素,425.0,40.845,6718.67,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Weather,Natural hazards / weather
+2024,电力系统影响,2.0,0.34,55.98,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Other / unresolved,Other / unresolved
+2024,管理不当,9.0,5.639,927.65,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Human / operation,Human / operation
+2024,自然灾害,310.0,23.594,3880.95,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Weather,Natural hazards / weather
+2024,规划、设计不周,8.0,1.724,283.62,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Human / operation,Human / operation
+2024,设备老化,19.0,2.764,454.6,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Equipment / electrical,Equipment / electrical
+2024,责任原因不明,3.0,0.002,0.28,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Other / unresolved,Other / unresolved
+2024,运行不当,10.0,1.405,231.03,https://prpq.nea.gov.cn/uploads/file1/20260612/6a2b6ec929bf5.pdf,3-52,114,Human / operation,Human / operation

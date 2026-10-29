@@ -1,0 +1,13 @@
+# Python 3.12; versions used for the packaged reproduction workflow.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.18.1
+statsmodels==0.15.0
+matplotlib==3.9.4
+geopandas==1.1.2
+shapely==2.1.2
+pyproj==3.7.2
+pyarrow==26.0.0
+Pillow==12.3.0
+tabulate==0.10.0
+resvg-py==0.5.0

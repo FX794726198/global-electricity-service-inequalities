@@ -1,0 +1,245 @@
+{
+  "primary": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "service_gap": {
+      "estimate": 0.2891684359148369,
+      "lo": 0.2370601262905964,
+      "hi": 0.34075837510625157,
+      "median": 0.3095262807509085
+    },
+    "unconnected_limited_grid_gap": {
+      "estimate": 0.1833666141856396,
+      "lo": 0.13081416755082154,
+      "hi": 0.23855171124805605,
+      "median": 0.1567532943672368
+    },
+    "unconnected_grid_present_gap": {
+      "estimate": 0.0654537353676976,
+      "lo": 0.03366796882748962,
+      "hi": 0.09687720019916463,
+      "median": 0.05156752205344091
+    },
+    "unconnected_grid_unknown_gap": {
+      "estimate": 0.001627376219607434,
+      "lo": -4.8136372753129484e-05,
+      "hi": 0.003870949806073808,
+      "median": 0.0
+    },
+    "connected_unreliable_gap": {
+      "estimate": 0.038720710141892344,
+      "lo": 2.5085934234222153e-05,
+      "hi": 0.08076055773608963,
+      "median": 0.025747634400825448
+    }
+  },
+  "fixed_countries": [
+    "AGO",
+    "BWA",
+    "CIV",
+    "CPV",
+    "ETH",
+    "GAB",
+    "GHA",
+    "GMB",
+    "KEN",
+    "LBR",
+    "LSO",
+    "MLI",
+    "MOZ",
+    "NAM",
+    "NGA",
+    "SDN",
+    "SEN",
+    "STP",
+    "SWZ",
+    "SYC",
+    "TUN",
+    "TZA",
+    "ZAF"
+  ],
+  "conditional_grid": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "connection_no": {
+      "estimate": 0.9183903259467349,
+      "lo": 0.8830814706852194,
+      "hi": 0.9495121995956481,
+      "median": 0.9468342244685184
+    },
+    "connection_high": {
+      "estimate": 0.7914643673342586,
+      "lo": 0.7315408890269065,
+      "hi": 0.845719768986447,
+      "median": 0.8006012707795042
+    },
+    "connection_gap": {
+      "estimate": 0.12692595861247655,
+      "lo": 0.0828130786593774,
+      "hi": 0.17166078164087997,
+      "median": 0.10757025704932388
+    },
+    "service_no": {
+      "estimate": 0.7285724188406411,
+      "lo": 0.6431073312444421,
+      "hi": 0.8022465902017389,
+      "median": 0.7947821165344963
+    },
+    "service_high": {
+      "estimate": 0.5036685839153565,
+      "lo": 0.436872227096991,
+      "hi": 0.5694855021335508,
+      "median": 0.48065006907417945
+    },
+    "service_gap": {
+      "estimate": 0.22490383492528446,
+      "lo": 0.18188619161164693,
+      "hi": 0.26580187257575844,
+      "median": 0.24823355833937172
+    }
+  },
+  "conditional_countries": [
+    "AGO",
+    "BWA",
+    "CIV",
+    "CPV",
+    "ETH",
+    "GAB",
+    "GHA",
+    "GMB",
+    "KEN",
+    "LBR",
+    "LSO",
+    "MLI",
+    "MOZ",
+    "NAM",
+    "NGA",
+    "SDN",
+    "SEN",
+    "STP",
+    "SWZ",
+    "SYC",
+    "TUN",
+    "TZA",
+    "ZAF"
+  ],
+  "same_country_unconditional": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "connection_gap": {
+      "estimate": 0.2504477257729446,
+      "lo": 0.19476299274657222,
+      "hi": 0.3054554183544155,
+      "median": 0.284363371805656
+    },
+    "service_gap": {
+      "estimate": 0.2891684359148368,
+      "lo": 0.23706012629059633,
+      "hi": 0.3407583751062515,
+      "median": 0.3095262807509085
+    }
+  },
+  "construct_common_countries": [
+    "AGO",
+    "BWA",
+    "CIV",
+    "CPV",
+    "ETH",
+    "GAB",
+    "GHA",
+    "GMB",
+    "KEN",
+    "LBR",
+    "LSO",
+    "MLI",
+    "MOZ",
+    "NAM",
+    "NGA",
+    "SDN",
+    "SEN",
+    "STP",
+    "SWZ",
+    "SYC",
+    "TUN",
+    "TZA",
+    "ZAF"
+  ],
+  "construct_four_item": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "service_gap": {
+      "estimate": 0.29096149151972717,
+      "lo": 0.24039748715777132,
+      "hi": 0.34173609244659087,
+      "median": 0.3205010424738813
+    },
+    "unconnected_limited_grid_gap": {
+      "estimate": 0.19837296406484317,
+      "lo": 0.14029781130678642,
+      "hi": 0.25737952877725595,
+      "median": 0.18441120082969786
+    },
+    "unconnected_grid_present_gap": {
+      "estimate": 0.058995735247110936,
+      "lo": 0.02700730246429439,
+      "hi": 0.09052086221554644,
+      "median": 0.05028428072722282
+    },
+    "unconnected_grid_unknown_gap": {
+      "estimate": 0.0019152535966532186,
+      "lo": -4.793181428042644e-05,
+      "hi": 0.004544933147164655,
+      "median": 0.0
+    },
+    "connected_unreliable_gap": {
+      "estimate": 0.03167753861111992,
+      "lo": -0.009354286357510585,
+      "hi": 0.07430066553214736,
+      "median": 0.021151178557262146
+    }
+  },
+  "construct_five_item_common": {
+    "countries": 23,
+    "estimand": "equal-country average; country-bootstrap interval",
+    "bootstrap_replicates": 4000,
+    "seed": 20261002,
+    "service_gap": {
+      "estimate": 0.2891684359148369,
+      "lo": 0.2370601262905964,
+      "hi": 0.34075837510625157,
+      "median": 0.3095262807509085
+    },
+    "unconnected_limited_grid_gap": {
+      "estimate": 0.1833666141856396,
+      "lo": 0.13081416755082154,
+      "hi": 0.23855171124805605,
+      "median": 0.1567532943672368
+    },
+    "unconnected_grid_present_gap": {
+      "estimate": 0.0654537353676976,
+      "lo": 0.03366796882748962,
+      "hi": 0.09687720019916463,
+      "median": 0.05156752205344091
+    },
+    "unconnected_grid_unknown_gap": {
+      "estimate": 0.001627376219607434,
+      "lo": -4.8136372753129484e-05,
+      "hi": 0.003870949806073808,
+      "median": 0.0
+    },
+    "connected_unreliable_gap": {
+      "estimate": 0.038720710141892344,
+      "lo": 2.5085934234222153e-05,
+      "hi": 0.08076055773608963,
+      "median": 0.025747634400825448
+    }
+  }
+}

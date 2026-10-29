@@ -1,0 +1,58 @@
+{
+  "country": "kenya",
+  "variant": "complete",
+  "eligible_n": 3198,
+  "paired_n": 752,
+  "contrasts": {
+    "connection": {
+      "ratio": 0.26749225187391834,
+      "ratio_lo": 0.18837558241592037,
+      "ratio_hi": 0.35937313492761597,
+      "difference": -0.4728237275385849,
+      "difference_lo": -0.5808298302822054,
+      "difference_hi": -0.3614232333123704
+    },
+    "frequency_week": {
+      "ratio": 4.135426932256646,
+      "ratio_lo": 1.0606483070891533,
+      "ratio_hi": 10.686111754954966,
+      "difference": 5.71952141138031,
+      "difference_lo": 0.11773429685964773,
+      "difference_hi": 17.65782045295315
+    },
+    "hours_week": {
+      "ratio": 3.1785375210882303,
+      "ratio_lo": 0.7994048766797097,
+      "ratio_hi": 7.021642453721135,
+      "difference": 8.614867564770233,
+      "difference_lo": -0.8073778208783757,
+      "difference_hi": 22.951258371941567
+    },
+    "duration_hours": {
+      "ratio": 0.7686116991441427,
+      "ratio_lo": 0.15745843905856516,
+      "ratio_hi": 3.527906864971226,
+      "difference": -0.5016051104799133,
+      "difference_lo": -2.0083865343848926,
+      "difference_hi": 5.364974890509337
+    },
+    "frequency_week_all_valid": {
+      "ratio": 2.886259935608813,
+      "ratio_lo": 1.0036305161911272,
+      "ratio_hi": 6.615802128860274,
+      "difference": 3.2459955450551154,
+      "difference_lo": 0.006034104600791358,
+      "difference_hi": 9.539442643399989
+    }
+  },
+  "settlement_standardization": {
+    "admitted": false,
+    "min_extreme_cell_n": 27
+  },
+  "bootstrap_replicates": 2000,
+  "seed": 20261002,
+  "blocks": 352,
+  "bootstrap_strata": 8,
+  "singleton_strata": 0,
+  "identity_error_max": 8.881784197001252e-16
+}

@@ -1,0 +1,18 @@
+comparison,metric,estimate,ci_low,ci_high,interval_excludes_zero,covariance
+Q3_Q4_minus_Q1_Q4,frequency_share,-0.1936862737671743,-0.3511089407822322,0.19548575902691634,False,Shared bootstrap draws for every quartile
+Q3_Q4_minus_Q1_Q4,frequency_h,-82.41787881518374,-165.14957502710942,-21.311964541791106,True,Shared bootstrap draws for every quartile
+Q3_Q4_minus_Q1_Q4,duration_h,-25.231468553237335,-68.86185239153363,11.14500828691351,False,Shared bootstrap draws for every quartile
+Q3_Q4_minus_Q1_Q4,contribution_difference_h,-57.18641026194641,-110.61127832440646,-21.57364118186896,True,Shared bootstrap draws for every quartile
+Q2_Q4_minus_Q1_Q4,frequency_share,-0.03572969556761252,-0.14829235974295862,0.11537932020535974,False,Shared bootstrap draws for every quartile
+Q2_Q4_minus_Q1_Q4,frequency_h,-11.862682773533649,-129.12091380343313,121.19789542804023,False,Shared bootstrap draws for every quartile
+Q2_Q4_minus_Q1_Q4,duration_h,1.491945931428333,-55.27815080093591,64.44179527957806,False,Shared bootstrap draws for every quartile
+Q2_Q4_minus_Q1_Q4,contribution_difference_h,-13.354628704961982,-80.29481106689374,60.21594959581241,False,Shared bootstrap draws for every quartile
+Q1_minus_Q2,frequency,14.237607894736833,-63.817194671052654,82.23446717105267,False,Whole benchmarks sampled within fixed groups
+Q1_minus_Q2,annual_hours,10.37073684210533,-184.03676065789475,182.72351888157897,False,Whole benchmarks sampled within fixed groups
+Q1_minus_Q2,compatible_duration,-0.37188497308629165,-1.1595956641678113,0.8483001764004879,False,Whole benchmarks sampled within fixed groups
+Q2_minus_Q3,frequency,45.66152368421053,0.8584982894736839,113.06232973684214,True,Whole benchmarks sampled within fixed groups
+Q2_minus_Q3,annual_hours,97.27861052631576,-27.61453046052632,271.7000980263158,False,Whole benchmarks sampled within fixed groups
+Q2_minus_Q3,compatible_duration,-2.5777507736459455,-11.51384589355042,1.4402378540350373,False,Whole benchmarks sampled within fixed groups
+Q3_minus_Q4,frequency,4.634805263157895,2.070251052631579,8.054995921052633,True,Whole benchmarks sampled within fixed groups
+Q3_minus_Q4,annual_hours,26.183647368421052,4.253361842105263,63.642678618421094,True,Whole benchmarks sampled within fixed groups
+Q3_minus_Q4,compatible_duration,4.091587061689262,0.09848629366806211,12.88387004694656,True,Whole benchmarks sampled within fixed groups

@@ -1,0 +1,112 @@
+Il3A,cause_group,settlement,incidents,CI,H
+BOLU,Animals,Rural,176,92600.0,81090.084
+BOLU,Animals,Suburban,41,29981.0,25880.589
+BOLU,Animals,Urban,85,208042.0,138234.281
+BOLU,Equipment / network fault,Rural,1119,301572.0,356199.125
+BOLU,Equipment / network fault,Suburban,351,186392.0,164054.62
+BOLU,Equipment / network fault,Urban,296,422660.0,415215.427
+BOLU,"Fire, unspecified origin",Rural,10,8258.0,7061.492
+BOLU,"Fire, unspecified origin",Suburban,6,6114.0,6667.58
+BOLU,"Fire, unspecified origin",Urban,6,3129.0,3794.2799999999997
+BOLU,Ice loading,Rural,166,93541.0,250783.8
+BOLU,Ice loading,Suburban,45,43739.0,117374.52
+BOLU,Ice loading,Urban,20,31433.0,9157.276
+BOLU,Operations / safety,Rural,813,481085.0,223983.601
+BOLU,Operations / safety,Suburban,285,265341.0,117378.38
+BOLU,Operations / safety,Urban,208,247183.0,98006.259
+BOLU,Overload,Rural,2193,541322.0,318571.242
+BOLU,Overload,Suburban,494,159020.0,64178.643000000004
+BOLU,Overload,Urban,424,229102.0,135945.585
+BOLU,Temporary / unspecified fault,Rural,702,739322.0,339832.518
+BOLU,Temporary / unspecified fault,Suburban,253,476174.0,174858.987
+BOLU,Temporary / unspecified fault,Urban,191,414609.0,207756.667
+BOLU,Third-party / customer damage,Rural,44,16508.0,28508.681
+BOLU,Third-party / customer damage,Suburban,20,3354.0,3856.4719999999998
+BOLU,Third-party / customer damage,Urban,37,44954.0,34576.772
+BOLU,Vegetation contact,Rural,152,55295.0,54444.277
+BOLU,Vegetation contact,Suburban,30,12369.0,11496.254
+BOLU,Vegetation contact,Urban,18,13386.0,12800.064
+BOLU,Wind / lightning,Rural,608,298734.0,596420.624
+BOLU,Wind / lightning,Suburban,131,140465.0,124022.692
+BOLU,Wind / lightning,Urban,83,166387.0,122203.918
+DÜZCE,Animals,Rural,237,244784.0,155184.983
+DÜZCE,Animals,Suburban,112,128573.0,84589.619
+DÜZCE,Animals,Urban,149,208352.0,135345.051
+DÜZCE,Equipment / network fault,Rural,1315,467759.0,548254.865
+DÜZCE,Equipment / network fault,Suburban,559,350901.0,363153.51
+DÜZCE,Equipment / network fault,Urban,670,388241.0,331905.499
+DÜZCE,"Fire, unspecified origin",Rural,6,4826.0,1141.24
+DÜZCE,"Fire, unspecified origin",Urban,2,348.0,281.09000000000003
+DÜZCE,Ice loading,Rural,243,187488.0,679071.03
+DÜZCE,Ice loading,Suburban,61,50529.0,73446.86
+DÜZCE,Ice loading,Urban,39,16275.0,12618.529999999999
+DÜZCE,Operations / safety,Rural,1025,623322.0,323710.351
+DÜZCE,Operations / safety,Suburban,426,282570.0,143133.011
+DÜZCE,Operations / safety,Urban,609,411489.0,149501.078
+DÜZCE,Overload,Rural,2410,1026369.0,477309.194
+DÜZCE,Overload,Suburban,698,352378.0,167726.765
+DÜZCE,Overload,Urban,937,246891.0,205423.809
+DÜZCE,Temporary / unspecified fault,Rural,648,1010486.0,436152.628
+DÜZCE,Temporary / unspecified fault,Suburban,309,459528.0,192229.567
+DÜZCE,Temporary / unspecified fault,Urban,304,600648.0,247267.339
+DÜZCE,Third-party / customer damage,Rural,137,33759.0,29613.965
+DÜZCE,Third-party / customer damage,Suburban,87,9657.0,17121.83
+DÜZCE,Third-party / customer damage,Urban,67,20545.0,29542.627
+DÜZCE,Vegetation contact,Rural,192,73730.0,62820.253
+DÜZCE,Vegetation contact,Suburban,47,14957.0,18698.797
+DÜZCE,Vegetation contact,Urban,47,14712.0,12769.885
+DÜZCE,Wind / lightning,Rural,313,185497.0,181900.977
+DÜZCE,Wind / lightning,Suburban,90,87691.0,48330.706
+DÜZCE,Wind / lightning,Urban,74,57157.0,45166.304
+KOCAELİ,Animals,Rural,39,50.0,52.777
+KOCAELİ,Animals,Suburban,12,12.0,15.043
+KOCAELİ,Animals,Urban,1126,2781366.0,2340071.95
+KOCAELİ,Equipment / network fault,Rural,75,361.0,783.539
+KOCAELİ,Equipment / network fault,Suburban,25,27.0,28.471
+KOCAELİ,Equipment / network fault,Urban,11246,6983287.0,7605544.498
+KOCAELİ,"Fire, unspecified origin",Urban,28,8603.0,16942.559
+KOCAELİ,Ice loading,Rural,3,7.0,7.98
+KOCAELİ,Ice loading,Urban,96,140656.0,253276.96
+KOCAELİ,Operations / safety,Rural,40,89.0,34.361000000000004
+KOCAELİ,Operations / safety,Suburban,12,12.0,7.281
+KOCAELİ,Operations / safety,Urban,3829,4924123.0,2518178.866
+KOCAELİ,Overload,Rural,69,597.0,234.332
+KOCAELİ,Overload,Suburban,13,46.0,86.562
+KOCAELİ,Overload,Urban,9635,4213931.0,4574163.9290000005
+KOCAELİ,Temporary / unspecified fault,Rural,185,329.0,281.873
+KOCAELİ,Temporary / unspecified fault,Suburban,30,30.0,26.143
+KOCAELİ,Temporary / unspecified fault,Urban,4096,8689597.0,5635068.513
+KOCAELİ,Third-party / customer damage,Rural,3,4.0,5.35
+KOCAELİ,Third-party / customer damage,Suburban,1,1.0,7.2
+KOCAELİ,Third-party / customer damage,Urban,674,255591.0,302092.609
+KOCAELİ,Vegetation contact,Rural,3,20.0,29.7
+KOCAELİ,Vegetation contact,Urban,380,212357.0,210320.35
+KOCAELİ,Wind / lightning,Rural,18,40.0,94.79
+KOCAELİ,Wind / lightning,Urban,455,683153.0,931907.001
+SAKARYA,Animals,Rural,92,31187.0,18261.177
+SAKARYA,Animals,Suburban,2,2.0,1.198
+SAKARYA,Animals,Urban,559,1035214.0,654453.307
+SAKARYA,Equipment / network fault,Rural,784,187132.0,201799.852
+SAKARYA,Equipment / network fault,Suburban,12,12.0,16.47
+SAKARYA,Equipment / network fault,Urban,8006,3911823.0,3540453.671
+SAKARYA,"Fire, unspecified origin",Rural,3,1537.0,1799.404
+SAKARYA,"Fire, unspecified origin",Urban,22,13364.0,14223.188999999998
+SAKARYA,Ice loading,Rural,63,58498.0,79072.85
+SAKARYA,Ice loading,Suburban,2,43.0,7.619999999999999
+SAKARYA,Ice loading,Urban,165,161062.0,172352.28
+SAKARYA,Operations / safety,Rural,230,142484.0,62078.276
+SAKARYA,Operations / safety,Suburban,6,84.0,24.11
+SAKARYA,Operations / safety,Urban,1853,3170870.0,1323432.1300000001
+SAKARYA,Overload,Rural,964,264108.0,183640.749
+SAKARYA,Overload,Suburban,2,68.0,80.19
+SAKARYA,Overload,Urban,7046,2881121.0,2085193.32
+SAKARYA,Temporary / unspecified fault,Rural,430,382095.0,178088.435
+SAKARYA,Temporary / unspecified fault,Suburban,9,134.0,71.998
+SAKARYA,Temporary / unspecified fault,Urban,2497,6224335.0,2826381.097
+SAKARYA,Third-party / customer damage,Rural,29,6370.0,9928.592999999999
+SAKARYA,Third-party / customer damage,Urban,395,114138.0,142094.332
+SAKARYA,Vegetation contact,Rural,48,18726.0,17081.125
+SAKARYA,Vegetation contact,Urban,270,111947.0,109867.125
+SAKARYA,Wind / lightning,Rural,200,84742.0,122643.78600000001
+SAKARYA,Wind / lightning,Suburban,4,4.0,7.51
+SAKARYA,Wind / lightning,Urban,604,709655.0,720145.805

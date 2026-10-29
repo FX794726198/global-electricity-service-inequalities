@@ -1,0 +1,74 @@
+profile_id,country_iso3,system,period,cause_group,occurrence_unit,burden_unit,profile_method,occurrence_share_pct,burden_share_pct,share_gap_pp
+FIN_DISTRIBUTION,FIN,Finnish participating distribution,2010–2019,Equipment / electrical,customer interruption share,customer duration share,equal-year mean; planned retained,11.312999999999999,6.603,-4.709999999999999
+FIN_DISTRIBUTION,FIN,Finnish participating distribution,2010–2019,Other / unresolved,customer interruption share,customer duration share,equal-year mean; planned retained,22.613999999999997,11.453,-11.160999999999998
+FIN_DISTRIBUTION,FIN,Finnish participating distribution,2010–2019,Other environment,customer interruption share,customer duration share,equal-year mean; planned retained,2.645,1.3409999999999997,-1.3040000000000003
+FIN_DISTRIBUTION,FIN,Finnish participating distribution,2010–2019,Planned,customer interruption share,customer duration share,equal-year mean; planned retained,7.588000000000001,11.267999999999999,3.679999999999998
+FIN_DISTRIBUTION,FIN,Finnish participating distribution,2010–2019,Weather,customer interruption share,customer duration share,equal-year mean; planned retained,55.839,69.333,13.494
+JAM_JPS,JAM,Jamaica · JPS,2018–2021,Equipment / electrical,customer interruption share,customer duration share,equal-year mean; stable nine-cause taxonomy,26.16203296884497,26.669146036599898,0.5071130677549291
+JAM_JPS,JAM,Jamaica · JPS,2018–2021,Human / operation,customer interruption share,customer duration share,equal-year mean; stable nine-cause taxonomy,7.275848164219918,7.907282010755183,0.6314338465352645
+JAM_JPS,JAM,Jamaica · JPS,2018–2021,Other / unresolved,customer interruption share,customer duration share,equal-year mean; stable nine-cause taxonomy,26.128121969306818,24.811250675187352,-1.3168712941194656
+JAM_JPS,JAM,Jamaica · JPS,2018–2021,Other environment,customer interruption share,customer duration share,equal-year mean; stable nine-cause taxonomy,16.322489613157835,26.818017585410207,10.495527972252372
+JAM_JPS,JAM,Jamaica · JPS,2018–2021,Supply constraint,customer interruption share,customer duration share,equal-year mean; stable nine-cause taxonomy,17.971446960965817,3.620439148587382,-14.351007812378436
+JAM_JPS,JAM,Jamaica · JPS,2018–2021,Weather,customer interruption share,customer duration share,equal-year mean; stable nine-cause taxonomy,6.140060323504644,10.173864543459977,4.033804219955334
+NORDIC_DNK,DNK,DNK_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,18.5,15.0,-3.5
+NORDIC_DNK,DNK,DNK_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,23.25,73.25,50.0
+NORDIC_DNK,DNK,DNK_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,45.5,3.75,-41.75
+NORDIC_DNK,DNK,DNK_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,8.0,8.0,0.0
+NORDIC_DNK,DNK,DNK_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,4.5,0.0,-4.5
+NORDIC_EST,EST,EST_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,25.25,40.0,14.75
+NORDIC_EST,EST,EST_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,12.5,24.75,12.25
+NORDIC_EST,EST,EST_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,43.25,34.75,-8.5
+NORDIC_EST,EST,EST_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,8.25,0.0,-8.25
+NORDIC_EST,EST,EST_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,11.25,0.25,-11.0
+NORDIC_FIN,FIN,FIN_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,5.0,29.25,24.25
+NORDIC_FIN,FIN,FIN_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,7.75,13.25,5.5
+NORDIC_FIN,FIN,FIN_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,36.0,44.0,8.0
+NORDIC_FIN,FIN,FIN_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,31.75,7.5,-24.25
+NORDIC_FIN,FIN,FIN_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,19.5,6.0,-13.5
+NORDIC_ISL,ISL,ISL_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,3.25,1.5,-1.75
+NORDIC_ISL,ISL,ISL_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,9.5,4.25,-5.25
+NORDIC_ISL,ISL,ISL_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,61.5,50.5,-11.0
+NORDIC_ISL,ISL,ISL_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,25.5,44.25,18.75
+NORDIC_ISL,ISL,ISL_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,0.5,0.0,-0.5
+NORDIC_LTU,LTU,LTU_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,5.5,39.5,34.0
+NORDIC_LTU,LTU,LTU_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,7.75,20.75,13.0
+NORDIC_LTU,LTU,LTU_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,73.5,30.75,-42.75
+NORDIC_LTU,LTU,LTU_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,6.5,8.25,1.75
+NORDIC_LTU,LTU,LTU_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,6.5,0.5,-6.0
+NORDIC_LVA,LVA,LVA_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,8.0,6.0,-2.0
+NORDIC_LVA,LVA,LVA_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,4.5,62.5,58.0
+NORDIC_LVA,LVA,LVA_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,53.5,1.75,-51.75
+NORDIC_LVA,LVA,LVA_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,26.0,29.0,3.0
+NORDIC_LVA,LVA,LVA_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,8.0,0.0,-8.0
+NORDIC_NOR,NOR,NOR_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,19.25,36.75,17.5
+NORDIC_NOR,NOR,NOR_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,14.75,21.5,6.75
+NORDIC_NOR,NOR,NOR_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,16.5,20.5,4.0
+NORDIC_NOR,NOR,NOR_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,31.0,18.25,-12.75
+NORDIC_NOR,NOR,NOR_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,19.0,2.75,-16.25
+NORDIC_SWE,SWE,SWE_100–420kV,2018–2021,Equipment / electrical,disturbance share,ENS share,equal-year mean of published shares,12.75,21.75,9.0
+NORDIC_SWE,SWE,SWE_100–420kV,2018–2021,Human / operation,disturbance share,ENS share,equal-year mean of published shares,7.25,10.0,2.75
+NORDIC_SWE,SWE,SWE_100–420kV,2018–2021,Other / unresolved,disturbance share,ENS share,equal-year mean of published shares,40.25,42.5,2.25
+NORDIC_SWE,SWE,SWE_100–420kV,2018–2021,Other environment,disturbance share,ENS share,equal-year mean of published shares,2.25,0.0,-2.25
+NORDIC_SWE,SWE,SWE_100–420kV,2018–2021,Weather,disturbance share,ENS share,equal-year mean of published shares,37.75,25.5,-12.25
+NZL_QUALIFIED21,NZL,New Zealand · 21 networks,2023–2025,Human / operation,equal-network customer-frequency share,equal-network customer-duration share,shares of equal-network mean annual indices; full remaining class retained,14.112767176945463,7.820763543622405,-6.292003633323057
+NZL_QUALIFIED21,NZL,New Zealand · 21 networks,2023–2025,Other / unresolved,equal-network customer-frequency share,equal-network customer-duration share,shares of equal-network mean annual indices; full remaining class retained,65.22948282225339,53.61334751316784,-11.61613530908555
+NZL_QUALIFIED21,NZL,New Zealand · 21 networks,2023–2025,Weather,equal-network customer-frequency share,equal-network customer-duration share,shares of equal-network mean annual indices; full remaining class retained,20.65775000080115,38.56588894320975,17.9081389424086
+RWA_REG,RWA,REG,FY2019/20–2022/23,Equipment / electrical,reported outages,published ENS MWh,pooled native cause totals; planned retained,95.14472912184627,73.57522254722858,-21.56950657461769
+RWA_REG,RWA,REG,FY2019/20–2022/23,Human / operation,reported outages,published ENS MWh,pooled native cause totals; planned retained,3.0754938392333266,8.2841423879872,5.2086485487538745
+RWA_REG,RWA,REG,FY2019/20–2022/23,Planned,reported outages,published ENS MWh,pooled native cause totals; planned retained,1.1808136123606494,13.43203201723355,12.2512184048729
+RWA_REG,RWA,REG,FY2019/20–2022/23,Supply constraint,reported outages,published ENS MWh,pooled native cause totals; planned retained,0.5989634265597497,4.7086030475506595,4.10963962099091
+SEN_SENELEC,SEN,Senelec,2018–2023,Equipment / electrical,network interruption records,published ENS MWh,selected publication vintage per year; same listed causes,0.07129206381538351,0.2849915496691668,0.2136994858537833
+SEN_SENELEC,SEN,Senelec,2018–2023,Human / operation,network interruption records,published ENS MWh,selected publication vintage per year; same listed causes,21.01737968715365,23.04013078681969,2.022751099666042
+SEN_SENELEC,SEN,Senelec,2018–2023,Other / unresolved,network interruption records,published ENS MWh,selected publication vintage per year; same listed causes,77.6130937760231,64.98359641661789,-12.629497359405221
+SEN_SENELEC,SEN,Senelec,2018–2023,Supply constraint,network interruption records,published ENS MWh,selected publication vintage per year; same listed causes,1.298234473007866,11.691281246893261,10.393046773885395
+USA_NY_QUALIFIED,USA,New York · National Grid,2021–2024,Equipment / electrical,customer interruption share,customer-hour share,pooled native customer counts across eight regions,22.492505341534923,11.745079019553375,-10.747426321981548
+USA_NY_QUALIFIED,USA,New York · National Grid,2021–2024,Human / operation,customer interruption share,customer-hour share,pooled native customer counts across eight regions,1.2461764727359739,0.34622295767081207,-0.8999535150651619
+USA_NY_QUALIFIED,USA,New York · National Grid,2021–2024,Other / unresolved,customer interruption share,customer-hour share,pooled native customer counts across eight regions,17.38455971772016,7.66121138429153,-9.723348333428628
+USA_NY_QUALIFIED,USA,New York · National Grid,2021–2024,Other environment,customer interruption share,customer-hour share,pooled native customer counts across eight regions,24.736452704358094,14.913812720877802,-9.822639983480292
+USA_NY_QUALIFIED,USA,New York · National Grid,2021–2024,Planned,customer interruption share,customer-hour share,pooled native customer counts across eight regions,3.7665956931390974,1.2582877691467909,-2.5083079239923065
+USA_NY_QUALIFIED,USA,New York · National Grid,2021–2024,Weather,customer interruption share,customer-hour share,pooled native customer counts across eight regions,30.373710070511752,64.07538614845969,33.70167607794794
+BRA_AGGREGATE689,BRA,689 service areas in 21 Brazilian states,2021,Equipment / electrical,published interruption-record share,customer-hour share,same 689 areas; all 12 onset months; published record count versus customer-hours,55.38349896496146,38.61246590318919,-16.771033061772272
+BRA_AGGREGATE689,BRA,689 service areas in 21 Brazilian states,2021,Human / operation,published interruption-record share,customer-hour share,same 689 areas; all 12 onset months; published record count versus customer-hours,2.4815717308441485,0.6621653725195372,-1.8194063583246112
+BRA_AGGREGATE689,BRA,689 service areas in 21 Brazilian states,2021,Other / unresolved,published interruption-record share,customer-hour share,same 689 areas; all 12 onset months; published record count versus customer-hours,19.680245659331007,15.98563807085526,-3.6946075884757477
+BRA_AGGREGATE689,BRA,689 service areas in 21 Brazilian states,2021,Other environment,published interruption-record share,customer-hour share,same 689 areas; all 12 onset months; published record count versus customer-hours,17.753546248271753,35.080912445199104,17.32736619692735
+BRA_AGGREGATE689,BRA,689 service areas in 21 Brazilian states,2021,Planned,published interruption-record share,customer-hour share,same 689 areas; all 12 onset months; published record count versus customer-hours,4.70113739659163,9.65881820823691,4.957680811645281

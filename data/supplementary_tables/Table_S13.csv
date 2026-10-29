@@ -1,0 +1,8 @@
+Population,Quantity,Estimate,95% interval,Incidents,Dates
+All causes,Paired duration ratio,1.005,0.996 to 1.014,2661,363
+Weather,Paired duration ratio,0.990,0.976 to 1.004,254,109
+"Weather, multistage",Paired duration ratio,0.950,0.892 to 1.019,51,37
+"Weather, low voltage",Paired duration ratio,0.989,0.975 to 1.004,249,108
+Weather,Weighted duration gap (h),0.821,-0.207 to 2.336,254,109
+Weather,Within incident (h),-0.100,-0.271 to 0.018,254,109
+Weather,Across-incident allocation (h),0.921,-0.202 to 2.600,254,109

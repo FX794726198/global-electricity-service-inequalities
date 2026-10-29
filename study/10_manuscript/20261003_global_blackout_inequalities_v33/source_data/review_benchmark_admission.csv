@@ -1,0 +1,157 @@
+ISO3,label,year,saidi_h,saifi,admitted,reason
+ERI,Eritrea,2014,900.0,24.0,False,GDP unmatched in retained archive
+SSD,South Sudan,2014,1000.0,800.0,False,GDP unmatched in retained archive
+BDI,Burundi,2015,660.0,330.0,True,Paired positive benchmark and GDP
+MHL,Marshall Islands,2015,120.0,48.0,True,Paired positive benchmark and GDP
+LBY,Libya,2015,1883.4,606.0,True,Paired positive benchmark and GDP
+AFG,Afghanistan,2015,1825.0,620.0,True,Paired positive benchmark and GDP
+MLI,Mali,2015,168.0,62.5,True,Paired positive benchmark and GDP
+LBR,Liberia,2016,96.4,29.3,True,Paired positive benchmark and GDP
+ZWE,Zimbabwe,2017,243.59,21.65,True,Paired positive benchmark and GDP
+IRQ,Iraq,2017,2352.0,1008.0,True,Paired positive benchmark and GDP
+SDN,Sudan,2018,58.6,14.4,True,Paired positive benchmark and GDP
+BGR,Bulgaria,2019,6.15,5.01,True,Paired positive benchmark and GDP
+TON,Tonga,2019,12.31,9.2,True,Paired positive benchmark and GDP
+ALB,Albania,2019,33.46,22.0,True,Paired positive benchmark and GDP
+ZMB,Zambia,2019,51.22,4.91,True,Paired positive benchmark and GDP
+UKR,Ukraine,2019,2.71,1.57,True,Paired positive benchmark and GDP
+BTN,Bhutan,2019,7.08,2.88,True,Paired positive benchmark and GDP
+UGA,Uganda,2019,61.7,49.81,True,Paired positive benchmark and GDP
+ZAF,South Africa,2019,30.53,5.98,True,Paired positive benchmark and GDP
+TJK,Tajikistan,2019,2.17,3.0,True,Paired positive benchmark and GDP
+URY,Uruguay,2019,10.0,4.0,True,Paired positive benchmark and GDP
+BHS,"Bahamas, The",2019,6.47,6.27,True,Paired positive benchmark and GDP
+CAN,Canada,2019,0.98,1.48,True,Paired positive benchmark and GDP
+AGO,Angola,2019,12.79,8.5,True,Paired positive benchmark and GDP
+AUS,Australia,2019,1.0,0.6,True,Paired positive benchmark and GDP
+BRN,Brunei Darussalam,2019,0.37,0.33,True,Paired positive benchmark and GDP
+BLZ,Belize,2019,14.18,13.78,True,Paired positive benchmark and GDP
+BOL,Bolivia,2019,7.96,8.6,True,Paired positive benchmark and GDP
+VNM,Vietnam,2019,2.07,1.57,True,Paired positive benchmark and GDP
+TUR,Turkey,2019,44.69,19.53,True,Paired positive benchmark and GDP
+UZB,Uzbekistan,2019,0.22,0.08,True,Paired positive benchmark and GDP
+BHR,Bahrain,2019,0.88,0.72,True,Paired positive benchmark and GDP
+TWN,"Taiwan, China",2019,0.27,0.23,False,GDP unmatched in retained archive
+AUT,Austria,2019,0.63,0.61,True,Paired positive benchmark and GDP
+BRA,Brazil,2019,6.6383,3.7167,True,Paired positive benchmark and GDP
+VUT,Vanuatu,2019,7.28,5.14,True,Paired positive benchmark and GDP
+ARM,Armenia,2019,10.86,7.2,True,Paired positive benchmark and GDP
+TUN,Tunisia,2019,2.54,2.28,True,Paired positive benchmark and GDP
+BLR,Belarus,2019,0.51,0.48,True,Paired positive benchmark and GDP
+AZE,Azerbaijan,2019,0.86,0.96,True,Paired positive benchmark and GDP
+USA,United States,2019,1.28,0.378,True,Paired positive benchmark and GDP
+ARG,Argentina,2019,4.51,14.39,True,Paired positive benchmark and GDP
+BRB,Barbados,2019,3.16,6.01,True,Paired positive benchmark and GDP
+WSM,Samoa,2019,35.88,15.77,True,Paired positive benchmark and GDP
+TZA,Tanzania,2019,20.9,46.77,True,Paired positive benchmark and GDP
+ARE,United Arab Emirates,2019,0.25,0.24,True,Paired positive benchmark and GDP
+TTO,Trinidad and Tobago,2019,6.34,3.86,True,Paired positive benchmark and GDP
+BEL,Belgium,2019,0.41,0.4,True,Paired positive benchmark and GDP
+BIH,Bosnia and Herzegovina,2019,2.15,0.51,True,Paired positive benchmark and GDP
+XKX,Kosovo,2019,10.42,5.89,True,Paired positive benchmark and GDP
+ATG,Antigua and Barbuda,2019,1.5,2.12,True,Paired positive benchmark and GDP
+MAR,Morocco,2019,0.49,2.23,True,Paired positive benchmark and GDP
+CHE,Switzerland,2019,0.2,0.18,True,Paired positive benchmark and GDP
+NER,Niger,2019,165.0,288.0,True,Paired positive benchmark and GDP
+JAM,Jamaica,2019,27.13,10.71,True,Paired positive benchmark and GDP
+NIC,Nicaragua,2019,93.6,45.7,True,Paired positive benchmark and GDP
+ITA,Italy,2019,1.3,2.22,True,Paired positive benchmark and GDP
+ISR,Israel,2019,1.45,2.04,True,Paired positive benchmark and GDP
+NLD,Netherlands,2019,0.78,0.54,True,Paired positive benchmark and GDP
+ISL,Iceland,2019,0.63,0.41,True,Paired positive benchmark and GDP
+NOR,Norway,2019,1.5,1.3,True,Paired positive benchmark and GDP
+IRN,"Iran, Islamic Rep.",2019,7.0,5.3,True,Paired positive benchmark and GDP
+NZL,New Zealand,2019,3.77,2.14,True,Paired positive benchmark and GDP
+JOR,Jordan,2019,2.38,1.57,True,Paired positive benchmark and GDP
+IRL,Ireland,2019,0.8,0.57,True,Paired positive benchmark and GDP
+PAK,Pakistan,2019,89.5955,81.6455,True,Paired positive benchmark and GDP
+IND,India,2019,3.7158,2.3761,True,Paired positive benchmark and GDP
+PAN,Panama,2019,7.82,5.19,True,Paired positive benchmark and GDP
+IDN,Indonesia,2019,2.819,2.1778,True,Paired positive benchmark and GDP
+HUN,Hungary,2019,2.56,1.23,True,Paired positive benchmark and GDP
+PER,Peru,2019,6.39,1.73,True,Paired positive benchmark and GDP
+HRV,Croatia,2019,3.3,1.58,True,Paired positive benchmark and GDP
+PHL,Philippines,2019,3.57,2.23,True,Paired positive benchmark and GDP
+HND,Honduras,2019,32.52,23.39,True,Paired positive benchmark and GDP
+PLW,Palau,2019,615.7,8.9,True,Paired positive benchmark and GDP
+OMN,Oman,2019,1.77,1.13,True,Paired positive benchmark and GDP
+HKG,"Hong Kong, China",2019,0.46,0.19,True,Paired positive benchmark and GDP
+NAM,Namibia,2019,0.49,0.18,True,Paired positive benchmark and GDP
+KAZ,Kazakhstan,2019,0.96,0.91,True,Paired positive benchmark and GDP
+LVA,Latvia,2019,0.99,0.42,True,Paired positive benchmark and GDP
+MDA,Moldova,2019,1.33,1.5,True,Paired positive benchmark and GDP
+LUX,Luxembourg,2019,0.36,0.26,True,Paired positive benchmark and GDP
+MDV,Maldives,2019,168.02,2.52,True,Paired positive benchmark and GDP
+LTU,Lithuania,2019,0.4,0.4,True,Paired positive benchmark and GDP
+MEX,Mexico,2019,0.5841,0.8516,True,Paired positive benchmark and GDP
+LKA,Sri Lanka,2019,4.0,2.98,True,Paired positive benchmark and GDP
+LIE,Liechtenstein,2019,0.08,0.01,False,GDP unmatched in retained archive
+MKD,North Macedonia,2019,7.46,14.18,True,Paired positive benchmark and GDP
+LCA,St. Lucia,2019,0.18,0.34,True,Paired positive benchmark and GDP
+JPN,Japan,2019,0.0375,0.024,True,Paired positive benchmark and GDP
+LAO,Lao PDR,2019,3.96,22.7,True,Paired positive benchmark and GDP
+MMR,Myanmar,2019,30.28,26.42,True,Paired positive benchmark and GDP
+MNE,Montenegro,2019,40.26,25.78,True,Paired positive benchmark and GDP
+KOR,"Korea, Rep.",2019,0.04,0.05,True,Paired positive benchmark and GDP
+MNG,Mongolia,2019,62.0,15.0,True,Paired positive benchmark and GDP
+MOZ,Mozambique,2019,80.0,30.0,True,Paired positive benchmark and GDP
+KHM,Cambodia,2019,20.78,15.35,True,Paired positive benchmark and GDP
+KGZ,Kyrgyz Republic,2019,11.9,3.8,True,Paired positive benchmark and GDP
+MUS,Mauritius,2019,1.61,0.85,True,Paired positive benchmark and GDP
+KEN,Kenya,2019,12.0,6.9,True,Paired positive benchmark and GDP
+MYS,Malaysia,2019,0.48,0.49,True,Paired positive benchmark and GDP
+MLT,Malta,2019,0.77,1.83,True,Paired positive benchmark and GDP
+GUY,Guyana,2019,113.0,106.0,True,Paired positive benchmark and GDP
+PNG,Papua New Guinea,2019,940.0,500.0,True,Paired positive benchmark and GDP
+GTM,Guatemala,2019,3.96,2.7,True,Paired positive benchmark and GDP
+SLB,Solomon Islands,2019,3.1,1.45,True,Paired positive benchmark and GDP
+SLE,Sierra Leone,2019,62.12,24.77,True,Paired positive benchmark and GDP
+DNK,Denmark,2019,0.5,0.5,True,Paired positive benchmark and GDP
+DMA,Dominica,2019,0.58,0.29,True,Paired positive benchmark and GDP
+SLV,El Salvador,2019,5.83,3.23,True,Paired positive benchmark and GDP
+DEU,Germany,2019,0.25,0.3,True,Paired positive benchmark and GDP
+SMR,San Marino,2019,0.6,4.67,True,Paired positive benchmark and GDP
+CZE,Czech Republic,2019,0.48,0.35,True,Paired positive benchmark and GDP
+SRB,Serbia,2019,3.85,3.11,True,Paired positive benchmark and GDP
+CYP,Cyprus,2019,0.55,0.22,True,Paired positive benchmark and GDP
+DOM,Dominican Republic,2019,6.64,6.9,True,Paired positive benchmark and GDP
+CRI,Costa Rica,2019,0.54,0.21,True,Paired positive benchmark and GDP
+CPV,Cabo Verde,2019,18.3,13.1,True,Paired positive benchmark and GDP
+SVN,Slovenia,2019,0.13,0.27,True,Paired positive benchmark and GDP
+COL,Colombia,2019,4.5,3.8,True,Paired positive benchmark and GDP
+CIV,Côte d'Ivoire,2019,14.42,18.0,True,Paired positive benchmark and GDP
+SWE,Sweden,2019,0.61,0.66,True,Paired positive benchmark and GDP
+SWZ,Eswatini,2019,49.44,28.93,True,Paired positive benchmark and GDP
+CHN,China,2019,0.896,0.188,True,Paired positive benchmark and GDP
+CHL,Chile,2019,2.9,1.47,True,Paired positive benchmark and GDP
+SYC,Seychelles,2019,0.8,0.15,True,Paired positive benchmark and GDP
+TGO,Togo,2019,81.0,36.0,True,Paired positive benchmark and GDP
+SVK,Slovak Republic,2019,0.88,0.68,True,Paired positive benchmark and GDP
+SGP,Singapore,2019,0.06,0.11,True,Paired positive benchmark and GDP
+DZA,Algeria,2019,4.24,9.85,True,Paired positive benchmark and GDP
+SEN,Senegal,2019,17.38,19.03,True,Paired positive benchmark and GDP
+POL,Poland,2019,1.13,1.09,True,Paired positive benchmark and GDP
+GRD,Grenada,2019,6.36,6.61,True,Paired positive benchmark and GDP
+PRI,Puerto Rico,2019,14.35,4.83,True,Paired positive benchmark and GDP
+GRC,Greece,2019,1.57,1.44,True,Paired positive benchmark and GDP
+GHA,Ghana,2019,55.94,36.28,True,Paired positive benchmark and GDP
+PRT,Portugal,2019,0.54,0.61,True,Paired positive benchmark and GDP
+GEO,Georgia,2019,4.69,3.69,True,Paired positive benchmark and GDP
+PRY,Paraguay,2019,21.9,22.8,True,Paired positive benchmark and GDP
+GBR,United Kingdom,2019,0.28,0.14,True,Paired positive benchmark and GDP
+PSE,West Bank and Gaza,2019,5.18,9.48,True,Paired positive benchmark and GDP
+GAB,Gabon,2019,47.52,52.0,True,Paired positive benchmark and GDP
+FRA,France,2019,0.35,0.29,True,Paired positive benchmark and GDP
+QAT,Qatar,2019,0.07,0.04,True,Paired positive benchmark and GDP
+FJI,Fiji,2019,5.0,4.74,True,Paired positive benchmark and GDP
+ROU,Romania,2019,3.08,3.35,True,Paired positive benchmark and GDP
+FIN,Finland,2019,0.2,0.16,True,Paired positive benchmark and GDP
+EST,Estonia,2019,0.3,0.18,True,Paired positive benchmark and GDP
+RUS,Russian Federation,2019,0.182,0.053,True,Paired positive benchmark and GDP
+RWA,Rwanda,2019,2.8,10.4,True,Paired positive benchmark and GDP
+ESP,Spain,2019,0.51,0.71,True,Paired positive benchmark and GDP
+SAU,Saudi Arabia,2019,1.98,1.56,True,Paired positive benchmark and GDP
+EGY,"Egypt, Arab Rep.",2019,1.99,3.0,True,Paired positive benchmark and GDP
+ECU,Ecuador,2019,2.12,3.3,True,Paired positive benchmark and GDP
+THA,Thailand,2019,0.38,0.72,True,Paired positive benchmark and GDP
+KWT,Kuwait,2019,0.1,0.42,True,Paired positive benchmark and GDP

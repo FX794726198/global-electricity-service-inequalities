@@ -1,0 +1,13 @@
+Condition,Adjustment,Areas,Frequency (%),Annual hours (%),Mean duration (%)
+Internal unplanned,Unadjusted,703,"+20.6 (+14.9, +26.7)","+20.0 (+3.9, +38.5)","-0.5 (-11.4, +11.7)"
+Internal unplanned,Density adjusted,703,"+6.4 (+0.4, +12.8)","+6.3 (-6.3, +20.7)","-0.1 (-8.7, +9.4)"
+Internal unplanned,State + density,703,"+3.3 (-7.8, +15.9)","+16.5 (-5.3, +43.5)","+12.8 (+1.6, +25.2)"
+Ordinary unplanned,Unadjusted,703,"+21.5 (+15.8, +27.4)","+32.3 (+23.4, +41.8)","+8.9 (+3.2, +15.0)"
+Ordinary unplanned,Density adjusted,703,"+3.9 (-2.1, +10.3)","+9.1 (-0.1, +19.2)","+5.0 (+0.0, +10.2)"
+Ordinary unplanned,State + density,703,"-4.3 (-13.7, +6.2)","-4.6 (-19.9, +13.6)","-0.3 (-7.5, +7.4)"
+Emergency / critical,Unadjusted,703,"+19.0 (+5.5, +34.3)","+8.8 (-16.2, +41.3)","-8.6 (-23.2, +8.8)"
+Emergency / critical,Density adjusted,703,"+11.5 (-2.4, +27.4)","+2.7 (-18.3, +29.1)","-7.9 (-19.3, +5.1)"
+Emergency / critical,State + density,703,"+19.7 (+2.8, +39.3)","+45.6 (+15.1, +84.2)","+21.6 (+7.5, +37.6)"
+All ten strata,Unadjusted,100,"+48.1 (+23.8, +77.2)","+64.1 (+46.8, +83.3)","+10.8 (+2.6, +19.5)"
+All ten strata,Density adjusted,100,"+13.7 (-0.9, +30.4)","+7.7 (-9.8, +28.7)","-5.3 (-17.6, +8.9)"
+All ten strata,State + density,100,"+2.8 (-13.6, +22.3)","+0.6 (-15.7, +20.1)","-2.1 (-12.6, +9.7)"

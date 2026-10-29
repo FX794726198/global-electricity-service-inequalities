@@ -1,0 +1,80 @@
+cause_native,cause_group,note
+3. Şahısların Verdiği Arıza/Zarar,Third-party / customer damage,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+3. Şahısların Verdiği Zarar,Third-party / customer damage,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+AG Dağıtım Panosu İç Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+AG Kablo Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+AG Kablo Başlığı Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+AG Pano Arızası (Pano Arızaları/Yangın),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+AG Pano Şalter Arızası (TMŞ Arızası),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Abone Bağlantı Hattı Arızası (Branşman),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Abone Bağlantısı için Kesinti,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Abone Kablo Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Alpek (AER) Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Anahtarlama Düzeni Arızası (Sigorta vb.),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Aydınlatma Çalışması,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Ayırıcı Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Ayırıcı Arızası (Seksiyoner),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Ağaç Değmesi,Vegetation contact,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Aşırı Yüklenme,Overload,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+"Aşırı Yüklenme-Şalter, Sigorta",Overload,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Bakım,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Bakım Onarım Çalışması,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Binanın Fiziki Durumundaki Eksiklikler,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Borçtan Açma - Kesme,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Buz Yükü,Ice loading,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Canlı Çarpılması,Animals,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+DC Sistem,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Dağıtım-Güç Trafosu,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Direk Kırılması/Yıkılması,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Emniyet Amaçlı Kesinti,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Enerjili Şebekeye Yakın Çalışma,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Fiziki İrtibat,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Gerilim / Ölçü Hücresi / Devresi Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Geçici Arıza,Temporary / unspecified fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Geçit İzolatörü Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Hatta Yabancı Cisim Teması,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Hava Muhalefeti (Buz Yükü),Ice loading,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Hava Muhalefeti (Rüzgar/Yıldırım),Wind / lightning,Source combines wind and lightning; preserve this joint category.
+Havai Hat Arızaları,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Hücre Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Hırsızlık Sonucu Arıza/Zarar,Third-party / customer damage,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Jumper/Sıkıbağ/Klemens Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kablo Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kablo Başlığı,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kaide Arızası/Box Tahribatı,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kesici Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Konsol/Travers Kırılması/Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Koruma Rölesi Arızası (Bucholz/Termik),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Koruma Sistemi (Röle/Kumanda Panosu),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kullanıcıların Verdiği Arıza/Zarar,Third-party / customer damage,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kullanıcıların Verdiği Zarar,Third-party / customer damage,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kuş Harici Hayvanların Etkisi,Animals,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Kuş Çarpılması,Animals,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Malzemelerin Aşınması (Korozyon),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Manevra,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Manevra-Arızai Durum,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Manevra-Planlı Çalışma Manevra,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Modüler Hücre Anahtar/Kontrol Düzenleri,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+OG Ayırıcı Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+OG Kablo Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+OG Kablo Başlığı Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Parafudr,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Parafudr Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Röle Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Sehim Bozukluğu,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+"Sigortalı Yük Ayırıcı Arızası (DSYA,SYA)",Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Tesis Çalışması,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Topraklama,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Trafo Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Trafo Aşırı Yüklenme,Overload,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Trafo Buşing Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Trafo Yağ Kaçağı,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Tüzel Kişi Talebi ve Acil Durum,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Yangın Sonucu Zarar,"Fire, unspecified origin",Source does not distinguish wildfire from other fires.
+Yatırım,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Yeni Bağlantı,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Ölçü Trafosu (Akım Gerilim),Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Önlenemeyecek Arızalar,Temporary / unspecified fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+İletken Kopması,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+İzolatör Arızası,Equipment / network fault,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.
+Şebekeden Afiş vb Sökülmesi,Operations / safety,Reported cause or failure mode; equipment and operational categories are not all anthropogenic triggers.

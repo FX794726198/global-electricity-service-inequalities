@@ -1,0 +1,8 @@
+# Optional dependencies for provider-level source-processing scripts.
+# These scripts also need the original provider downloads; see docs/DATA.md.
+-r requirements.txt
+requests
+pyreadstat
+duckdb
+scikit-learn
+joblib

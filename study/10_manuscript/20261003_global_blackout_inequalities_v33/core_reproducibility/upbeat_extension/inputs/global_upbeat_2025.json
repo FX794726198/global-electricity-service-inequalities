@@ -1,0 +1,19 @@
+{
+  "source_id": "global_upbeat_2025",
+  "country_iso3": "GLOBAL",
+  "url": "https://utilityperformance.energydata.info/data/upbeat_global_data_2025.xlsx",
+  "expected": "xlsx",
+  "source_page": "https://utilityperformance.energydata.info/",
+  "source_role": "utility_performance_bulk",
+  "retrieved_utc": "2026-09-27T08:24:42.661837+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "effective_url": "https://utilityperformance.energydata.info/data/upbeat_global_data_2025.xlsx",
+  "content_type": "application/octet-stream",
+  "last_modified": "Thu, 11 Sep 2025 16:40:41 GMT",
+  "local_path": "raw/GLOBAL/global_upbeat_2025.xlsx",
+  "bytes": 5829688,
+  "sha256": "c00423af2a4fa2b712fb1132c94569d0f2e75f0b7f0a1882e488e6f636b64569",
+  "format": "xlsx",
+  "numeric_status": "not_extracted"
+}

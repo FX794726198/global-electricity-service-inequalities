@@ -1,0 +1,5 @@
+weighting,contrast,estimate,ci_low,ci_high,valid_draws,unit,scope
+area_equal,baseline_H_ordinary_minus_emergency,-0.9961223955746004,-8.179743934190897,4.034070103941709,4000,hours per customer-year,IND + INE + INC only
+area_equal,gap_H_ordinary_minus_emergency,10.165225964755598,-0.11591431780017952,24.234192337023178,4000,hours per customer-year,IND + INE + INC only
+municipality_equal,baseline_H_ordinary_minus_emergency,1.7400525084471692,-0.938326995053442,4.092276862053419,4000,hours per customer-year,IND + INE + INC only
+municipality_equal,gap_H_ordinary_minus_emergency,4.490457771814668,-0.7325448311594444,9.348116609488677,4000,hours per customer-year,IND + INE + INC only

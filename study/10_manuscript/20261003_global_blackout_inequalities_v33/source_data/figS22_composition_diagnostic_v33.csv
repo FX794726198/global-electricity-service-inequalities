@@ -1,0 +1,29 @@
+profile_id,label,composition_shift_pct,leading_occurrence,leading_burden,leader_changed,consequence_basis
+BGD_PGCB_2024_2025,Bangladesh · assets,4.0089451665628575,Other / unresolved,Other / unresolved,False,Asset / record hours
+BTN_TRANSMISSION_2023,Bhutan · transmission,16.888996626040743,Other / unresolved,Equipment / electrical,True,Asset / record hours
+BRA_AGGREGATE2623,"Brazil · 2,623 areas",15.176673893907568,Equipment / electrical,Other environment,True,Customer time
+CHN_NEA_LINES,China · lines,10.395089489348004,Weather,Weather,False,Asset / record hours
+NORDIC_DNK,Denmark,49.941729323308266,Other / unresolved,Human / operation,True,Energy not supplied
+NORDIC_EST,Estonia,27.350091647028016,Other / unresolved,Equipment / electrical,True,Energy not supplied
+ETH_BEDELE7,Ethiopia · seven feeders,0.0715010126138953,Other / unresolved,Other / unresolved,False,Asset / record hours
+FIN_DISTRIBUTION,Finland · distribution,17.174977775898284,Weather,Weather,False,Customer time
+NORDIC_FIN,Finland · transmission,37.75,Other / unresolved,Other / unresolved,False,Energy not supplied
+GIN_EDG2016,Guinea · stations,24.79026196583898,Planned,Supply constraint,True,Energy not supplied
+NORDIC_ISL,Iceland,18.593441768712548,Other / unresolved,Other / unresolved,False,Energy not supplied
+IND_DELHI_UNPLANNED_ROWS,India · Delhi,0.575803892155793,Other / unresolved,Other / unresolved,False,Asset / record hours
+JAM_JPS,Jamaica,15.667879106497894,Equipment / electrical,Other environment,True,Customer time
+NORDIC_LVA,Latvia,61.69143576826197,Other / unresolved,Human / operation,True,Energy not supplied
+NORDIC_LTU,Lithuania,48.87218045112782,Other / unresolved,Equipment / electrical,True,Energy not supplied
+NZL_QUALIFIED21,New Zealand,17.908138942408605,Other / unresolved,Other / unresolved,False,Customer time
+NERC_NORTH_AMERICA,North America · lines,30.159802443027825,Other / unresolved,Equipment / electrical,True,Asset / record hours
+NORDIC_NOR,Norway,28.69861220214716,Other environment,Equipment / electrical,True,Energy not supplied
+PHL_CAGAYAN_DE_ORO_2015_2022,Philippines · Cagayan de Oro,13.759273762193414,Other / unresolved,Supply constraint,True,Customer time
+RWA_REG,Rwanda,21.56950657461768,Equipment / electrical,Equipment / electrical,False,Energy not supplied
+SEN_SENELEC,Senegal,12.629497359405214,Other / unresolved,Other / unresolved,False,Energy not supplied
+NORDIC_SWE,Sweden,14.336339602122512,Other / unresolved,Other / unresolved,False,Energy not supplied
+TUR_BASKENT_2025,Türkiye · Ankara region,19.960144187412013,Human / operation,Equipment / electrical,True,Customer time
+TUR_SEDAS_2025,Türkiye · Bolu–Sakarya,14.534034918598774,Equipment / electrical,Equipment / electrical,False,Customer time
+TUR_ULUDAG_2025,Türkiye · Marmara,13.29948050564892,Human / operation,Equipment / electrical,True,Customer time
+TUR_TOROSLAR_2025,Türkiye · Mediterranean,17.519862479007003,Human / operation,Equipment / electrical,True,Customer time
+GBR_SSEN2,UK · two regions,36.08965719302867,Other / unresolved,Other / unresolved,False,Customer time
+USA_NY_QUALIFIED,United States · New York,33.70167607794794,Weather,Weather,False,Customer time

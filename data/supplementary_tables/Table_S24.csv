@@ -1,0 +1,9 @@
+Quantity,Estimate,95% interval,Unit
+Low-poverty mean,2.898,2.732 to 3.072,Hours
+High-poverty mean,3.236,2.851 to 3.632,Hours
+High minus low,0.338,-0.009 to 0.714,Hours
+Within-class,0.224,-0.124 to 0.598,Hours
+Class composition,0.114,0.037 to 0.179,Hours
+Low-poverty weather share,8.570,6.844 to 10.514,Percent
+High-poverty weather share,11.638,8.962 to 14.197,Percent
+Weather share gap,3.067,0.912 to 4.739,Percentage points

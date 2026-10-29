@@ -1,0 +1,41 @@
+Profile,Period,Occurrence / consequence,Aggregation
+Denmark transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Estonia transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Finland transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Iceland transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Lithuania transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Latvia transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Norway transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Sweden transmission,2018–2021,disturbance share / ENS share,equal-year mean of published shares
+Finnish participating distribution,2010–2019,customer interruption share / annual interruption-hour share,equal-year mean; planned retained
+Rwanda · REG,FY2019/20–2022/23,reported outages / published ENS MWh,pooled native cause totals; planned retained
+Senegal · Senelec,2018–2023,network interruption records / published ENS MWh,selected publication vintage per year; same listed causes
+Jamaica · JPS,2018–2021,customer interruption share / annual interruption-hour share,equal-year mean; stable nine-cause taxonomy
+New York · National Grid,2021–2024,customer interruption share / customer-hour share,pooled native customer counts across eight regions
+New Zealand · 21 networks,2023–2025,equal-network customer-frequency share / annual-hour share,Shares of mean annual indices; fuller paired native causes; unchanged Class C residual
+"Brazil · 2,623 service areas",2021,Published interruption records / customer-hours interrupted,Same complete-year mapped population; independent of economic-data availability
+China · overhead lines ≥220 kV,2016–2024,Unplanned line-outage count / cumulative line-outage hours,Pooled same nine-year native totals; overall line tables only
+UK · SSEN regions,2016–2025,published incident-record share / customer-hour share,"Same 267,861 rows with joint nonnegative customer counts/minutes; zero-zero rows retained"
+Ethiopia · feeders,2006–2007 E.C.,feeder interruption count / feeder-hours,Same 14 feeder-year rows; unresolved fault/planned partition
+Guinea · stations,2016,station-frequency index / ENS MWh,Same-year station-frequency and reported energy totals
+N. America · lines,2021–2025,sustained AC circuit outage share by sustaining cause / AC circuit asset-hour share by sustaining cause,Aggregate footprint once; sustaining cause for both measures
+Bangladesh · transmission,2024–2025,qualified equipment records / asset-hours,Same 24 acquired months; qualified unscheduled/emergency rows
+India · Delhi TPDDL,2024,unplanned report rows / record-duration hours,"All twelve monthly reports; 24,096 source-designated unplanned rows"
+Bhutan · transmission,2023,transmission interruptions / asset-outage hours,Paired reported chart counts and hours; mixed external causes unresolved
+Türkiye · Ankara–Black Sea,2025 reporting year,initial-stage customer interruptions / customer-hours,"Disjoint settlement/voltage cells; initial counts, all-stage hours"
+Türkiye · eastern Mediterranean,2025 reporting year,initial-stage customer interruptions / customer-hours,"Disjoint settlement/voltage cells; initial counts, all-stage hours"
+Türkiye · southern Marmara,2025 reporting year,initial-stage customer interruptions / customer-hours,Annual cells; 0.76% hour reconciliation residual
+Türkiye · Bolu–Sakarya,2025,source-accounted customer interruptions / customer-hours,All-voltage population once per settlement; native accounting
+Philippines · Cagayan de Oro,2015–2022,annual interruptions per customer (equal-year mean) / annual hours per customer (equal-year mean),Shares of equal-year mean annual indices; same eight years and four native classes
+Japan · Tohoku †,5 Sep–5 Oct 2026,restored locality groups / published interval-hours,"153 groups; frozen snapshot; onset to published restoration, without customer multiplication"
+Italy · HV delivery sites,2008–2022 observed years,HV site interruption rows / site restoration-hours,"40,527 native long, short and transient rows; same count and duration population"
+Peru · Ayacucho,2016 through November,cause-specific SAIFI / SAIDI hours,Same three components of unplanned manageable transmission-origin interruptions
+Australia · 13 NEM networks,FY2023–2024,cause-specific SAIFI / SAIDI minutes,Published sustained (>3-min) components; planned and source-excluded events retained
+Switzerland · 91 DSOs,2024,cause-specific SAIFI / SAIDI minutes,Rounded native components; planned retained; 87% of delivered electricity covered
+Portugal · REN transmission,2023–2024,delivery-point interruptions / ENS MWh,14 interruptions; 86 then 88 supply points; short and long events; ENF1 only
+Germany · low voltage,2024,affected-customer counts / customer-hours,"146,800 pure-LV report rows; cumulative customer-minutes; planned and force majeure retained"
+India · Delhi BRPL †,December 2025,unplanned report rows / record-duration hours,"Same 265 rows; ENS is an alternative outcome, not an independent profile"
+Thailand · EGAT *,2024,forced-outage counts / unavailable,45 forced outages; no cause-specific time or ENS
+Malaysia · Peninsular *,2020,unscheduled interruption counts / unavailable,"63,801 events; high voltage excluded; native interruption types retained"
+Malaysia · Sabah *,2020,unscheduled interruption counts / unavailable,"18,675 events; full native partition; no cause-specific time"
+Malaysia · Sarawak *,2020,rounded occurrence shares / unavailable,Published percentages; no raw counts inferred and no cause-specific time

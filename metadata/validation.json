@@ -1,0 +1,378 @@
+{
+  "status": "pass",
+  "scope": "Numerical package reproduction from processed inputs, not a fresh raw-provider audit",
+  "python": "3.12.14",
+  "platform": "Darwin",
+  "machine": "arm64",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "statsmodels": "0.15.0",
+    "matplotlib": "3.9.4",
+    "geopandas": "1.1.2",
+    "shapely": "2.1.2",
+    "pyproj": "3.7.2",
+    "pyarrow": "26.0.0",
+    "Pillow": "12.3.0",
+    "tabulate": "0.10.0",
+    "resvg-py": "0.5.0"
+  },
+  "execution_steps": {
+    "core_checks": {
+      "returncode": 0,
+      "seconds": 1.2,
+      "log": "logs/core_checks.log"
+    },
+    "historical": {
+      "returncode": 0,
+      "seconds": 14.47,
+      "log": "logs/historical.log"
+    },
+    "regional": {
+      "returncode": 0,
+      "seconds": 0.47,
+      "log": "logs/regional.log"
+    },
+    "regional_checks": {
+      "returncode": 0,
+      "seconds": 0.27,
+      "log": "logs/regional_checks.log"
+    },
+    "turkiye_checks": {
+      "returncode": 0,
+      "seconds": 0.24,
+      "log": "logs/turkiye_checks.log"
+    },
+    "recent": {
+      "returncode": 0,
+      "seconds": 1.66,
+      "log": "logs/recent.log"
+    },
+    "priorities": {
+      "returncode": 0,
+      "seconds": 1.04,
+      "log": "logs/priorities.log"
+    },
+    "brazil_poverty": {
+      "returncode": 0,
+      "seconds": 2.56,
+      "log": "logs/brazil_poverty.log"
+    },
+    "cause_profiles": {
+      "returncode": 0,
+      "seconds": 0.28,
+      "log": "logs/cause_profiles.log"
+    },
+    "figure1": {
+      "returncode": 0,
+      "seconds": 3.75,
+      "log": "logs/figure1.log"
+    },
+    "figure2": {
+      "returncode": 0,
+      "seconds": 12.12,
+      "log": "logs/figure2.log"
+    },
+    "figure3": {
+      "returncode": 0,
+      "seconds": 3.72,
+      "log": "logs/figure3.log"
+    },
+    "figure4": {
+      "returncode": 0,
+      "seconds": 3.28,
+      "log": "logs/figure4.log"
+    },
+    "figureS6": {
+      "returncode": 0,
+      "seconds": 0.66,
+      "log": "logs/figureS6.log"
+    },
+    "figureS8": {
+      "returncode": 0,
+      "seconds": 3.78,
+      "log": "logs/figureS8.log"
+    },
+    "figuresS1_S2_S4": {
+      "returncode": 0,
+      "seconds": 5.16,
+      "log": "logs/figuresS1_S2_S4.log"
+    },
+    "figureS3": {
+      "returncode": 0,
+      "seconds": 4.24,
+      "log": "logs/figureS3.log"
+    },
+    "figureS5": {
+      "returncode": 0,
+      "seconds": 0.79,
+      "log": "logs/figureS5.log"
+    },
+    "figureS7": {
+      "returncode": 0,
+      "seconds": 4.25,
+      "log": "logs/figureS7.log"
+    },
+    "figureS11": {
+      "returncode": 0,
+      "seconds": 1.31,
+      "log": "logs/figureS11.log"
+    },
+    "figureS12": {
+      "returncode": 0,
+      "seconds": 1.39,
+      "log": "logs/figureS12.log"
+    },
+    "figureS13": {
+      "returncode": 0,
+      "seconds": 1.43,
+      "log": "logs/figureS13.log"
+    },
+    "figureS14": {
+      "returncode": 0,
+      "seconds": 2.44,
+      "log": "logs/figureS14.log"
+    },
+    "figuresS16_S17": {
+      "returncode": 0,
+      "seconds": 4.48,
+      "log": "logs/figuresS16_S17.log"
+    },
+    "figureS18": {
+      "returncode": 0,
+      "seconds": 3.78,
+      "log": "logs/figureS18.log"
+    },
+    "figureS9": {
+      "returncode": 0,
+      "seconds": 5.6,
+      "log": "logs/figureS9.log"
+    },
+    "figureS10": {
+      "returncode": 0,
+      "seconds": 1.33,
+      "log": "logs/figureS10.log"
+    },
+    "figureS15": {
+      "returncode": 0,
+      "seconds": 6.23,
+      "log": "logs/figureS15.log"
+    }
+  },
+  "frozen_table_comparisons": [
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v33/source_data/gradient_v31_absolute_partitions.csv",
+      "rows": 25,
+      "columns": 9
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v33/source_data/gradient_v31_benchmark_inputs.csv",
+      "rows": 152,
+      "columns": 26
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v33/source_data/gradient_v31_group_estimates.csv",
+      "rows": 12,
+      "columns": 9
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v33/source_data/gradient_v31_shared_draw_contrasts.csv",
+      "rows": 17,
+      "columns": 7
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_aligned_class_estimates.csv",
+      "rows": 6,
+      "columns": 32
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_area_context.csv",
+      "rows": 703,
+      "columns": 76
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_area_metrics.csv",
+      "rows": 2109,
+      "columns": 10
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_class_gap_covariance.csv",
+      "rows": 468,
+      "columns": 6
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_class_priority_contrasts.csv",
+      "rows": 4,
+      "columns": 8
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_fine_area_records.csv",
+      "rows": 9842,
+      "columns": 12
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_gap_components.csv",
+      "rows": 216,
+      "columns": 9
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_group_summary.csv",
+      "rows": 180,
+      "columns": 24
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_group_support.csv",
+      "rows": 4,
+      "columns": 10
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_native_stratum_coverage.csv",
+      "rows": 10,
+      "columns": 4
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_native_stratum_support.csv",
+      "rows": 7030,
+      "columns": 8
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_outcome_descriptives.csv",
+      "rows": 36,
+      "columns": 13
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/poverty_priority_priority_summary.csv",
+      "rows": 36,
+      "columns": 62
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/priority_class_estimates.csv",
+      "rows": 41,
+      "columns": 35
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/priority_overall_weight_sensitivity.csv",
+      "rows": 328,
+      "columns": 11
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/priority_paired_inputs.csv",
+      "rows": 3513,
+      "columns": 13
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/priority_pairwise_ranking.csv",
+      "rows": 282,
+      "columns": 13
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/priority_profile_summary.csv",
+      "rows": 7,
+      "columns": 49
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_admitted_source_years.csv",
+      "rows": 95,
+      "columns": 21
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_common_country_years.csv",
+      "rows": 48,
+      "columns": 12
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_country_economic_gradients.csv",
+      "rows": 32,
+      "columns": 16
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_country_year_available.csv",
+      "rows": 70,
+      "columns": 11
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_figS18_panel_a.csv",
+      "rows": 6,
+      "columns": 16
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_figS18_panel_b.csv",
+      "rows": 6,
+      "columns": 43
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_fixed_cohort_changes.csv",
+      "rows": 20,
+      "columns": 7
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_quartile_group_means.csv",
+      "rows": 52,
+      "columns": 10
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_source_row_admission.csv",
+      "rows": 432,
+      "columns": 45
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_strict_fixed_country_years.csv",
+      "rows": 45,
+      "columns": 12
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_unbalanced31_original_estimator.csv",
+      "rows": 31,
+      "columns": 8
+    },
+    {
+      "path": "10_manuscript/20261003_global_blackout_inequalities_v37/source_data/recent_yearly_gap_components.csv",
+      "rows": 13,
+      "columns": 43
+    },
+    {
+      "path": "10_manuscript/20261009_global_blackout_inequalities_v40/source_data/fig2_profiles.csv",
+      "rows": 40,
+      "columns": 56
+    },
+    {
+      "path": "10_manuscript/20261009_global_blackout_inequalities_v40/source_data/fig2_shares.csv",
+      "rows": 320,
+      "columns": 58
+    }
+  ],
+  "table_tolerance": {
+    "rtol": 1e-09,
+    "atol": 1e-08
+  },
+  "figures_verified": [
+    "Figure1",
+    "Figure2",
+    "Figure3",
+    "Figure4",
+    "FigureS6",
+    "FigureS8",
+    "FigureS1",
+    "FigureS2",
+    "FigureS3",
+    "FigureS4",
+    "FigureS5",
+    "FigureS7",
+    "FigureS9",
+    "FigureS10",
+    "FigureS11",
+    "FigureS12",
+    "FigureS13",
+    "FigureS14",
+    "FigureS15",
+    "FigureS16",
+    "FigureS17",
+    "FigureS18"
+  ],
+  "cause_profiles": 40,
+  "paired_cause_profiles": 36,
+  "recent_countries": 31,
+  "brazil_service_areas": 703,
+  "brazil_municipalities": 275
+}

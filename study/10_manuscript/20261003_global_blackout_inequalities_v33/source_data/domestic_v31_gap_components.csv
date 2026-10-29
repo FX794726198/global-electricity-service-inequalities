@@ -1,0 +1,22 @@
+country,comparison,component,hours,lower,upper,period,n_units,n_low,n_high
+Brazil,Lowest minus highest economic quartile,Total,10.1254910835849,3.439741537392657,18.145731489302708,2021,814.0,138.0,283.0
+Brazil,Lowest minus highest economic quartile,Frequency,6.5478666790838345,1.1133018636627718,12.4398514804182,2021,814.0,138.0,283.0
+Brazil,Lowest minus highest economic quartile,Duration,3.5776244045010652,0.2048914336651516,7.430315305159841,2021,814.0,138.0,283.0
+New Zealand,Lowest minus highest economic quartile,Total,5.137556767185889,1.4111029459545548,9.305398689281231,2023–2025,21.0,6.0,5.0
+New Zealand,Lowest minus highest economic quartile,Frequency,4.135887197718077,1.590478469534769,6.961490433107221,2023–2025,21.0,6.0,5.0
+New Zealand,Lowest minus highest economic quartile,Duration,1.001669569467812,-0.4769855806244378,2.8262447511693836,2023–2025,21.0,6.0,5.0
+United States,Lowest minus highest economic quartile,Total,2.197967979387266,-0.7653664898041519,5.557604925596219,2013–2024,49.0,13.0,12.0
+United States,Lowest minus highest economic quartile,Frequency,2.0414817940922365,0.048204092554399,4.129185430129413,2013–2024,49.0,13.0,12.0
+United States,Lowest minus highest economic quartile,Duration,0.1564861852950309,-1.8599295195601069,2.1980383252905296,2013–2024,49.0,13.0,12.0
+Türkiye,Ankara–western Black Sea rural minus urban,Total,35.09488851759324,,,2025,,544870.0,3744639.0
+Türkiye,Ankara–western Black Sea rural minus urban,Frequency,33.99541841704264,,,2025,,544870.0,3744639.0
+Türkiye,Ankara–western Black Sea rural minus urban,Duration,1.099470100550599,,,2025,,544870.0,3744639.0
+Türkiye,Bolu–Sakarya rural minus urban,Total,19.39281812719082,,,2025,,156666.0,1973839.0
+Türkiye,Bolu–Sakarya rural minus urban,Frequency,17.800972351480862,,,2025,,156666.0,1973839.0
+Türkiye,Bolu–Sakarya rural minus urban,Duration,1.591845775709957,,,2025,,156666.0,1973839.0
+Türkiye,Southern Marmara rural minus urban,Total,17.557100000000002,,,2025,,346738.0,3143187.0
+Türkiye,Southern Marmara rural minus urban,Frequency,12.59092766700405,,,2025,,346738.0,3143187.0
+Türkiye,Southern Marmara rural minus urban,Duration,4.966172332995951,,,2025,,346738.0,3143187.0
+Türkiye,Eastern Mediterranean rural minus urban,Total,74.5903962445912,,,2025,,280242.0,3900804.0
+Türkiye,Eastern Mediterranean rural minus urban,Frequency,62.198140372271936,,,2025,,280242.0,3900804.0
+Türkiye,Eastern Mediterranean rural minus urban,Duration,12.392255872319277,,,2025,,280242.0,3900804.0
